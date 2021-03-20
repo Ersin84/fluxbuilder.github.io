@@ -1,0 +1,161 @@
+{
+  "HorizonLayout": [
+    {
+      "text": "Search for a product",
+      "height": 79.0,
+      "padding": 20.0,
+      "shadow": 14.0,
+      "radius": 10.0,
+      "layout": "header_search"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "items": [
+        {
+          "image": "https://mstore.io/wp-content/uploads/2019/04/Preview_9.jpg",
+          "padding": 15.0,
+          "category": 56
+        },
+        {
+          "image": "https://mstore.io/wp-content/uploads/2019/04/Preview_16.jpg",
+          "padding": 15.0,
+          "category": 44
+        },
+        {
+          "image": "https://mstore.io/wp-content/uploads/2019/04/Preview_6.jpg",
+          "padding": 15.0,
+          "category": 34
+        }
+      ],
+      "autoPlay": false,
+      "design": "default",
+      "radius": 10.0
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.2,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": 58,
+          "image": "https://i.imgur.com/NumakOl.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 35,
+          "image": "https://i.imgur.com/zX5dkDf.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 29,
+          "image": "https://i.imgur.com/NXpszFS.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 34,
+          "image": "https://i.imgur.com/UtkqbLq.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 37,
+          "image": "https://i.imgur.com/yNFIZvi.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 28,
+          "image": "https://i.imgur.com/PDMl0gd.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        }
+      ],
+      "line": false
+    },
+    {
+      "name": "Camera Life",
+      "layout": "twoColumn",
+      "isSnapping": true,
+      "category": 32
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "vendors",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 500
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

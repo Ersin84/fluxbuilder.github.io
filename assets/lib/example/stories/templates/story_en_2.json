@@ -1,0 +1,117 @@
+{
+    "layout": 2,
+    "urlImage": "https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "contents": [
+        {
+            "title": "5",
+            "paddingContent": {
+                "top": 0.3,
+                "bottom": null,
+                "left": null,
+                "right": null
+            },
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Oswald",
+                "fontSize": 25.0,
+                "fontStyle": "normal",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        },
+        {
+            "title": "Best Places to visit in Switzerland",
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Oswald",
+                "fontSize": 35.0,
+                "fontStyle": "normal",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        },
+        {
+            "title": "Updated August 2019",
+            "paddingContent": {
+                "top": 0.1,
+                "bottom": null,
+                "left": null,
+                "right": null
+            },
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Roboto",
+                "fontSize": 12.0,
+                "fontStyle": "normal",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        }
+    ]
+}

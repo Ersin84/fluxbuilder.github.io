@@ -1,0 +1,448 @@
+[
+    {
+        "id": 30,
+        "count": 3,
+        "description": "Browse our collection of family favourite meals for deliciously simple and crowd-pleasing recipes to get supper on the table in a jiffy. Find easy cheesecake recipes to make a show-stopping end to any dinner.",
+        "link": "https://news.inspireui.com/category/deserts/",
+        "name": "Deserts",
+        "slug": "deserts",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/30"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=30"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "count": 6,
+        "description": "We all know that what we eat and drink affects our health, but this is almost too simplistic in today's society to be practical",
+        "link": "https://news.inspireui.com/category/drink/",
+        "name": "Drinks",
+        "slug": "drink",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/41"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=41"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "count": 1,
+        "description": "We all know that what we eat and drink affects our health, but this is almost too simplistic in today’s society to be practical",
+        "link": "https://news.inspireui.com/category/pasta/foods/",
+        "name": "Foods",
+        "slug": "foods",
+        "taxonomy": "category",
+        "parent": 31,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/45"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/31"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=45"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "count": 4,
+        "description": "",
+        "link": "https://news.inspireui.com/category/health-care/",
+        "name": "Health Care",
+        "slug": "health-care",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=40"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "count": 4,
+        "description": "",
+        "link": "https://news.inspireui.com/category/kids-menu/",
+        "name": "Kids Menu",
+        "slug": "kids-menu",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=37"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "count": 6,
+        "description": "",
+        "link": "https://news.inspireui.com/category/pasta/",
+        "name": "Pasta",
+        "slug": "pasta",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/31"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=31"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "count": 5,
+        "description": "From festivals in Florida to touring Dracula’s digs in Romania, we round up the best destinations to visit this October. As summer abandons Europe again this October, eke out the last of the rays and raves in Ibiza, where nightclubs will be going out with a bang for the winter break. When the party finally stops head to the island’s north.",
+        "link": "https://news.inspireui.com/category/quick-recipes/",
+        "name": "Quick Recipes",
+        "slug": "quick-recipes",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/36"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=36"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "count": 8,
+        "description": "Browse our collection of family favourite meals for deliciously simple and crowd-pleasing recipes to get supper on the table in a jiffy. Find easy cheesecake recipes to make a show-stopping end to any dinner.",
+        "link": "https://news.inspireui.com/category/salads/",
+        "name": "Salads",
+        "slug": "salads",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/32"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=32"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "count": 12,
+        "description": "Find easy smoothies for your daily healthy and full of energy.",
+        "link": "https://news.inspireui.com/category/smoothies/",
+        "name": "Smoothies",
+        "slug": "smoothies",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=33"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 1,
+        "count": 0,
+        "description": "",
+        "link": "https://news.inspireui.com/category/uncategorized/",
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=1"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "count": 10,
+        "description": "Super huge collections of video for your health and fitness ",
+        "link": "https://news.inspireui.com/category/video/",
+        "name": "Video",
+        "slug": "video",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories/34"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://news.inspireui.com/wp-json/wp/v2/posts?categories=34"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

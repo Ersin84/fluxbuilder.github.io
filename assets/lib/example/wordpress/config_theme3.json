@@ -1,0 +1,59 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "hideLogo": true
+    },
+
+    {
+      "name": "Community Sharing",
+      "image": "",
+      "layout": "staggered",
+      "category": 31,
+      "imageBorder": 20.0
+    },
+
+    {
+      "name": "Delicious Dishes",
+      "image": "",
+      "layout": "fourColumn",
+      "category": 31,
+      "imageBorder": 20.0
+    },
+    {
+      "layout" : "sliderList",
+      "type" :"imageOnTheRight",
+      "name": "Good For Health",
+      "category": 31,
+      "imageBorder": 20.0
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "wishlist",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    }
+  ],
+  "SplashScreen": {
+    "type": "animated",
+    "data" : "https://media3.giphy.com/media/eJXZudWmMO6apAEWna/giphy.webp"
+  }
+}

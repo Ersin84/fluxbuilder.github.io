@@ -1,0 +1,148 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Color Icons Demo",
+      "isSafeArea": true,
+      "showSearch": false,
+      "padding": 20.0,
+      "height": 0.16,
+      "fontSize": 22.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 0.9,
+      "radius": 9.0,
+      "items": [
+        {
+          "category": "19",
+          "image": "assets/icons/categories/i_package.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/i_shopping.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": "30",
+          "image": "assets/icons/categories/i_snow.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": "22",
+          "image": "assets/icons/categories/i_truck.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/i-air.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": "208",
+          "image": "assets/icons/categories/i_instagram.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/i_download.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/i_briefcase.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        }
+      ],
+      "line": false,
+      "columns": 4
+    },
+    {
+      "name": "New Collections",
+      "layout": "staggered",
+      "limit": 20,
+      "category": 29
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 500
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

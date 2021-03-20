@@ -1,0 +1,154 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "header_text",
+            "fontSize": 22.0,
+            "title": "Our Biggest Hits",
+            "isSafeArea": true
+        },
+        {
+            "layout": "category",
+            "type": "icon",
+            "wrap": true,
+            "size": 1.2,
+            "radius": 50.0,
+            "items": [
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+                    "image": "assets/icons/categories/ic_home.png",
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+                    "image": "assets/icons/categories/ic_picture.png",
+                    "colors": [
+                        "#ff6b6b"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+                    "image": "assets/icons/categories/ic_glasses.png",
+                    "colors": [
+                        "#0abde3"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+                    "image": "assets/icons/categories/ic_couch.png",
+                    "colors": [
+                        "#ee5253"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+                    "image": "assets/icons/categories/ic_flower.png",
+                    "colors": [
+                        "#ff9f43"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+                    "image": "assets/icons/categories/ic_ballon.png",
+                    "colors": [
+                        "#01a3a4"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+                    "image": "assets/icons/categories/ic_broom.png",
+                    "colors": [
+                        "#341f97"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                },
+                {
+                    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+                    "image": "assets/icons/categories/ic_clock.png",
+                    "colors": [
+                        "#222f3e"
+                    ],
+                    "originalColor": false,
+                    "showText": false
+                }
+            ],
+            "line": false,
+            "columns": 4
+        },
+        {
+            "name": "New Collections",
+            "layout": "staggered",
+            "isSnapping": false,
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ=="
+        }
+    ],
+    "Setting": {
+        "MainColor": "#3FC1BE",
+        "ProductListLayout": "list",
+        "StickyHeader": false,
+        "ProductDetail": "simpleType"
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "assets/icons/tabs/icon-home.png",
+            "pos": 100
+        },
+        {
+            "layout": "category",
+            "categoryLayout": "card",
+            "icon": "assets/icons/tabs/icon-category.png",
+            "pos": 200
+        },
+        {
+            "layout": "search",
+            "icon": "assets/icons/tabs/icon-search.png",
+            "pos": 300
+        },
+        {
+            "layout": "cart",
+            "icon": "assets/icons/tabs/icon-cart2.png",
+            "pos": 400
+        },
+        {
+            "layout": "profile",
+            "icon": "assets/icons/tabs/icon-user.png",
+            "pos": 500
+        }
+    ],
+    "Drawer": {
+        "logo": "assets/images/logo.png",
+        "items": [
+            {
+                "type": "home",
+                "show": true
+            },
+            {
+                "type": "blog",
+                "show": true
+            },
+            {
+                "type": "login",
+                "show": true
+            },
+            {
+                "type": "category",
+                "show": true
+            }
+        ]
+    }
+}

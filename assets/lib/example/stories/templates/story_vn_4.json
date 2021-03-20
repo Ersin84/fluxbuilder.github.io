@@ -1,0 +1,84 @@
+{
+    "layout": 4,
+    "urlImage": "https://firebasestorage.googleapis.com/v0/b/ampstor.appspot.com/o/images%2FOBBjxIsNP6gZib8d3rJVXWq0gAC3%2Fb3.jpeg?alt=media&token=46390320-6538-4932-a52f-18d952bf258b",
+    "contents": [
+        {
+            "title": "THE\n BAHAMAS",
+            "paddingContent": {
+                "top": 1.3,
+                "bottom": null,
+                "left": null,
+                "right": null
+            },
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Domine",
+                "fontSize": 55.0,
+                "fontStyle": "normal",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        },
+        {
+            "title": "A must visit tourist attractions for 2020, as written by Ampstor editors.",
+            "paddingContent": {
+                "top": 0.1,
+                "bottom": null,
+                "left": null,
+                "right": null
+            },
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Grenze",
+                "fontSize": 25.0,
+                "fontStyle": "normal",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        }
+    ]
+}

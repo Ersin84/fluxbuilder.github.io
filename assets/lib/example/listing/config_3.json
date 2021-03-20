@@ -1,0 +1,154 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "center": true,
+      "fontSize": 23.0,
+      "height": 0.3,
+      "title": "Welcome to FluxListing!",
+      "type": "static"
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.1,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "assets/icons/categories/ic_home.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/ic_picture.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 34,
+          "image": "assets/icons/categories/ic_broom.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 37,
+          "image": "assets/icons/categories/ic_couch.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 35,
+          "image": "assets/icons/categories/ic_flower.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 33,
+          "image": "assets/icons/categories/ic_ballon.png",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        }
+      ],
+      "line": false
+    },
+    {
+      "layout": "bannerMap",
+      "title": "What can we help you find?",
+      "height": 150.0,
+      "paddingHoz": 15.0,
+      "paddingVer": 20.0,
+      "zoom": 14.0,
+      "radius": 15.0
+    },
+    {
+      "name": "Most Visited Places",
+      "layout": "threeColumn",
+      "category": 29
+    },
+    {
+      "name": "Eat and Drink",
+      "layout": "threeColumn",
+      "category": 19
+    },
+    {
+      "name": "Services",
+      "layout": "threeColumn",
+      "category": 33
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 400
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "Background": {
+    "scroll": true,
+    "height": 0.3,
+    "image": "https://trello-attachments.s3.amazonaws.com/5f9a6ec7d81f5d0c79662b61/1200x931/5444fa3f1c4a0b496b1bc48189d3b45b/assets_images_categories_travel10.jpg"
+  }
+}

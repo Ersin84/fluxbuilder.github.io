@@ -1,0 +1,726 @@
+[
+    {
+        "id": 38,
+        "name": "3d Glass",
+        "slug": "3d-glass",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 5,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/38"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "name": "Accessories",
+        "slug": "accessories",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/64"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "name": "Bluetooth",
+        "slug": "bluetooth",
+        "parent": 41,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/43"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/41"
+                }
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "name": "Camera",
+        "slug": "camera",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 16,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/32"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "name": "Computer Accessories",
+        "slug": "computer-accessories",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/50"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "name": "Drone",
+        "slug": "drone",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 14,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/34"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "name": "Featured Product",
+        "slug": "featured-product",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/56"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "name": "Fruits",
+        "slug": "fruits",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 11,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/58"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "name": "Future Product",
+        "slug": "future-product",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/59"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "name": "Gamepad",
+        "slug": "gamepad",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 16,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "name": "Gaming Accessories",
+        "slug": "gaming-accessories",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/48"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "name": "Google Glass",
+        "slug": "google-glass",
+        "parent": 38,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 3148,
+            "date_created": "2020-11-16T16:29:15",
+            "date_created_gmt": "2020-11-16T09:29:15",
+            "date_modified": "2020-11-16T16:29:15",
+            "date_modified_gmt": "2020-11-16T09:29:15",
+            "src": "https://wclovers.mstore.io/wp-content/uploads/2020/11/930577-200.png",
+            "title": "930577-200",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/44"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/38"
+                }
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "name": "Headphone",
+        "slug": "headphone",
+        "parent": 45,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 16,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/31"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/45"
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Laptop",
+        "slug": "laptop",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 15,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/28"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "name": "LED Television",
+        "slug": "led-television",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/30"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "name": "Light",
+        "slug": "light",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "name": "Mens Clothing",
+        "slug": "mens-clothing",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 8,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/62"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "name": "Minimal Furniture",
+        "slug": "minimal-furniture",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/61"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "name": "Minimal Product",
+        "slug": "minimal-product",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/60"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Mobile",
+        "slug": "mobile",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 22,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/29"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "name": "Mobile Accessories",
+        "slug": "mobile-accessories",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 5,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/49"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "name": "Portable",
+        "slug": "portable",
+        "parent": 41,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/41"
+                }
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "name": "Projector",
+        "slug": "projector",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/39"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "name": "Samsung TV",
+        "slug": "samsung-tv",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "name": "Speaker",
+        "slug": "speaker",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 25,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/41"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/15"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 6,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/57"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "name": "Watch",
+        "slug": "watch",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 6,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/36"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "name": "Wireless",
+        "slug": "wireless",
+        "parent": 41,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 17,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/45"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/41"
+                }
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "name": "Women Clothing",
+        "slug": "women-clothing",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories/63"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://wclovers.mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "id": 64,
+        "count": 2,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/apartments/",
+        "name": "Apartments",
+        "slug": "apartments",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/64"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=64"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "count": 4,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/cafe/",
+        "name": "Cafe",
+        "slug": "cafe",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": [
+            "air-conditioning",
+            "alcohol",
+            "cardio-machines",
+            "dumbbells",
+            "elevator-in-building",
+            "free-parking",
+            "friendly-workspace",
+            "instant-book",
+            "personal-training"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/19"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=19"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "count": 0,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/cleaning/",
+        "name": "Cleaning",
+        "slug": "cleaning",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": [
+            "free-parking",
+            "friendly-workspace",
+            "pet-friendly",
+            "wireless-internet"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/60"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=60"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/eat-drink/",
+        "name": "Eat &amp; Drink",
+        "slug": "eat-drink",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/63"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=63"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/events/",
+        "name": "Events",
+        "slug": "events",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/66"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=66"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/fitness/",
+        "name": "Fitness",
+        "slug": "fitness",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/68"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=68"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "count": 2,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/french/",
+        "name": "French",
+        "slug": "french",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=37"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/japanese/",
+        "name": "Japanese",
+        "slug": "japanese",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=33"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/other/",
+        "name": "Other",
+        "slug": "other",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/67"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=67"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/seafood/",
+        "name": "Seafood",
+        "slug": "seafood",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/29"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=29"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/services/",
+        "name": "Services",
+        "slug": "services",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/65"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=65"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "count": 2,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/steakhouse/",
+        "name": "Steakhouse",
+        "slug": "steakhouse",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=35"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/vietnamese/",
+        "name": "Vietnamese",
+        "slug": "vietnamese",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/34"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=34"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
