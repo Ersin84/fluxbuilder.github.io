@@ -1,0 +1,151 @@
+{
+  "HorizonLayout": [
+      {
+          "title": "Our Biggest Hits",
+          "showSearch": true,
+          "hideHeader": false,
+          "fontWeight": "400",
+          "height": 56.0,
+          "fontSize": 20.0,
+          "textOpacity": 1.0,
+          "marginLeft": 21.0,
+          "marginRight": 0.0,
+          "marginTop": 0.0,
+          "marginBottom": 0.0,
+          "layout": "header_text"
+      },
+      {
+          "layout": "bannerImage",
+          "isSlider": true,
+          "autoPlay": false,
+          "design": "tinder",
+          "items": [
+              {
+                  "image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png",
+                  "padding": 5.0,
+                  "category": 208
+              },
+              {
+                  "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png",
+                  "padding": 5.0,
+                  "category": 208
+              },
+              {
+                  "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png",
+                  "padding": 5.0,
+                  "category": 23
+              },
+              {
+                  "image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png",
+                  "padding": 5.0,
+                  "category": 208
+              }
+          ],
+          "radius": 20.0
+      },
+      {
+          "title": "",
+          "isSafeArea": true,
+          "showSearch": false,
+          "hideHeader": false,
+          "height": 100.0,
+          "padding": 20.0,
+          "fontSize": 20.0,
+          "layout": "header_text"
+      },
+      {
+          "layout": "category",
+          "type": "image",
+          "wrap": false,
+          "size": 0.1,
+          "radius": 0.0,
+          "items": [
+              {
+                  "category": 28,
+                  "image": "https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg",
+                  "colors": [
+                      "#333333"
+                  ],
+                  "originalColor": true,
+                  "showText": false
+              },
+              {
+                  "category": 23,
+                  "image": "https://user-images.githubusercontent.com/1459805/62834036-29324f00-bc71-11e9-9262-af0b8ceeba87.jpg",
+                  "colors": [
+                      "#333333"
+                  ],
+                  "originalColor": true,
+                  "showText": false
+              }
+          ],
+          "line": false
+      }
+  ],
+  "Setting": {
+      "MainColor": "#3FC1BE",
+      "ProductListLayout": "list",
+      "StickyHeader": true,
+      "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+      {
+          "layout": "home",
+          "icon": "assets/icons/tabs/icon-home.png",
+          "pos": 100,
+          "key": "evahsxgzca"
+      },
+      {
+          "layout": "category",
+          "categoryLayout": "card",
+          "icon": "assets/icons/tabs/icon-category.png",
+          "pos": 200,
+          "key": "ajbihgswk4"
+      },
+      {
+          "layout": "search",
+          "icon": "assets/icons/tabs/icon-search.png",
+          "pos": 300,
+          "key": "luqb9g3kgh"
+      },
+      {
+          "layout": "cart",
+          "icon": "assets/icons/tabs/icon-cart2.png",
+          "pos": 400,
+          "key": "cc1npukq42"
+      },
+      {
+          "layout": "profile",
+          "icon": "assets/icons/tabs/icon-user.png",
+          "pos": 500,
+          "key": "1os5huto20"
+      }
+  ],
+  "Drawer": {
+      "logo": "assets/images/logo.png",
+      "items": [
+          {
+              "type": "home",
+              "show": true
+          },
+          {
+              "type": "blog",
+              "show": true
+          },
+          {
+              "type": "login",
+              "show": true
+          },
+          {
+              "type": "category",
+              "show": true
+          }
+      ]
+  },
+  "VerticalLayout": {
+      "layout": "pinterest",
+      "name": "Our Products",
+      "isVertical": true,
+      "key": "4w0ftp6dzs"
+  }
+}

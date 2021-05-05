@@ -1,0 +1,125 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Shop by Categories",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "700",
+      "height": 55.0,
+      "fontSize": 22.0,
+      "textOpacity": 1.0,
+      "marginLeft": 24.0,
+      "marginRight": 0.0,
+      "marginTop": 10.0,
+      "marginBottom": 0.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 0.0,
+      "items": [
+        {
+          "image": "assets/images/hci_restaurant.jpg",
+          "name": "Restaurants",
+          "description": "Top-rated eats"
+        },
+        {
+          "image": "assets/images/hci_adventures.jpg",
+          "name": "Adventures",
+          "description": "Multi-day trips"
+        },
+        {
+          "category": 211
+        },
+        {
+          "category": 208
+        },
+        {
+          "category": "208"
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "paddingX": 4.0,
+      "paddingY": 8.0,
+      "marginX": 4.0,
+      "marginY": 8.0,
+      "itemSize": {
+        "width": 428.1614947518792,
+        "height": 115.14334487249862
+      }
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100,
+      "key": "vzlliemgvl"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200,
+      "key": "ec48ur6a9o"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300,
+      "key": "5kqnudd1p7"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400,
+      "key": "imv2y09ka9"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 500,
+      "key": "7biys52ewl"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Recent Collections",
+    "isVertical": true,
+    "key": "t61aumqmh8"
+  }
+}

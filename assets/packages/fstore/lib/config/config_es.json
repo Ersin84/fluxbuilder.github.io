@@ -132,6 +132,7 @@
   ],
   "Setting": {
     "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
     "ProductListLayout": "list",
     "StickyHeader": false,
     "ShowChat": true

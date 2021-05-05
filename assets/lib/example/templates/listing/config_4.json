@@ -1,0 +1,180 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "showMenu": true,
+            "showSearch": false,
+            "showLogo": false,
+            "name": "sakura"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/8rwKS6y.jpg",
+                    "padding": 0.0,
+                    "category": null,
+                    "radius": 0.0
+                },
+                {
+                    "image": "https://i.imgur.com/VVbXeVS.jpeg",
+                    "padding": 0.0,
+                    "category": null
+                }
+            ],
+            "autoPlay": true,
+            "design": "default",
+            "radius": 10.0
+        },
+        {
+            "layout": "header_search",
+            "radius": 6.0,
+            "text": "Search for a product"
+        },
+        {
+            "title": "What's new this week",
+            "isSafeArea": true,
+            "showSearch": false,
+            "hideHeader": false,
+            "padding": 20.0,
+            "height": 20.0,
+            "fontSize": 16.0,
+            "layout": "header_text"
+        },
+        {
+            "height": 0.35,
+            "layout": "bannerImage",
+            "isSlider": false,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/7BAElCJ.jpeg",
+                    "padding": 1.8,
+                    "category": null,
+                    "radius": 0.0
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": false,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/clBa7Q8.jpg",
+                    "padding": 1.2,
+                    "category": null,
+                    "radius": 0.0
+                },
+                {
+                    "image": "https://i.imgur.com/3hAASz7.jpg",
+                    "padding": 1.2,
+                    "category": null,
+                    "radius": 0.0
+                }
+            ]
+        },
+        {
+            "title": "People said",
+            "isSafeArea": true,
+            "showSearch": false,
+            "hideHeader": false,
+            "padding": 20.0,
+            "height": 25.0,
+            "fontSize": 16.0,
+            "layout": "header_text"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/aU17QLn.jpg",
+                    "padding": 0.0,
+                    "category": null
+                },
+                {
+                    "image": "https://i.imgur.com/fKWhd7j.jpg",
+                    "padding": 0.0,
+                    "category": null
+                },
+                {
+                    "image": "https://i.imgur.com/QAH11e3.jpg",
+                    "padding": 0.0,
+                    "category": null
+                },
+                {
+                    "image": "https://i.imgur.com/tNOjcUO.jpg",
+                    "padding": 0.0,
+                    "category": null
+                }
+            ],
+            "autoPlay": false,
+            "design": "swiper",
+            "radius": 10.0
+        }
+    ],
+    "Setting": {
+        "MainColor": "#7E57C2",
+        "ProductListLayout": "list",
+        "StickyHeader": true,
+        "ProductDetail": "simpleType"
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "assets/icons/tabs/icon-home.png",
+            "pos": 100,
+            "showChat": false
+        },
+        {
+            "layout": "category",
+            "categoryLayout": "card",
+            "icon": "assets/icons/tabs/icon-category.png",
+            "pos": 200,
+            "categories": [
+                "33",
+                "64",
+                "19",
+                "66",
+                "65"
+            ]
+        },
+        {
+            "layout": "search",
+            "icon": "assets/icons/tabs/icon-search.png",
+            "pos": 300
+        },
+        {
+            "layout": "profile",
+            "icon": "assets/icons/tabs/icon-user.png",
+            "pos": 400
+        }
+    ],
+    "Drawer": {
+        "logo": "assets/images/logo.png",
+        "items": [
+            {
+                "type": "home",
+                "show": true
+            },
+            {
+                "type": "blog",
+                "show": true
+            },
+            {
+                "type": "login",
+                "show": true
+            },
+            {
+                "type": "category",
+                "show": true
+            }
+        ]
+    },
+    "VerticalLayout": {
+        "key": "z485qwcytl",
+        "layout": "list",
+        "name": "Popular Places",
+        "category": 33
+    }
+}

@@ -1,0 +1,169 @@
+{
+  "HorizonLayout": [
+    {
+      "title": " ",
+      "isSafeArea": true,
+      "showSearch": false,
+      "hideHeader": false,
+      "padding": 20.0,
+      "height": 50.0,
+      "fontSize": 30.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false
+    },
+    {
+      "isSafeArea": true,
+      "showSearch": true,
+      "rotate": [
+        "FluxStore Magento",
+        "FluxStore OpenCart",
+        "FluxStore Woocommerce"
+      ],
+      "type": "typer",
+      "height": 50,
+      "padding": 20.0,
+      "fontSize": 30.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 9.0,
+      "items": [
+        {
+          "category": 22,
+          "image": "assets/icons/categories/i_package.png",
+          "colors": [
+            "#2B2F3E",
+            "#333333"
+          ],
+          "originalColor": false,
+          "showText": true
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/i_shopping.png",
+          "colors": [
+            "#2B2F3E",
+            "#333333"
+          ],
+          "originalColor": false,
+          "showText": true
+        },
+        {
+          "category": 27,
+          "image": "assets/icons/categories/i_snow.png",
+          "colors": [
+            "#2B2F3E",
+            "#333333"
+          ],
+          "originalColor": false,
+          "showText": true
+        },
+        {
+          "category": 30,
+          "image": "assets/icons/categories/i_truck.png",
+          "colors": [
+            "#2B2F3E",
+            "#333333"
+          ],
+          "originalColor": false,
+          "showText": true
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/i-air.png",
+          "colors": [
+            "#2B2F3E",
+            "#333333"
+          ],
+          "originalColor": false,
+          "showText": true
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/i_instagram.png",
+          "colors": [
+            "#2B2F3E",
+            "#333333"
+          ],
+          "originalColor": false,
+          "showText": true
+        }
+      ],
+      "line": false,
+      "columns": 4
+    },
+    {
+      "name": "Our Blog Posts",
+      "layout": "blog"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": false
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 500
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "Background": {
+    "color": "#FFC008",
+    "image": null,
+    "height": 0.25,
+    "type": null
+  }
+}

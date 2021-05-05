@@ -1,0 +1,179 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": false,
+      "name": "AQUA Spa"
+    },
+    {
+      "title": "  ",
+      "isSafeArea": true,
+      "showSearch": false,
+      "hideHeader": false,
+      "padding": 20.0,
+      "height": 25.0,
+      "fontSize": 20.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "items": [
+        {
+          "image": "https://i.imgur.com/47yjtag.jpg",
+          "padding": 15.0,
+          "category": 35
+        },
+        {
+          "image": "https://i.imgur.com/MaqR3xA.jpg",
+          "padding": 15.0,
+          "product": ""
+        },
+        {
+          "image": "https://i.imgur.com/SXNafwd.jpeg",
+          "padding": 15.0,
+          "product": ""
+        }
+      ],
+      "autoPlay": true,
+      "design": "stack",
+      "radius": 10.0
+    },
+    {
+      "title": "Spa Highlights ",
+      "isSafeArea": true,
+      "showSearch": false,
+      "hideHeader": false,
+      "padding": 20.0,
+      "height": 25.0,
+      "fontSize": 20.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items": [
+        {
+          "image": "https://i.imgur.com/tUs0Qyg.jpg",
+          "padding": 10.8,
+          "category": 35,
+          "radius": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 0.1,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://i.imgur.com/m5Aj2mE.jpeg",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 35,
+          "image": "https://i.imgur.com/4SCOxFf.jpg",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "category": 35,
+          "image": "https://i.imgur.com/vDT4ov0.jpg",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": false
+        }
+      ],
+      "line": false
+    },
+    {
+      "name": "Choose a service",
+      "layout": "listTile",
+      "category": "35"
+    },
+    {
+      "name": "You may love ",
+      "layout": "listTile",
+      "category": "29"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200,
+      "categories": [
+        "64",
+        "19",
+        "37",
+        "33",
+        "29",
+        "35",
+        "34"
+      ]
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 400
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "Background": {
+    "color": null,
+    "image": "https://i.imgur.com/jVntIRL.jpg",
+    "height": 0.4,
+    "type": null
+  }
+}
