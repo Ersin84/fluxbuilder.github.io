@@ -1,21 +1,21 @@
 {
-    "name": "Flutter Gallery",
-    "short_name": "Flutter Gallery",
+    "name": "fluxbuilder",
+    "short_name": "fluxbuilder",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#030303",
-    "theme_color": "#030303",
-    "description": "A resource to help developers evaluate and use Flutter.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "FluxBuilder App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "favicon/apple-icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "favicon/apple-icon-152x152.png",
             "sizes": "512x512",
             "type": "image/png"
         }

@@ -24,7 +24,7 @@
         },
         {
           "category": 24,
-          "image": "assets/icons/categories/ic_dress.png",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
           "colors": [
             "#3E6AB5",
             "#3E6AB5"
@@ -32,7 +32,7 @@
         },
         {
           "category": 25,
-          "image": "assets/icons/categories/ic_shorts.png",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
           "colors": [
             "#53A2CC",
             "#53A2CC"
@@ -40,7 +40,8 @@
         },
         {
           "category": 28,
-          "image": "assets/icons/categories/ic_glasses.png",
+          "label": "Shoes",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
           "colors": [
             "#53688A",
             "#53688A"
@@ -48,7 +49,7 @@
         },
         {
           "category": 29,
-          "image": "assets/icons/categories/ic_tie.png",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
           "colors": [
             "#43506A",
             "#43506A"
@@ -56,7 +57,7 @@
         },
         {
           "category": 30,
-          "image": "assets/icons/categories/ic_panties.png",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
           "colors": [
             "#12B58C",
             "#12B58C"
@@ -90,9 +91,9 @@
         }
       ]
     },
+    {"layout": "brand", "name": "Top Brand Choices", "isBrandNameShown": true , "isLogoCornerRounded":  true},
     {
       "name": "Happy Flash Sale 🎁",
-      "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
       "layout": "saleOff",
       "category": 22,
       "isSnapping": true
@@ -101,11 +102,11 @@
       "name": "Man Collections",
       "image": "",
       "layout": "twoColumn",
-      "category": 21,
-      "isSnapping": true
+      "category": 21
     },
     {
       "layout": "bannerImage",
+      "height": 0.2,
       "items": [
         {
           "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
@@ -132,12 +133,12 @@
   ],
   "VerticalLayout": {
     "layout": "pinterest",
-    "name": "Bộ sưu tập gần ",
+    "name": "Recent Products ",
     "image": ""
   },
   "Setting": {
     "MainColor": "#3FC1BE",
-    "FontFamily": "Roboto",
+    "FontFamily": "Raleway",
     "ProductListLayout": "list",
     "StickyHeader": false,
     "ShowChat": true
@@ -168,10 +169,10 @@
   ],
   "searchSuggestion": [
     "Here are some suggestions:",
-    "man",
-    "woman",
-    "dress",
-    "Stitch"
+    "Print",
+    "T-Shirt",
+    "Jersey",
+    "Hoodie"
   ],
   "OnBoarding": {
     "data": [

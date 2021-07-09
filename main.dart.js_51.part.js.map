@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_51.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../core_builder/lib/common/utils/asset_utils.dart","org-dartlang-sdk:///lib/convert/json.dart"],
+  "names": ["AssetUtils.loadDefaultTemplate","jsonDecode"],
+  "mappings": "A;;IA6DuCA,YAGnCA;mBAHmCA,cAGnCA;4BACIA,mBAA6BA;;AAK7BA;WAAwBA,oBAAxBA;;AAEJA;AACAA;ACsBAA;ADrBAA;;OACFA;AAXEA,wBAWFA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "mhBA0EWCmB;"
+  }
+}
