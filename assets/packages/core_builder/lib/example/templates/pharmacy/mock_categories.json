@@ -1,0 +1,194 @@
+[
+    {
+        "id": 23,
+        "name": "COVID",
+        "slug": "covid",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Medicine",
+        "slug": "medicine",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Medical Equipment",
+        "slug": "medicalequipment",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "Hearing Aids",
+        "slug": "hearingaids",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Dental",
+        "slug": "dental",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Wound Care & Dressing",
+        "slug": "hearingaids",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    }
+]

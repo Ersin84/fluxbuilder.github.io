@@ -1,0 +1,117 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "items": [
+        {
+          "image": "https://i.imgur.com/3hD9Biy.jpg",
+          "padding": 15.0,
+          "category": 48
+        },
+        {
+          "image": "https://i.imgur.com/lylsNnW.jpeg",
+          "padding": 15.0,
+          "category": 37
+        },
+        {
+          "image": "https://i.imgur.com/ITY9Rae.jpg",
+          "padding": 15.0,
+          "category": 48
+        }
+      ],
+      "autoPlay": false,
+      "design": "default",
+      "radius": 15.0
+    },
+    {
+      "layout": "header_search",
+      "text": "Search for a product"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items": [
+        {
+          "image": "https://i.imgur.com/i1B7UAR.jpeg",
+          "padding": 5.0,
+          "category": null,
+          "radius": 15.0
+        },
+        {
+          "image": "https://i.imgur.com/LUXtjGt.jpg",
+          "padding": 5.0,
+          "category": null,
+          "radius": 15.0
+        }
+      ]
+    },
+    {
+      "name": "Latest Products",
+      "layout": "twoColumn",
+      "isSnapping": true,
+      "category": 37
+    },
+    {
+      "name": "Trending",
+      "layout": "staggered",
+      "isSnapping": true,
+      "category": 37
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "vendors",
+      "categoryLayout": "sideMenu",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 500
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

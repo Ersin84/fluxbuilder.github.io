@@ -1,0 +1,248 @@
+{
+  "HorizonLayout": [
+    {
+      "showLogo": false,
+      "showMenu": true,
+      "showSearch": true,
+      "showCart": true,
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "equal"
+      },
+      "layout": "logo"
+    },
+    {
+      "layout": "header_text",
+      "hideHeader": false,
+      "fontWeight": "400",
+      "marginBottom": 0,
+      "marginLeft": 16,
+      "textOpacity": 1,
+      "fontSize": 18,
+      "height": 50,
+      "showSearch": false,
+      "marginRight": 16,
+      "marginTop": 16,
+      "title": "Top brands",
+      "textColor": null
+    },
+    {
+      "paddingX": 2,
+      "wrap": false,
+      "marginX": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginRight": 16,
+      "radius": 16,
+      "layout": "category",
+      "marginY": 0,
+      "marginLeft": 16,
+      "type": "icon",
+      "line": false,
+      "hideTitle": false,
+      "paddingY": 0,
+      "size": 1.2,
+      "items": [
+        {
+          "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119cec24047fe4c5b6a5fdc/download/image.png",
+          "description": "",
+          "keepDefaultTitle": true,
+          "category": null,
+          "colors": [
+            "#ffb3e5fc"
+          ],
+          "title": "Logitech",
+          "originalColor": true
+        },
+        {
+          "description": "",
+          "originalColor": true,
+          "colors": [
+            "#ffbdbdbd"
+          ],
+          "title": "Apple",
+          "keepDefaultTitle": true,
+          "category": "6",
+          "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119cef69d31d58e58a3a241/download/image.png"
+        },
+        {
+          "originalColor": true,
+          "colors": [
+            "#ffffccbc"
+          ],
+          "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119db77a95d432b977b40ea/download/image.png",
+          "title": "Xiaomi",
+          "category": "5",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "colors": [
+            "#ffffccbc",
+            "#ffdcedc8",
+            "#ffb3e5fc",
+            "#ffffecb3"
+          ],
+          "category": "6",
+          "title": "Microsoft",
+          "keepDefaultTitle": true,
+          "description": "",
+          "originalColor": true,
+          "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119dc1fde73ec3569ce846b/download/image.png"
+        },
+        {
+          "category": "5",
+          "originalColor": true,
+          "title": "Razor",
+          "description": "",
+          "colors": [
+            "#ffc8e6c9"
+          ],
+          "keepDefaultTitle": true,
+          "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119cf7155d04c88e28bd570/download/image.png"
+        }
+      ]
+    },
+    {
+      "name": "Popular Now",
+      "isSnapping": false,
+      "category": null,
+      "layout": "largeCard"
+    },
+    {
+      "name": "Recently viewed",
+      "layout": "recentView",
+      "isSnapping": false
+    }
+  ],
+  "Setting": {
+    "FontHeader": "Source Sans Pro",
+    "TabBarConfig": {
+      "boxShadow": {
+        "blurRadius": 10,
+        "x": 0,
+        "colorOpacity": 0,
+        "spreadRadius": 10,
+        "y": 0
+      },
+      "marginLeft": 0,
+      "paddingRight": 0,
+      "radiusBottomLeft": 24,
+      "showFloatingClip": true,
+      "marginTop": 0,
+      "paddingLeft": 0,
+      "marginBottom": 0,
+      "colorCart": "fff44336",
+      "color": "ffffffff",
+      "isSafeArea": false,
+      "TabBarFloating": {
+        "color": null,
+        "location": "centerDocked",
+        "height": 56.00000000000001,
+        "radius": 23.921720559976492,
+        "width": 56.00000000000001,
+        "position": 2,
+        "floatingType": "rectangle",
+        "elevation": null
+      },
+      "radiusTopLeft": 24,
+      "marginRight": 0,
+      "iconSize": 23,
+      "colorActiveIcon": "ff212121",
+      "TabBarIndicator": {
+        "strokeWidth": 4,
+        "paintingStyle": "fill",
+        "height": 2,
+        "horizontalPadding": 15,
+        "distanceFromCenter": null,
+        "bottomLeftRadius": 16,
+        "topRightRadius": 16,
+        "topLeftRadius": 16,
+        "verticalPadding": 34.18481504894208,
+        "bottomRightRadius": 16,
+        "tabPosition": "bottom",
+        "color": "ff212121",
+        "radius": null
+      },
+      "showFloating": false,
+      "paddingTop": 16,
+      "paddingBottom": 16,
+      "indicatorStyle": "dot",
+      "radiusBottomRight": 24,
+      "colorIcon": "ffbdbdbd",
+      "radiusTopRight": 24
+    },
+    "ProductDetail": "simpleType",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "MainColor": "ff212121",
+    "FontFamily": "Source Sans Pro"
+  },
+  "TabBar": [
+    {
+      "label": null,
+      "layout": "home",
+      "icon": "house_alt_fill",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "x6m6tjynjw"
+    },
+    {
+      "fontFamily": "CupertinoIcons",
+      "layout": "wishlist",
+      "label": null,
+      "icon": "heart_solid",
+      "pos": 200,
+      "key": "x6m6tjynjw"
+    },
+    {
+      "categories": null,
+      "label": null,
+      "pos": 300,
+      "fontFamily": "CupertinoIcons",
+      "layout": "category",
+      "images": null,
+      "categoryLayout": "card",
+      "icon": "rectangle_grid_1x2_fill",
+      "key": "x6m6tjynjw"
+    },
+    {
+      "settings": null,
+      "label": null,
+      "pos": 400,
+      "layout": "profile",
+      "background": null,
+      "icon": "person_solid",
+      "fontFamily": "CupertinoIcons",
+      "key": "x6m6tjynjw"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "VerticalLayout": {
+    "layout": "list",
+    "isVertical": true,
+    "name": "Special for you",
+    "key": "x6m6tjynjw",
+    "page": 3
+  }
+}

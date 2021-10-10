@@ -1,0 +1,294 @@
+{
+    "HorizonLayout": [
+      {
+        "title": "Food Delivery",
+        "showSearch": true,
+        "hideHeader": false,
+        "isSafeArea": true,
+        "fontWeight": "500",
+        "height": 37.0,
+        "fontSize": 24.0,
+        "textOpacity": 1.0,
+        "marginLeft": 12.0,
+        "marginRight": 16.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      },
+      {
+        "title": "What do you like to find?",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 24.0,
+        "fontSize": 19.0,
+        "textOpacity": 1.0,
+        "marginLeft": 12.0,
+        "marginRight": 0.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": null
+      },
+      {
+        "title": "Categories",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 29.0,
+        "fontSize": 19.0,
+        "textOpacity": 1.0,
+        "marginLeft": 11.0,
+        "marginRight": 0.0,
+        "marginTop": 28.000000000000004,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      },
+      {
+        "layout": "category",
+        "type": "text",
+        "wrap": false,
+        "size": 1.2,
+        "radius": 10.0,
+        "items": [
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Sea Food",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Vegetables",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Fruits",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Meat",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Fish",
+            "description": "",
+            "keepDefaultTitle": true
+          }
+        ],
+        "line": false,
+        "marginLeft": 10.0,
+        "marginRight": 10.0,
+        "marginTop": 10.0,
+        "marginBottom": 10.0,
+        "paddingX": 5.0,
+        "paddingY": 9.0,
+        "marginX": 0.0,
+        "marginY": 0.0,
+        "hideTitle": false
+      },
+      {
+        "title": "Special Food",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "500",
+        "height": 26.0,
+        "fontSize": 18.0,
+        "textOpacity": 1.0,
+        "marginLeft": 12.0,
+        "marginRight": 0.0,
+        "marginTop": 16.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      },
+      {
+        "layout": "bannerImage",
+        "isSlider": true,
+        "marginTop": 7.000000000000001,
+        "marginBottom": 7.000000000000001,
+        "marginLeft": 8.0,
+        "marginRight": 8.0,
+        "height": 0.2,
+        "fit": "cover",
+        "items": [
+          {
+            "product": "123",
+            "padding": 0.0,
+            "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+          },
+          {
+            "padding": 0.0,
+            "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "product": "12"
+          },
+          {
+            "product": "14",
+            "padding": 0.0,
+            "image": "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80"
+          }
+        ],
+        "autoPlay": false,
+        "design": "stack",
+        "radius": 10.0,
+        "intervalTime": 3
+      },
+      {
+        "name": "Popular",
+        "layout": "simpleList",
+        "isSnapping": false,
+        "category": null
+      }
+    ],
+    "Setting": {
+      "FontFamily": "Actor",
+      "ProductDetail": "simpleType",
+      "ProductListLayout": "list",
+      "StickyHeader": false,
+      "TabBarConfig": {
+        "isSafeArea": true,
+        "color": null,
+        "colorCart": null,
+        "colorIcon": "ff7a7b7f",
+        "colorActiveIcon": "ffff672d",
+        "iconSize": 23.025228226675463,
+        "indicatorStyle": "material",
+        "showFloatingClip": true,
+        "showFloating": true,
+        "radiusTopLeft": 0.0,
+        "radiusTopRight": 0.0,
+        "radiusBottomLeft": 0.0,
+        "radiusBottomRight": 0.0,
+        "paddingLeft": 0.0,
+        "paddingRight": 0.0,
+        "paddingBottom": 0.0,
+        "paddingTop": 0.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "TabBarIndicator": {
+          "height": null,
+          "tabPosition": "bottom",
+          "topRightRadius": null,
+          "topLeftRadius": null,
+          "bottomRightRadius": null,
+          "bottomLeftRadius": null,
+          "color": "ffff612f",
+          "horizontalPadding": null,
+          "verticalPadding": null,
+          "strokeWidth": null,
+          "radius": null,
+          "distanceFromCenter": null,
+          "paintingStyle": "fill"
+        },
+        "TabBarFloating": {
+          "position": 2,
+          "radius": null,
+          "color": "ffff672d",
+          "location": "centerDocked",
+          "width": 60.0,
+          "height": 60.0,
+          "elevation": 4.658788126497604,
+          "floatingType": "diamond"
+        }
+      },
+      "MainColor": "ffff6400",
+      "FontHeader": "ABeeZee",
+      "ShowChat": true
+    },
+    "TabBar": [
+      {
+        "layout": "home",
+        "icon": "home",
+        "pos": 100,
+        "fontFamily": "CupertinoIcons",
+        "key": "kgg34np5w8"
+      },
+      {
+        "pos": 200,
+        "layout": "category",
+        "icon": "rectangle_grid_1x2",
+        "fontFamily": "CupertinoIcons",
+        "categoryLayout": "card",
+        "key": "58e602zf4q"
+      },
+      {
+        "icon": "search",
+        "layout": "search",
+        "fontFamily": "CupertinoIcons",
+        "pos": 300,
+        "size": 24,
+        "key": "mirygkblu5"
+      },
+      {
+        "pos": 400,
+        "icon": "bag",
+        "layout": "cart",
+        "categoryLayout": "cart",
+        "fontFamily": "CupertinoIcons",
+        "key": "bk7qevxtau"
+      },
+      {
+        "layout": "profile",
+        "fontFamily": "CupertinoIcons",
+        "pos": 500,
+        "icon": "person",
+        "key": "habd24ami6"
+      }
+    ],
+    "Drawer": {
+      "logo": "assets/images/logo.png",
+      "items": [
+        {
+          "show": true,
+          "type": "home"
+        },
+        {
+          "show": true,
+          "type": "blog"
+        },
+        {
+          "type": "login",
+          "show": true
+        },
+        {
+          "type": "category",
+          "show": true
+        }
+      ]
+    }
+  }

@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Happy Flash Sale 🎁",
+      "name": "Giảm giá nhanh vui vẻ 🎁",
       "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
       "layout": "saleOff",
       "category": 22,
@@ -107,11 +107,12 @@
     },
     {
       "layout": "bannerImage",
+      "height": 0.15,
       "items": [
         {
           "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
           "coupon": "blackf",
-          "padding": 8.0,
+          "padding": 15.0,
           "radius": 9.0
         }
       ]
@@ -184,27 +185,5 @@
     "woman",
     "dress",
     "Stitch"
-  ],
-  "OnBoarding": {
-    "data": [
-      {
-        "title": "Chào mừng bạn đến với FluxStore",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Fluxstore đang trên đường phục vụ bạn. ",
-        "background": "#FFF3F2"
-      },
-      {
-        "title": "Kết nối thế giới xung quanh",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "Xem tất cả mọi thứ xảy ra xung quanh bạn chỉ bằng một cú nhấp chuột trong điện thoại của bạn. Nhanh chóng, thuận tiện và đơn giản.",
-        "background": "#F2FFFC"
-      },
-      {
-        "title": "Hãy bắt đầu",
-        "image": "fogg-order-completed.png",
-        "desc": "Không chờ đợi nữa, chúng ta hãy xem những gì chúng ta sẽ nhận được!",
-        "background": "#F9F2FF"
-      }
-    ]
-  }
+  ]
 }

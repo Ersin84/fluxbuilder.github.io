@@ -66,29 +66,65 @@
       ]
     },
     {
-      "name": "Happy Flash Sale 🎁",
-      "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/1185x561/e13d41fd04e4da0833097ab4e893c8c5/Mobile_Template_1b.png",
+          "padding": 15.0
+        },
+        {
+          "category": 28,
+          "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+          "padding": 15.0
+        },
+        {
+          "product": 30,
+          "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "name": "מכירת פלאש שמח 🎁",
       "layout": "saleOff",
       "category": 22,
       "isSnapping": true
     },
     {
-      "name": "Man Collections",
+      "name": "אוספי גבר",
       "image": "",
       "layout": "twoColumn",
-      "category": 21,
-      "isSnapping": true
+      "category": 21
     },
     {
-      "name": "Recent View",
+      "layout": "bannerImage",
+      "height": 0.15,
+      "items": [
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
+          "coupon": "blackf",
+          "padding": 15.0,
+          "radius": 9.0
+        }
+      ]
+    },
+    {
+      "name": "תצוגה אחרונה",
       "layout": "recentView"
     },
     {
-      "name": "Our Blog Posts",
+      "name": "הודעות הבלוג שלנו",
       "layout": "blog"
     },
     {
-      "name": "New Collections",
+      "name": "אוספים חדשים",
       "layout": "staggered",
       "limit": 20,
       "category": 29
@@ -97,6 +133,7 @@
   "Setting": {
     "MainColor": "#3FC1BE",
     "FontFamily": "Roboto",
+    "FontHeader": "Raleway",
     "ProductListLayout": "list",
     "StickyHeader": false,
     "ShowChat": true
@@ -104,69 +141,32 @@
   "TabBar": [
     {
       "layout": "home",
-      "icon": "home",
-      "pos": 100,
-      "fontFamily": "CupertinoIcons",
-      "key": "p1q235ba14"
+      "icon": "assets/icons/tabs/icon-home.png"
     },
     {
-      "pos": 200,
       "layout": "category",
-      "icon": "rectangle_grid_1x2",
-      "fontFamily": "CupertinoIcons",
       "categoryLayout": "card",
-      "key": "hwu0rkrizt"
+      "icon": "assets/icons/tabs/icon-category.png"
     },
     {
-      "key": "2reihs4qzc",
-      "icon": "search",
       "layout": "search",
-      "fontFamily": "CupertinoIcons",
-      "pos": 300,
-      "size": 24
+      "icon": "assets/icons/tabs/icon-search.png"
     },
     {
-      "pos": 400,
-      "icon": "bag",
       "layout": "cart",
-      "categoryLayout": "cart",
-      "key": "a2xts0oou6",
-      "fontFamily": "CupertinoIcons"
+      "icon": "assets/icons/tabs/icon-cart2.png"
     },
     {
       "layout": "profile",
-      "fontFamily": "CupertinoIcons",
-      "pos": 500,
-      "key": "69jw5yx12d",
-      "icon": "person"
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
     }
   ],
   "searchSuggestion": [
-    "man",
-    "dress",
-    "Stitch",
-    "ma"
-  ],
-  "OnBoarding": {
-    "data": [
-      {
-        "title": "Welcome to FluxStore",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Fluxstore is on the way to serve you. ",
-        "background": "#FFF3F2"
-      },
-      {
-        "title": "Connect Surrounding World",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
-        "background": "#F2FFFC"
-      },
-      {
-        "title": "Let's Get Started",
-        "image": "fogg-order-completed.png",
-        "desc": "Waiting no more, let's see what we get!",
-        "background": "#F9F2FF"
-      }
-    ]
-  }
+    "Here are some suggestions:",
+    "Print",
+    "T-Shirt",
+    "Jersey",
+    "Hoodie"
+  ]
 }

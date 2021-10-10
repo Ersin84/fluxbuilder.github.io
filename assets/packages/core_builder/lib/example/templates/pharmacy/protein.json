@@ -1,0 +1,170 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showLogo": false,
+      "iconSize": 30.0,
+      "iconColor": "000000",
+      "menuIcon": {
+        "name": "square_grid_4x3_fill",
+        "fontFamily": "CupertinoIcons"
+      }
+    },
+    {
+      "title": "Minimalist.",
+      "showSearch": false,
+      "hideHeader": false,
+      "isSafeArea": false,
+      "fontWeight": "900",
+      "height": 40.0,
+      "fontSize": 35.0,
+      "textOpacity": 1.0,
+      "marginLeft": 15.0,
+      "marginRight": 20.0,
+      "marginTop": 30.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": "000000"
+    },
+    {
+      "title": "Treat yourself better",
+      "showSearch": false,
+      "hideHeader": false,
+      "isSafeArea": false,
+      "fontWeight": "900",
+      "height": 40.0,
+      "fontSize": 35.0,
+      "textOpacity": 1.0,
+      "marginLeft": 15.0,
+      "marginRight": 20.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": "000000"
+    },
+    {
+      "name": "Amino Acids",
+      "layout": "twoColumn",
+      "isSnapping": false,
+      "category": null,
+      "onSale": false,
+      "height": 300.0,
+      "width": 500.0
+    },
+    {
+      "name": "Callowfit ",
+      "layout": "staggered",
+      "isSnapping": false,
+      "category": null,
+      "onSale": false,
+      "isSnapping": true
+    }
+  ],
+  "Setting": {
+    "MainColor": "#000000",
+    "ProductListLayout": "list",
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ffff682d",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": "dot",
+      "showFloatingClip": false,
+      "showFloating": true,
+      "radiusTopLeft": 0.0,
+      "radiusTopRight": 0.0,
+      "radiusBottomLeft": 0.0,
+      "radiusBottomRight": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 0.0,
+      "paddingTop": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": 3.4905237013986303,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": 13.143012458216017,
+        "color": "ffff682d",
+        "location": "centerDocked",
+        "width": 50.0,
+        "height": 50.0,
+        "elevation": 4.983128353712156,
+        "floatingType": "rectangle"
+      }
+    },
+    "ProductDetail": "simpleType",
+    "ShowChat": true,
+    "FontHeader": "Bebas Neue",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "key": "rt23pebmpa",
+      "layout": "home",
+      "icon": "graph_square_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100
+    },
+    {
+      "key": "5wyi6aemsc",
+      "layout": "category",
+      "icon": "flame_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200,
+      "categoryLayout": "card",
+      "categories": null,
+      "images": null
+    },
+    {
+      "key": "b799ndk8l1",
+      "layout": "search",
+      "icon": "table_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 300
+    }
+
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "What's up!",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "500",
+      "height": 26.0,
+      "fontSize": 16.0,
+      "textOpacity": 0.8,
+      "marginLeft": 23.0,
+      "marginRight": 20.0,
+      "marginTop": 80.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "title": "Find your perject job",
+      "showSearch": false,
+      "hideHeader": false,
+      "isSafeArea": false,
+      "fontWeight": "900",
+      "height": 30.0,
+      "fontSize": 30.0,
+      "textOpacity": 1.0,
+      "marginLeft": 23.0,
+      "marginRight": 20.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "layout": "header_text",
+      "textColor": null,
+      "showSearch": true
+    },
+    {
+      "title": "NOW!",
+      "showSearch": false,
+      "hideHeader": false,
+      "isSafeArea": false,
+      "fontWeight": "900",
+      "height": 30.0,
+      "fontSize": 30.0,
+      "textOpacity": 1.0,
+      "marginLeft": 23.0,
+      "marginRight": 20.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "layout": "header_text",
+      "textColor": "ffd900"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "autoPlay": false,
+      "showNumber": false,
+      "fit" : "fitWidth",
+      "design": "default",
+      "marginTop": 20.0,
+      "showBackGround": true,
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://faceworkgloballimited.com.ng/assets/front/img/blogs/1617875461.jpg",
+          "padding": 15.0
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "ProductDetail": "simpleType",
+    "StickyHeader": false,
+    "MainColor": "ffffff",
+    "ProductListLayout": "list",
+    "FontFamily": "Montserrat Alternates",
+    "FontHeader": "Montserrat Alternates",
+    "TabBarConfig": {
+      "marginTop": 0,
+      "TabBarFloating": {
+        "height": null,
+        "floatingType": "rectangle",
+        "position": 0,
+        "color": null,
+        "location": null,
+        "width": null,
+        "radius": null,
+        "elevation": null
+      },
+      "indicatorStyle": "rectangular",
+      "radiusTopLeft": 24,
+      "radiusBottomRight": 24,
+      "colorActiveIcon": null,
+      "colorIcon": null,
+      "iconSize": 23,
+      "TabBarIndicator": {
+        "distanceFromCenter": 18,
+        "radius": null,
+        "verticalPadding": null,
+        "topRightRadius": 16,
+        "bottomRightRadius": 16,
+        "height": 1.5,
+        "topLeftRadius": 16,
+        "bottomLeftRadius": 16,
+        "strokeWidth": null,
+        "tabPosition": "bottom",
+        "color": "ff212121",
+        "paintingStyle": "fill",
+        "horizontalPadding": 10
+      },
+      "paddingTop": 10,
+      "marginRight": 24,
+      "paddingRight": 0,
+      "showFloating": false,
+      "marginLeft": 24,
+      "paddingBottom": 10,
+      "showFloatingClip": true,
+      "colorCart": "fffe2060",
+      "radiusBottomLeft": 24,
+      "marginBottom": 15,
+      "radiusTopRight": 24,
+      "paddingLeft": 0,
+      "color": "ff000000",
+      "isSafeArea": false
+    }
+  },
+  "VerticalLayout": {
+    "isVertical": true,
+    "layout": "list",
+    "category": "322",
+    "name": "Highly Recommended",
+    "key": "hwazkmoqao",
+    "page": 1
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "label": null,
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "icon": "house_alt_fill",
+      "key": "bbgvsc7v9i"
+    },
+    {
+      "key": "bbgvsc7v9i",
+      "layout": "cart",
+      "icon": "cart_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200
+    },
+    {
+      "icon": "heart_solid",
+      "fontFamily": "CupertinoIcons",
+      "layout": "wishlist",
+      "pos": 300,
+      "label": null,
+      "key": "bbgvsc7v9i"
+    },
+    {
+      "layout": "profile",
+      "background": null,
+      "fontFamily": "CupertinoIcons",
+      "settings": null,
+      "label": null,
+      "pos": 400,
+      "icon": "person_solid",
+      "key": "bbgvsc7v9i"
+    },
+    {
+      "layout": "profile",
+      "background": null,
+      "fontFamily": "CupertinoIcons",
+      "settings": null,
+      "label": null,
+      "pos": 400,
+      "icon": "star_fill",
+      "key": "bbgvsc7v9i"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  }
+}

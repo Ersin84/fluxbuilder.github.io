@@ -134,13 +134,7 @@
             "layout": "category",
             "categoryLayout": "column",
             "icon": "assets/icons/tabs/icon-category.png",
-            "pos": 200,
-            "categories": [
-                "19",
-                "63",
-                "29",
-                "35"
-            ]
+            "pos": 200
         },
         {
             "layout": "search",

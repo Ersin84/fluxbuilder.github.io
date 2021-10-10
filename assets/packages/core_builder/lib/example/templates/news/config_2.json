@@ -1,0 +1,108 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "showMenu": true,
+            "showSearch": true,
+            "showLogo": false,
+            "name": "Salad Holic"
+        },
+        {
+            "name": "Salad World",
+            "layout": "sliderItem",
+            "imageBorder": 6.0
+        },
+        {
+            "title": "The Best Salad for Today",
+            "isSafeArea": true,
+            "showSearch": false,
+            "padding": 20.0,
+            "height": 0.08,
+            "fontSize": 27.0,
+            "layout": "header_text"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": false,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/9UHVzom.jpg",
+                    "padding": 9.0,
+                    "radius": 4.2
+                },
+                {
+                    "image": "https://i.imgur.com/irKLuRj.jpg",
+                    "padding": 6.6,
+                    "radius": 4.2
+                }
+            ]
+        }
+    ],
+    "Setting": {
+        "MainColor": "#3FC1BE",
+        "ProductListLayout": "card",
+        "StickyHeader": false,
+        "ProductDetail": "simpleType"
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "label": "Home",
+            "icon": "assets/icons/tabs/icon-home.png",
+            "pos": 100
+        },
+        {
+            "layout": "search",
+            "label": "Search",
+            "icon": "assets/icons/tabs/icon-search.png",
+            "size": 24,
+            "pos": 300
+        },
+        {
+            "layout": "wishlist",
+            "label": "Wish List",
+            "icon": "assets/icons/tabs/icon-heartthin.png",
+            "pos": 400
+        },
+        {
+            "layout": "profile",
+            "label": "Setting",
+            "icon": "assets/icons/tabs/icon-user.png",
+            "pos": 500
+        }
+    ],
+    "Drawer": {
+        "logo": "assets/images/logo.png",
+        "items": [
+            {
+                "type": "home",
+                "show": true
+            },
+            {
+                "type": "web",
+                "show": true
+            },
+            {
+                "type": "about",
+                "show": true
+            },
+            {
+                "type": "login",
+                "show": true
+            },
+            {
+                "type": "category",
+                "show": true
+            }
+        ]
+    },
+    "VerticalLayout": {
+        "key": "bhjlsjr1gk",
+        "layout": "list",
+        "name": "New recipe"
+    },
+    "SplashScreen": {
+        "type": "animated",
+        "data": "https://media3.giphy.com/media/eJXZudWmMO6apAEWna/giphy.webp"
+    }
+}

@@ -1,0 +1,161 @@
+{
+  "HorizonLayout": [
+    {
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "equal"
+      },
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false,
+      "showCart": false,
+      "showNotification": true,
+      "layout": "logo"
+    },
+    {
+      "marginTop": 0,
+      "padding": 16,
+      "showShadow": false,
+      "marginRight": 0,
+      "text": "Find your sneakers...",
+      "marginLeft": 0,
+      "backgroundInput": false,
+      "textOpacity": 1,
+      "fontSize": 13,
+      "boxShadow": {
+      },
+      "height": 85,
+      "radius": 12,
+      "layout": "header_search",
+      "marginBottom": 0,
+      "borderInput": false,
+      "shadow": 10
+    }
+  ],
+  "Setting": {
+    "ProductListLayout": "list",
+    "FontHeader": "Quicksand",
+    "TabBarConfig": {
+      "paddingRight": 0,
+      "TabBarFloating": {
+        "width": 56.00000000000001,
+        "radius": 23.921720559976492,
+        "position": 2,
+        "color": null,
+        "height": 56.00000000000001,
+        "elevation": null,
+        "location": "centerDocked",
+        "floatingType": "rectangle"
+      },
+      "colorCart": "fff44336",
+      "paddingLeft": 0,
+      "marginRight": 0,
+      "radiusTopLeft": 24,
+      "marginTop": 0,
+      "iconSize": 23,
+      "showFloatingClip": true,
+      "paddingTop": 16,
+      "isSafeArea": false,
+      "radiusTopRight": 24,
+      "TabBarIndicator": {
+        "topRightRadius": 16,
+        "verticalPadding": 34.18481504894208,
+        "bottomLeftRadius": 16,
+        "paintingStyle": "fill",
+        "radius": null,
+        "strokeWidth": 4,
+        "color": "ff212121",
+        "bottomRightRadius": 16,
+        "tabPosition": "bottom",
+        "topLeftRadius": 16,
+        "height": 2,
+        "horizontalPadding": 15,
+        "distanceFromCenter": null
+      },
+      "marginBottom": 0,
+      "radiusBottomLeft": 24,
+      "indicatorStyle": "dot",
+      "radiusBottomRight": 24,
+      "paddingBottom": 16,
+      "colorActiveIcon": "ff212121",
+      "color": "ffffffff",
+      "marginLeft": 0,
+      "boxShadow": {
+        "colorOpacity": 0,
+        "blurRadius": 10,
+        "spreadRadius": 10,
+        "x": 0,
+        "y": 0
+      },
+      "colorIcon": "ffbdbdbd",
+      "showFloating": false
+    },
+    "ProductDetail": "simpleType",
+    "FontFamily": "Quicksand",
+    "StickyHeader": false,
+    "MainColor": "ff212121"
+  },
+  "TabBar": [
+    {
+      "label": null,
+      "icon": "house_alt_fill",
+      "fontFamily": "CupertinoIcons",
+      "layout": "home",
+      "pos": 100,
+      "key": "lq8bfbwxbk"
+    },
+    {
+      "layout": "wishlist",
+      "icon": "heart_solid",
+      "label": null,
+      "fontFamily": "CupertinoIcons",
+      "pos": 200,
+      "key": "lq8bfbwxbk"
+    },
+    {
+      "key": "lq8bfbwxbk",
+      "layout": "cart",
+      "icon": "cart_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 300
+    },
+    {
+      "label": null,
+      "settings": null,
+      "fontFamily": "CupertinoIcons",
+      "pos": 400,
+      "icon": "person_solid",
+      "background": null,
+      "layout": "profile",
+      "key": "lq8bfbwxbk"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "VerticalLayout": {
+    "isVertical": true,
+    "layout": "menu",
+    "name": "Browse by categories",
+    "key": "lq8bfbwxbk"
+  }
+}

@@ -1,87 +1,232 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,D,S,R,T,Q,G,Y,Z,X,E,N,K,B,A={
-dcR:function(d){return"\u0110i\u1ec3m hi\u1ec7n c\xf3 c\u1ee7a b\u1ea1n: "+H.f(d)},
-de3:function(d){return H.f(d)+" days ago"},
-diW:function(d){return"K\u1ebft th\xfac sau "+H.f(d)},
-djm:function(d){return"L\u1ed7i: "+H.f(d)},
-djN:function(d){return"H\u1ebft h\u1ea1n sau "+H.f(d)},
-dke:function(d){return H.f(d)+" hours ago"},
-dkG:function(d){return"There is an issue with the app during request the data, please contact admin for fixing the issues: "+H.f(d)},
-dl4:function(d){return"K\xedch th\u01b0\u1edbc t\u1ec7p t\u1ed1i \u0111a: "+H.f(d)+" MB"},
-dlw:function(d){return H.f(d)+" minutes ago"},
-dlV:function(d){return H.f(d)+" th\xe1ng tr\u01b0\u1edbc"},
-ddj:function(d){return H.f(d)+" items"},
-de4:function(d){return"T\u1ed5ng s\u1ed1 t\xf9y ch\u1ecdn: "+H.f(d)},
-dez:function(d){return"Sale "+H.f(d)+" %"},
-df1:function(d){return H.f(d)+" seconds ago"},
-dfu:function(d){return"Shopping cart, "+H.f(d)+" items"},
-dfW:function(d){return"\u0110\xe3 b\xe1n: "+H.f(d)},
-dgm:function(d){return H.f(d)+" s\u1ea3n ph\u1ea9m"},
-dgN:function(d){return"C\xf3 hi\u1ec7u l\u1ef1c cho \u0111\u1ebfn "+H.f(d)},
-dhe:function(d){return"Warning: "+H.f(d)},
-dhG:function(d){return"Ch\xfang t\xf4i t\xecm th\u1ea5y "+H.f(d)+" s\u1ea3n ph\u1ea9m"},
-di5:function(d){return"Tu\u1ea7n "+H.f(d)},
-diw:function(d){return H.f(d)+" n\u0103m tr\u01b0\u1edbc"},
-cTO:function(d){var x="Ti\u1ebfng Hindi",w="H\xe0n Qu\u1ed1c",v="D\u1ecbch v\u1ee5 b\u1ed5 sung",u="X\xe1c nh\u1eadn",t="Gi\u1ecf h\xe0ng",s="Thanh to\xe1n",r="N\u1ed9i dung",q="\u0110\xe3 h\u1ebft h\u1ea1n",p="T\xednh n\u0103ng H\xecnh \u1ea3nh",o="\u0110\u0103ng nh\u1eadp",n="\u0110ang ch\u1edd x\u1eed l\xfd",m="\u0110\xe3 v\u1eadn chuy\u1ec3n",l="S\u1ea3n ph\u1ea9m"
-return P.z(["DateDESC",Z.a("Ng\xe0y gi\u1ea3m d\u1ea7n"),"Dutch",Z.a("H\xe0 Lan"),"Egypt",Z.a("Ai C\u1eadp"),"India",Z.a(x),"Korean",Z.a(w),"Netherlands",Z.a("n\u01b0\u1edbc H\xe0 Lan"),"Polish",Z.a("Ti\u1ebfng Ba Lan"),"PrivacyAndTerm",Z.a("Quy\u1ec1n ri\xeang t\u01b0 v\xe0 \u0110i\u1ec1u kho\u1ea3n"),"Qty",Z.a("S\u1ed0 L\u01af\u1ee2NG"),"UserNameInCorrect",Z.a("T\xean ng\u01b0\u1eddi d\xf9ng ho\u1eb7c m\u1eadt kh\u1ea9u kh\xf4ng ch\xednh x\xe1c"),"aboutUs",Z.a("V\u1ec1 ch\xfang t\xf4i"),"active",Z.a("Ho\u1ea1t \u0111\u1ed9ng"),"addAName",Z.a("Th\xeam t\xean"),"addANewPost",Z.a("Th\xeam m\u1ed9t b\xe0i vi\u1ebft m\u1edbi"),"addASlug",Z.a("Th\xeam m\u1ed9t con s\xean"),"addAnAttr",Z.a("Th\xeam m\u1ed9t thu\u1ed9c t\xednh"),"addListing",Z.a("Th\xeam danh s\xe1ch"),"addNew",Z.a("Th\xeam m\u1edbi"),"addNewBlog",Z.a("Th\xeam blog m\u1edbi"),"addNewPost",Z.a("T\u1ea1o b\xe0i m\u1edbi"),"addProduct",Z.a("Th\xeam s\u1ea3n ph\u1ea9m"),"addToCart",Z.a("Th\xeam v\xe0o gi\u1ecf h\xe0ng"),"addToCartSucessfully",Z.a("\u0111\xe3 \u0111\u01b0\u1ee3c th\xeam v\xe0o gi\u1ecf h\xe0ng c\u1ee7a b\u1ea1n"),"addedSuccessfully",Z.a("Th\xeam th\xe0nh c\xf4ng"),"addingYourImage",Z.a("Th\xeam h\xecnh \u1ea3nh c\u1ee7a b\u1ea1n"),"additionalInformation",Z.a("B\u1ed5 sung th\xf4ng tin"),"additionalServices",Z.a(v),"address",Z.a("\u0110\u1ecba ch\u1ec9"),"adults",Z.a("Ng\u01b0\u1eddi l\u1edbn"),"agreeWithPrivacy",Z.a("\u0110\u1ed3ng \xfd v\u1edbi \u0111i\u1ec1u kho\u1ea3n"),"all",Z.a("T\u1ea5t c\u1ea3"),"allDeliveryOrders",Z.a("T\u1ea5t c\u1ea3 c\xe1c \u0111\u01a1n h\xe0ng"),"allOrders",Z.a("B\xe1n h\xe0ng m\u1edbi nh\u1ea5t"),"almostSoldOut",Z.a("S\u1eafp b\xe1n h\u1ebft"),"apply",Z.a("\u0110\u1ed3ng \xfd"),"approve",Z.a("Ph\xea duy\u1ec7t"),"approved",Z.a("T\xe1n th\xe0nh"),"arabic",Z.a("Ti\u1ebfng \u1ea2 R\u1eadp"),"areYouSure",Z.a("B\u1ea1n c\xf3 ch\u1eafc kh\xf4ng?"),"assigned",Z.a("Giao"),"attributes",Z.a("Thu\u1ed9c t\xednh"),"audioDetected",Z.a("\u0110\xe3 ph\xe1t hi\u1ec7n (c\xe1c) m\u1ee5c \xe2m thanh. B\u1ea1n c\xf3 mu\u1ed1n th\xeam v\xe0o Tr\xecnh ph\xe1t \xe2m thanh kh\xf4ng?"),"availability",Z.a("S\u1eb5n c\xf3"),"availablePoints",A.dKv(),"back",Z.a("Tr\u1edf l\u1ea1i"),"backOrder",Z.a("\u0110\u1eb7t h\xe0ng tr\u01b0\u1edbc"),"backToShop",Z.a("Quay l\u1ea1i c\u1eeda h\xe0ng"),"bagsCollections",Z.a("B\u1ed9 s\u01b0u t\u1eadp t\xfai x\xe1ch"),"bannerListType",Z.a("Lo\u1ea1i danh s\xe1ch bi\u1ec3u ng\u1eef"),"bannerType",Z.a("Lo\u1ea1i bi\u1ec3u ng\u1eef"),"bannerYoutubeURL",Z.a("URL c\u1ee7a bi\u1ec3u ng\u1eef Youtube"),"bengali",Z.a("Ti\u1ebfng Bengal"),"billingAddress",Z.a("\u0110\u1ecba ch\u1ec9 thanh to\xe1n"),"blog",Z.a("Tin T\u1ee9c"),"booked",Z.a("\u0110\xe3 \u0111\u1eb7t tr\u01b0\u1edbc"),"booking",Z.a("\u0110\u1eb7t tr\u01b0\u1edbc"),"bookingCancelled",Z.a("\u0110\u1eb7t tr\u01b0\u1edbc \u0111\xe3 b\u1ecb h\u1ee7y"),"bookingConfirm",Z.a(u),"bookingError",Z.a("C\xf3 \u0111i\u1ec1u g\xec \u0111\xf3 kh\xf4ng \u1ed5n. Vui l\xf2ng th\u1eed l\u1ea1i sau."),"bookingHistory",Z.a("L\u1ecbch s\u1eed \u0111\u1eb7t ch\u1ed7"),"bookingNow",Z.a("\u0110\u0103\u0323t b\xe2y gi\u1edd"),"bookingSuccess",Z.a("\u0110\xe3 \u0111\u1eb7t tr\u01b0\u1edbc th\xe0nh c\xf4ng"),"bookingSummary",Z.a("T\xf3m t\u1eaft \u0111\u1eb7t ch\u1ed7"),"bookingUnavailable",Z.a("Kh\xf4ng c\xf3 \u0111\u1eb7t tr\u01b0\u1edbc"),"brand",Z.a("Nh\xe3n hi\u1ec7u"),"brazil",Z.a("B\u1ed3 \u0110\xe0o Nha"),"buyNow",Z.a("Mua ngay"),"byCategory",Z.a("Theo lo\u1ea1i"),"byPrice",Z.a("Theo gi\xe1"),"byTag",Z.a("Theo th\u1ebb"),"call",Z.a("g\u1edfi"),"callTo",Z.a("G\u1ecdi \u0111i\u1ec7n \u0111\u1ebfn"),"canNotLaunch",Z.a("Cannot launch this app, make sure your settings on config.dart is correct"),"cancel",Z.a("H\u1ee7y"),"cantFindThisOrderId",Z.a("Kh\xf4ng th\u1ec3 t\xecm th\u1ea5y ID \u0111\u01a1n \u0111\u1eb7t h\xe0ng n\xe0y"),"cardHolder",Z.a("Ch\u1ee7 th\u1ebb"),"cardNumber",Z.a("S\u1ed1 th\u1ebb"),"cart",Z.a(t),"cartDiscount",Z.a("Cart Discount"),"categories",Z.a("Danh m\u1ee5c"),"category",Z.a("Th\u1ec3 lo\u1ea1i"),"change",Z.a("Thay \u0111\u1ed5i"),"chat",Z.a("Tr\xf2 chuy\u1ec7n"),"chatListScreen",Z.a("M\xe0n h\xecnh danh s\xe1ch tr\xf2 chuy\u1ec7n"),"chatViaFacebook",Z.a("Tr\xf2 chuy\u1ec7n qua Facebook Messenger"),"chatViaWhatApp",Z.a("Tr\xf2 chuy\u1ec7n qua WhatsApp"),"chatWithStoreOwner",Z.a("Tr\xf2 chuy\u1ec7n v\u1edbi Ch\u1ee7 c\u1eeda h\xe0ng"),"checkConfirmLink",Z.a("Ki\u1ec3m tra email c\u1ee7a b\u1ea1n \u0111\u1ec3 bi\u1ebft li\xean k\u1ebft x\xe1c nh\u1eadn"),"checkout",Z.a(s),"chinese",Z.a("Ti\u1ebfng Trung Qu\u1ed1c"),"chooseFromGallery",Z.a("Ch\u1ecdn t\u1eeb ph\xf2ng tr\u01b0ng b\xe0y"),"chooseFromServer",Z.a("Ch\u1ecdn t\u1eeb m\xe1y ch\u1ee7"),"chooseYourPaymentMethod",Z.a("Ch\u1ecdn ph\u01b0\u01a1ng ph\xe1p thanh to\xe1n c\u1ee7a b\u1ea1n"),"city",Z.a("Th\xe0nh ph\u1ed1"),"cityIsRequired",Z.a("T\xean th\xe0nh ph\u1ed1 kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"clear",Z.a("X\xf3a"),"clearCart",Z.a("X\xf3a gi\u1ecf h\xe0ng"),"close",Z.a("\u0110\xf3ng"),"color",Z.a("M\xe0u"),"commentFirst",Z.a("H\xe3y vi\u1ebft b\xecnh lu\u1eadn c\u1ee7a b\u1ea1n"),"commentSuccessfully",Z.a("B\xecnh lu\u1eadn th\xe0nh c\xf4ng, vui l\xf2ng \u0111\u1ee3i cho \u0111\u1ebfn khi b\xecnh lu\u1eadn c\u1ee7a b\u1ea1n \u0111\u01b0\u1ee3c duy\u1ec7t"),"confirm",Z.a(u),"confirmClearTheCart",Z.a("B\u1ea1n c\xf3 ch\u1eafc ch\u1eafn mu\u1ed1n x\xf3a gi\u1ecf h\xe0ng kh\xf4ng?"),"confirmDeleteItem",Z.a("B\u1ea1n c\xf3 ch\u1eafc ch\u1eafn mu\u1ed1n x\xf3a m\u1ee5c n\xe0y kh\xf4ng?"),"contact",Z.a("Ti\u1ebfp x\xfac"),"content",Z.a(r),"continueToPayment",Z.a("Ti\u1ebfp t\u1ee5c \u0111\u1ec3 thanh to\xe1n"),"continueToReview",Z.a("Ti\u1ebfp t\u1ee5c \u0111\u1ec3 ki\u1ec3m duy\u1ec7t"),"continueToShipping",Z.a("Ti\u1ebfp t\u1ee5c \u0111\u1ec3 giao h\xe0ng"),"continues",Z.a("Ti\u1ebfp t\u1ee5c"),"conversations",Z.a("Cu\u1ed9c tr\xf2 chuy\u1ec7n"),"country",Z.a("Qu\u1ed1c gia"),"countryIsRequired",Z.a("T\xean qu\u1ed1c gia kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"couponCode",Z.a("Coupon code"),"couponHasBeenSavedSuccessfully",Z.a("Phi\u1ebfu gi\u1ea3m gi\xe1 \u0111\xe3 \u0111\u01b0\u1ee3c l\u01b0u th\xe0nh c\xf4ng."),"couponInvalid",Z.a("Your coupon code is invalid"),"couponMsgSuccess",Z.a("Congratulations! Coupon code applied successfully"),"createAnAccount",Z.a("Create an account"),"createNewPostSuccessfully",Z.a("B\xe0i \u0111\u0103ng c\u1ee7a b\u1ea1n \u0111\xe3 \u0111\u01b0\u1ee3c t\u1ea1o th\xe0nh c\xf4ng d\u01b0\u1edbi d\u1ea1ng b\u1ea3n nh\xe1p. H\xe3y xem trang web qu\u1ea3n tr\u1ecb c\u1ee7a b\u1ea1n."),"createPost",Z.a("T\u1ea1o b\xe0i \u0111\u0103ng"),"createProduct",Z.a("T\u1ea1o s\u1ea3n ph\u1ea9m"),"createdOn",Z.a("\u0110\u01b0\u1ee3c t\u1ea1o ra:"),"currencies",Z.a("Ti\u1ec1n t\u1ec7"),"currentPassword",Z.a("M\u1eadt kh\u1ea9u hi\u1ec7n t\u1ea1i"),"currentlyWeOnlyHave",Z.a("Currently we only have"),"customerDetail",Z.a("Chi ti\u1ebft kh\xe1ch h\xe0ng"),"cvv",Z.a("CVV"),"darkTheme",Z.a("Giao di\u1ec7n t\u1ed1i"),"dashboard",Z.a("b\u1ea3ng \u0111i\u1ec1u khi\u1ec3n"),"dataEmpty",Z.a("Data Empty"),"date",Z.a("Ng\xe0y"),"dateASC",Z.a("Ng\xe0y t\u0103ng d\u1ea7n"),"dateBooking",Z.a("dateBooking"),"dateEnd",Z.a("Ng\xe0y k\u1ebft th\xfac"),"dateStart",Z.a("Ng\xe0y b\u1eaft \u0111\u1ea7u"),"daysAgo",A.dKw(),"delete",Z.a("x\xf3a b\u1ecf"),"delivered",Z.a("\u0110\xe3 giao h\xe0ng"),"deliveredTo",Z.a("\u0110\xe3 giao cho"),"deliveryDetails",Z.a("Chi ti\u1ebft giao h\xe0ng"),"deliveryManagement",Z.a("Chuy\u1ec3n"),"deliveryNotificationError",Z.a("Kh\xf4ng c\xf3 d\u1eef li\u1ec7u.\n\u0110\u01a1n \u0111\u1eb7t h\xe0ng n\xe0y \u0111\xe3 b\u1ecb x\xf3a."),"description",Z.a("M\xf4 t\u1ea3"),"didntReceiveCode",Z.a("Didn't receive the code? "),"direction",Z.a("Ph\u01b0\u01a1ng h\u01b0\u1edbng"),"discount",Z.a("Discount"),"displayName",Z.a("T\xean hi\u1ec3n th\u1ecb"),"doYouWantToExitApp",Z.a("Do you want to exit an App"),"done",Z.a("Ho\xe0n t\u1ea5t"),"dontHaveAccount",Z.a("Ch\u01b0a t\u1ea1o t\xe0i kho\u1ea3ng?"),"download",Z.a("Download"),"draft",Z.a("B\u1ea3n nh\xe1p"),"duration",Z.a("Duration"),"dutch",Z.a("H\xe0 Lan"),"earnings",Z.a("Thu nh\u1eadp"),"edit",Z.a("Bi\xean t\u1eadp:"),"editProductInfo",Z.a("Ch\u1ec9nh s\u1eeda th\xf4ng tin s\u1ea3n ph\u1ea9m"),"editWithoutColon",Z.a("ch\u1ec9nh s\u1eeda"),"email",Z.a("Email"),"emailDoesNotExist",Z.a("T\xe0i kho\u1ea3n email b\u1ea1n \u0111\xe3 nh\u1eadp kh\xf4ng t\u1ed3n t\u1ea1i. Vui l\xf2ng th\u1eed l\u1ea1i."),"emailIsRequired",Z.a("\u0110\u1ecba ch\u1ec9 email kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"emptyCartSubtitle",Z.a("C\xf3 v\u1ebb nh\u01b0 b\u1ea1n ch\u01b0a th\xeam b\u1ea5t k\xec s\u1ea3n ph\u1ea9m n\xe0o v\xe0o gi\u1ecf h\xe0ng. B\u1eaft \u0111\u1ea7u mua s\u1eafm \u0111\u1ec3 l\xe0m \u0111\u1ea7y n\xf3."),"emptyComment",Z.a("Nh\u1eadn x\xe9t c\u1ee7a b\u1ea1n kh\xf4ng \u0111\u01b0\u1ee3c \u0111\u1ec3 tr\u1ed1ng"),"emptySearch",Z.a("B\u1ea1n v\u1eabn ch\u01b0a t\xecm ki\u1ebfm c\xe1c m\u1ee5c. H\xe3y b\u1eaft \u0111\u1ea7u ngay b\xe2y gi\u1edd - ch\xfang t\xf4i s\u1ebd gi\xfap b\u1ea1n."),"emptyUsername",Z.a("Username/Email is empty"),"emptyWishlistSubtitle",Z.a("Ch\u1ea1m v\xe0o b\u1ea5t c\u1ee9 tr\xe1i tim n\xe0o b\xean c\u1ea1nh s\u1ea3n ph\u1ea9m m\xe0 b\u1ea1n y\xeau th\xedch. Ch\xfang t\xf4i s\u1ebd l\u01b0u ch\xfang cho b\u1ea1n \u1edf \u0111\xe2y"),"endsIn",A.dKH(),"english",Z.a("Ti\u1ebfng Anh"),"enterSendedCode",Z.a("Enter the code sent to"),"enterYourEmail",Z.a("Enter your email"),"enterYourEmailOrUsername",Z.a("Nh\u1eadp email ho\u1eb7c t\xean ng\u01b0\u1eddi d\xf9ng c\u1ee7a b\u1ea1n"),"enterYourFirstName",Z.a("Nh\u1eadp t\xean c\u1ee7a b\u1ea1n"),"enterYourLastName",Z.a("Nh\u1eadp h\u1ecd c\u1ee7a b\u1ea1n"),"enterYourPassword",Z.a("Enter your password"),"enterYourPhoneNumber",Z.a("Nh\u1eadp s\u1ed1 \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n"),"error",A.dKK(),"errorEmailFormat",Z.a("Vui l\xf2ng nh\u1eadp \u0111\u1ecba ch\u1ec9 Email h\u1ee3p l\u1ec7."),"errorPasswordFormat",Z.a("Vui l\xf2ng nh\u1eadp m\u1eadt kh\u1ea9u c\xf3 \xedt nh\u1ea5t 8 k\xfd t\u1ef1"),"events",Z.a("S\u1ef1 ki\u1ec7n"),"expired",Z.a(q),"expiredDate",Z.a("Ng\xe0y h\u1ebft h\u1ea1n"),"expiredDateHint",Z.a("MM / YY"),"expiringInTime",A.dKL(),"extraServices",Z.a(v),"featureProducts",Z.a("S\u1ea3n ph\u1ea9m s\u1eafp ra m\u1eaft"),"featured",Z.a("Featured"),"features",Z.a("\u0110\u1eb7c tr\u01b0ng"),"fileIsTooBig",Z.a("T\u1ec7p qu\xe1 l\u1edbn. Vui l\xf2ng ch\u1ecdn m\u1ed9t t\u1ec7p nh\u1ecf h\u01a1n!"),"fileUploadFailed",Z.a("T\u1ea3i l\xean t\u1ec7p kh\xf4ng th\xe0nh c\xf4ng!"),"files",Z.a("c\xe1c t\u1eadp tin"),"filter",Z.a("B\u1ed9 l\u1ecdc"),"firstName",Z.a("H\u1ecd"),"firstNameIsRequired",Z.a("H\u1ecd kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"fixedCartDiscount",Z.a("Gi\u1ea3m gi\xe1 xe c\u1ed1 \u0111\u1ecbnh"),"fixedProductDiscount",Z.a("Gi\u1ea3m gi\xe1 s\u1ea3n ph\u1ea9m c\u1ed1 \u0111\u1ecbnh"),"forThisProduct",Z.a("for this product"),"french",Z.a("French"),"from",Z.a("From"),"fullName",Z.a("H\u1ecd v\xe0 t\xean"),"gallery",Z.a("B\u1ed8 S\u01afU T\u1eacP"),"generalSetting",Z.a("C\xe0i \u0111\u1eb7t chung"),"german",Z.a("Ti\u1ebfng \u0110\u1ee9c"),"getNotification",Z.a("L\u1ea5y th\xf4ng b\xe1o"),"getPasswordLink",Z.a("T\u1ea1o \u0111\u01b0\u1eddng d\u1eabn cho m\u1eadt kh\u1ea9u"),"goBackHomePage",Z.a("Go back to home page"),"goBackToAddress",Z.a("Quay l\u1ea1i \u0111ia ch\u1ec9"),"goBackToReview",Z.a("Quay l\u1ea1i ki\u1ec3m duy\u1ec7t"),"goBackToShipping",Z.a("Quay l\u1ea1i giao h\xe0ng"),"grossSales",Z.a("T\u1ed5ng doanh thu"),"grouped",Z.a("\u0110\u01b0\u1ee3c nh\xf3m l\u1ea1i"),"guests",Z.a("Kh\xe1ch"),"hebrew",Z.a("Hebrew"),"hideAbout",Z.a("\u1ea8n v\u1ec1"),"hideAddress",Z.a("\u1ea8n \u0111\u1ecba ch\u1ec9"),"hideEmail",Z.a("\u1ea8n e-mail"),"hideMap",Z.a("\u1ea8n b\u1ea3n \u0111\u1ed3"),"hidePhone",Z.a("\u1ea8n \u0111i\u1ec7n tho\u1ea1i"),"hidePolicy",Z.a("\u1ea8n Ch\xednh s\xe1ch"),"hindi",Z.a(x),"home",Z.a("Nh\xe0"),"hour",Z.a("Gi\u1edd"),"hoursAgo",A.dKM(),"hungarian",Z.a("ng\u01b0\u1eddi Hungary"),"hungary",Z.a("Hungary"),"iAgree",Z.a("T\xf4i \u0111\u1ed3ng \xfd v\u1edbi"),"imageFeature",Z.a(p),"imageGallery",Z.a("Th\u01b0 vi\u1ec7n h\xecnh \u1ea3nh"),"inStock",Z.a("C\xf2n H\xe0ng"),"incorrectPassword",Z.a("M\u1eadt kh\u1ea9u kh\xf4ng \u0111\xfang"),"indonesian",Z.a("Indonesiana"),"invalidSMSCode",Z.a("Invalid SMS Verification code"),"italian",Z.a("\u0130talyan"),"itemTotal",Z.a("T\u1ed5ng m\u1ee5c:"),"items",Z.a("m\u1eb7t h\xe0ng"),"itsOrdered",Z.a("N\xf3 \u0111\xe3 \u0111\u01b0\u1ee3c \u0111\u1eb7t"),"iwantToCreateAccount",Z.a("I want to create an account"),"japanese",Z.a("Ti\u1ebfng Nh\u1eadt"),"keep",Z.a("Gi\u1eef"),"korean",Z.a(w),"kurdish",Z.a("Kurdish"),"language",Z.a("Ng\xf4n ng\u1eef"),"languageSuccess",Z.a("C\u1eadp nh\u1eadt th\xe0nh c\xf4ng"),"lastName",Z.a("T\xean"),"lastNameIsRequired",Z.a("T\xean kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"layout",Z.a("B\u1ed1 c\u1ee5c"),"link",Z.a("Li\xean k\u1ebft"),"listBannerType",Z.a("Lo\u1ea1i bi\u1ec3u ng\u1eef danh s\xe1ch"),"listBannerVideo",Z.a("Danh s\xe1ch bi\u1ec3u ng\u1eef video"),"listMessages",Z.a("Danh s\xe1ch tin nh\u1eafn"),"loadFail",Z.a("T\u1ea3i th\u1ea5t b\u1ea1i. Xin th\u1eed l\u1ea1i!"),"loading",Z.a("\u0110ang t\u1ea3i, \u0111\u1eebng l\xe0m phi\u1ec1n..."),"location",Z.a("V\u1ecb tr\xed"),"login",Z.a(o),"loginCanceled",Z.a("The login is cancel"),"loginErrorServiceProvider",A.dKN(),"loginFailed",Z.a("\u0110\u0103ng nh\u1eadp th\u1ea5t b\u1ea1i!"),"loginInvalid",Z.a("B\u1ea1n kh\xf4ng \u0111\u01b0\u1ee3c ph\xe9p s\u1eed d\u1ee5ng \u1ee9ng d\u1ee5ng n\xe0y."),"loginSuccess",Z.a("\u0110\u0103ng nh\u1eadp th\xe0nh c\xf4ng!"),"loginToComment",Z.a("Vui l\xf2ng \u0111\u0103ng nh\u1eadp \u0111\u1ec3 b\xecnh lu\u1eadn"),"loginToYourAccount",Z.a("Login to your account"),"logout",Z.a("\u0110\u0103ng xu\u1ea5t"),"manCollections",Z.a("B\u1ed9 s\u01b0u t\u1eadp \u0111\xe0n \xf4ng"),"manageStock",Z.a("Qu\u1ea3n l\xfd kho"),"map",Z.a("B\u1ea3n \u0111\u1ed3"),"markAsRead",Z.a("\u0110\xe1nh d\u1ea5u l\xe0 \u0111\xe3 \u0111\u1ecdc"),"markAsShipped",Z.a("\u0111\xe1nh d\u1ea5u l\xe0 v\u1eadn chuy\u1ec3n"),"markAsUnread",Z.a("\u0110\xe1nh d\u1ea5u l\xe0 ch\u01b0a \u0111\u1ecdc"),"maximumFileSizeMb",A.dKO(),"maybeLater",Z.a("Maybe Later"),"message",Z.a("Message"),"messageTo",Z.a("G\u1eedi tin nh\u1eafn t\u1edbi"),"minimumQuantityIs",Z.a("Minimum quantity is"),"minutesAgo",A.dKP(),"momentAgo",Z.a("l\xfac n\xe3y"),"monthsAgo",A.dKQ(),"more",Z.a("...h\u01a1n"),"mustSelectOneItem",Z.a("Ph\u1ea3i ch\u1ecdn 1 m\u1ee5c"),"myCart",Z.a(t),"myPoints",Z.a("\u0110i\u1ec3m c\u1ee7a t\xf4i"),"myProducts",Z.a("S\u1ea3n ph\u1ea9m c\u1ee7a t\xf4i"),"myProductsEmpty",Z.a("B\u1ea1n kh\xf4ng c\xf3 s\u1ea3n ph\u1ea9m n\xe0o. H\xe3y th\u1eed t\u1ea1o m\u1ed9t c\xe1i!"),"myWishList",Z.a("Danh s\xe1ch \u01b0a th\xedch"),"nItems",A.dKx(),"name",Z.a("t\xean"),"nearbyPlaces",Z.a("Nearby Places"),"newPassword",Z.a("M\u1eadt kh\u1ea9u m\u1edbi"),"next",Z.a("Ti\u1ebfp theo"),"niceName",Z.a("T\xean \u0111\u1eb9p"),"no",Z.a("No"),"noBackHistoryItem",Z.a("No back history item"),"noBlog",Z.a("Opps, the blog seems no longer exist"),"noData",Z.a("Kh\xf4ng c\xf3 d\u1eef li\u1ec7u"),"noFavoritesYet",Z.a("Ch\u01b0a c\xf3 y\xeau th\xedch n\xe0o"),"noFileToDownload",Z.a("Kh\xf4ng c\xf3 t\u1ec7p n\xe0o \u0111\u1ec3 t\u1ea3i xu\u1ed1ng."),"noForwardHistoryItem",Z.a("No forward history item"),"noInternetConnection",Z.a("Kh\xf4ng c\xf3 k\u1ebft n\u1ed1i internet"),"noListingNearby",Z.a("Kh\xf4ng c\xf3 danh s\xe1ch g\u1ea7n \u0111\xe2y!"),"noOrders",Z.a("Kh\xf4ng c\xf3 h\xf3a \u0111\u01a1n"),"noPost",Z.a("Opps, this page seems no longer exist!"),"noProduct",Z.a("Kh\xf4ng c\xf3 s\u1ea3n ph\u1ea9m"),"noResultFound",Z.a("No Result Found"),"noReviews",Z.a("Kh\xf4ng c\xf3 ph\u1ea3n h\u1ed3i"),"noSlotAvailable",Z.a("Kh\xf4ng c\xf3 ch\u1ed7 tr\u1ed1ng"),"noThanks",Z.a("No thanks"),"none",Z.a("kh\xf4ng ai"),"notFound",Z.a("Not Found"),"note",Z.a("Ghi ch\xfa \u0111\u01a1n h\xe0ng"),"notifications",Z.a("Th\xf4ng b\xe1o"),"ofThisProduct",Z.a("of this product"),"ok",Z.a("Ok"),"on",Z.a("Tr\xean"),"onSale",Z.a("On Sale"),"openMap",Z.a("M\u1edf b\u1ea3n \u0111\u1ed3"),"options",Z.a("T\xf9y ch\u1ecdn"),"optionsTotal",A.dKy(),"or",Z.a("Ho\u1eb7c"),"orLoginWith",Z.a("Ho\u1eb7c \u0111\u0103ng nh\u1eadp b\u1eb1ng"),"orderDate",Z.a("Ng\xe0y \u0111\u1eb7t"),"orderDetail",Z.a("Chi ti\u1ebft \u0111\u01a1n h\xe0ng"),"orderHistory",Z.a("L\u1ecbch s\u1eed \u0111\u1eb7t h\xe0ng"),"orderId",Z.a("ID \u0111\u01a1n h\xe0ng:"),"orderIdWithoutColon",Z.a("ID \u0111\u01a1n h\xe0ng"),"orderNo",Z.a("M\xe3 \u0111\u01a1n h\xe0ng"),"orderNotes",Z.a("Ghi ch\xfa \u0111\u1eb7t h\xe0ng"),"orderStatusCanceledReversal",Z.a("h\u1ee7y b\u1ecf kh\xf4ng \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n"),"orderStatusCancelled",Z.a("Cancelled"),"orderStatusChargeBack",Z.a("T\xednh ph\xed l\u1ea1i"),"orderStatusCompleted",Z.a("Completed"),"orderStatusDenied",Z.a("Ph\u1ee7 \u0111\u1ecbnh"),"orderStatusExpired",Z.a(q),"orderStatusFailed",Z.a("Failed"),"orderStatusOnHold",Z.a("On-hold"),"orderStatusPending",Z.a(n),"orderStatusPendingPayment",Z.a("Pending Payment"),"orderStatusProcessed",Z.a("X\u1eed l\xfd"),"orderStatusProcessing",Z.a("Processing"),"orderStatusRefunded",Z.a("Refunded"),"orderStatusReversed",Z.a("\u0110\u1ea3o ng\u01b0\u1ee3c"),"orderStatusShipped",Z.a(m),"orderStatusVoided",Z.a("V\xf4 hi\u1ec7u"),"orderSuccessMsg1",Z.a("You can check status of your order by using our delivery status feature. You will receive an order confirmation e-mail with details of your order and a link to track its progress."),"orderSuccessMsg2",Z.a("B\u1ea1n c\xf3 th\u1ec3 \u0111\u0103ng nh\u1eadp v\xe0o t\xe0i kho\u1ea3n c\u1ee7a m\xecnh b\u1eb1ng e-mail v\xe0 m\u1eadt kh\u1ea9u \u0111\u01b0\u1ee3c x\xe1c \u0111\u1ecbnh tr\u01b0\u1edbc \u0111\xf3. Tr\xean t\xe0i kho\u1ea3n c\u1ee7a b\u1ea1n, b\u1ea1n c\xf3 th\u1ec3 ch\u1ec9nh s\u1eeda d\u1eef li\u1ec7u h\u1ed3 s\u01a1 c\u1ee7a m\xecnh, ki\u1ec3m tra l\u1ecbch s\u1eed giao d\u1ecbch, ch\u1ec9nh s\u1eeda \u0111\u0103ng k\xfd th\xe0nh b\u1ea3n tin."),"orderSuccessTitle1",Z.a("You've successfully placed the order"),"orderSuccessTitle2",Z.a("T\xe0i kho\u1ea3n c\u1ee7a b\u1ea1n"),"orderSummary",Z.a("T\xd3M T\u1eaeT THEO TH\u1ee8 T\u1ef0"),"orderTotal",Z.a("T\u1ed5ng \u0111\u01a1n h\xe0ng"),"outOfStock",Z.a("H\u1ebft h\xe0ng"),"pageView",Z.a("Xem trang"),"password",Z.a("Password"),"payNow",Z.a("Thanh to\xe1n ngay"),"payment",Z.a(s),"paymentMethod",Z.a("Ph\u01b0\u01a1ng ph\xe1p thanh to\xe1n"),"paymentMethods",Z.a("C\xe1c ph\u01b0\u01a1ng ph\xe1p thanh to\xe1n"),"pending",Z.a(n),"persian",Z.a("Ti\u1ebfng Ba T\u01b0"),"phone",Z.a("Phone"),"phoneIsRequired",Z.a("S\u1ed1 \u0111i\u1ec7n tho\u1ea1i kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"phoneNumber",Z.a("S\u1ed1 \u0111i\u1ec7n tho\u1ea1i"),"phoneNumberVerification",Z.a("Phone Number Verification"),"pickADate",Z.a("Ch\u1ecdn ng\xe0y v\xe0 gi\u1edd"),"placeMyOrder",Z.a("N\u01a1i \u0111\u01a1n h\xe0ng c\u1ee7a t\xf4i"),"pleaseAgreeTerms",Z.a("Please agree with our terms"),"pleaseCheckInternet",Z.a("Please checking internet connection!"),"pleaseFillCode",Z.a("Please fill your code"),"pleaseInput",Z.a("D\u1eef li\u1ec7u nh\u1eadp b\u1ecb thi\u1ebfu "),"pleaseInputFillAllFields",Z.a("Please input fill in all fields"),"pleaseSelectAllAttributes",Z.a("Please choose an option for each attribute of the product"),"pleaseSelectRequiredOptions",Z.a("Vui l\xf2ng ch\u1ecdn c\xe1c t\xf9y ch\u1ecdn b\u1eaft bu\u1ed9c!"),"pleaseSignInBeforeUploading",Z.a("Vui l\xf2ng \u0111\u0103ng nh\u1eadp v\xe0o t\xe0i kho\u1ea3n c\u1ee7a b\u1ea1n tr\u01b0\u1edbc khi t\u1ea3i l\xean b\u1ea5t k\u1ef3 t\u1ec7p n\xe0o."),"pleasefillUpAllCellsProperly",Z.a("*Please fill up all the cells properly"),"point",Z.a("\u0110i\u1ec3m"),"pointRewardMessage",Z.a("There is the Discount Rule for applying your points to Cart"),"postContent",Z.a(r),"postFail",Z.a("Kh\xf4ng th\u1ec3 t\u1ea1o b\xe0i \u0111\u0103ng c\u1ee7a b\u1ea1n"),"postImageFeature",Z.a(p),"postManagement",Z.a("Qu\u1ea3n l\xfd b\xe0i \u0111\u0103ng"),"postProduct",Z.a("\u0110\u0103ng s\u1ea3n ph\u1ea9m"),"postSuccessfully",Z.a("B\xe0i vi\u1ebft c\u1ee7a b\u1ea1n \u0111\xe3 \u0111\u01b0\u1ee3c t\u1ea1o th\xe0nh c\xf4ng"),"postTitle",Z.a("Ch\u1ee9c v\u1ee5"),"prev",Z.a("Tr\u01b0\u1edbc"),"prices",Z.a("Th\u1ef1c \u0111\u01a1n"),"privacyPolicy",Z.a("Ch\xednh s\xe1ch b\u1ea3o m\u1eadt"),"privacyTerms",Z.a("Under Vietnamese laws, users\u2019 information such as names, email addresses, passwords and date of birth could be classified as \u201cpersonal information.\n\n In particular,\n (a) Under Decree 72/2013, personal information is defined as information  which  is  attached  to  the  identification  of  the  identity  and personal  details  of  an  individual  including name,  age,  address,  people's  identity  card  number, telephone number, email address and other information as stipulated by law\n\n (b) Under Circular 25/2010,  personal information means information sufficient to precisely identify an individual, which includes at least one of the following details: full name, birth date, occupation, title, contact address, email address, telephone number, identity card number and passport number. Information of personal privacy includes health record, tax payment record, social insurance card number, credit card number and other personal secrets.\n\n Circular 25 applies to the collection and use of personal information by websites operated by Vietnamese Government authorities. Circular 25 is not directly applicable to the collection and use of personal information by websites operated by non-Government entities. However, the provisions of Circular 25 could be applied by analogy. In addition, it is likely that a non-Government entity will be subject to the same or more stringent standards than those applicable to a Government entity."),"private",Z.a("Ri\xeang t\u01b0"),"product",Z.a(l),"productAdded",Z.a("S\u1ea3n ph\u1ea9m \u0111\xe3 \u0111\u01b0\u1ee3c th\xeam"),"productCreateReview",Z.a("S\u1ea3n ph\u1ea9m c\u1ee7a b\u1ea1n s\u1ebd hi\u1ec3n th\u1ecb sau khi xem x\xe9t."),"productName",Z.a("T\xean s\u1ea3n ph\u1ea9m"),"productRating",Z.a("\u0110\xe1nh gi\xe1 s\u1ea3n ph\u1ea9m"),"productType",Z.a("Lo\u1ea1i s\u1ea3n ph\u1ea9m"),"products",Z.a(l),"publish",Z.a("C\xf4ng b\u1ed1"),"pullToLoadMore",Z.a("K\xe9o \u0111\u1ec3 t\u1ea3i th\xeam"),"rate",Z.a("Rate"),"rateTheApp",Z.a("\u0110\xe1nh gi\xe1 \u1ee9ng d\u1ee5ng"),"rateThisApp",Z.a("Rate this app"),"rateThisAppDescription",Z.a("If you like this app, please take a little bit of your time to review it !\nIt really helps us and it shouldn't take you more than one minute."),"rating",Z.a("X\u1ebfp h\u1ea1ng"),"ratingFirst",Z.a("Vui l\xf2ng \u0111\xe1nh gi\xe1 tr\u01b0\u1edbc khi b\u1ea1n g\u1eedi b\xecnh lu\u1eadn c\u1ee7a b\u1ea1n"),"readReviews",Z.a("Xem ph\u1ea3n h\u1ed3i"),"recentSearches",Z.a("T\xecm ki\u1ebfm g\u1ea7n \u0111\xe2y"),"recentView",Z.a("M\u1edbi xem g\u1ea7n \u0111\xe2y"),"recents",Z.a("G\u1ea7n \u0111\xe2y"),"refresh",Z.a("Refresh"),"refundOrderFailed",Z.a("Y\xeau c\u1ea7u ho\xe0n l\u1ea1i ti\u1ec1n cho \u0111\u01a1n \u0111\u1eb7t h\xe0ng \u0111\xe3 kh\xf4ng th\xe0nh c\xf4ng"),"refundOrderSuccess",Z.a("Y\xeau c\u1ea7u ho\xe0n l\u1ea1i ti\u1ec1n cho \u0111\u01a1n \u0111\u1eb7t h\xe0ng c\u1ee7a b\u1ea1n th\xe0nh c\xf4ng!"),"refundRequest",Z.a("Y\xeau c\u1ea7u ho\xe0n tr\u1ea3"),"refunds",Z.a("Ti\u1ec1n ho\xe0n l\u1ea1i"),"registerAsVendor",Z.a("Register as Vendor user"),"regularPrice",Z.a("Gi\xe1 g\u1ed1c"),"relatedLayoutTitle",Z.a("Nh\u1eefng \u0111i\u1ec1u b\u1ea1n c\xf3 th\u1ec3 y\xeau"),"releaseToLoadMore",Z.a("Th\u1ea3 \u0111\u1ec3 t\u1ea3i th\xeam"),"remove",Z.a("Remove"),"removeFromWishList",Z.a("X\xf3a kh\u1ecfi danh s\xe1ch WishList"),"requestBooking",Z.a("Y\xeau c\u1ea7u \u0111\u1eb7t tr\u01b0\u1edbc"),"resend",Z.a(" RESEND"),"reset",Z.a("Kh\xf4i ph\u1ee5c"),"resetPassword",Z.a("C\xe0i l\u1ea1i m\u1eadt kh\u1ea9u"),"resetYourPassword",Z.a("C\xe0i l\u1ea1i m\u1eadt kh\u1ea9u c\u1ee7a b\u1ea1n"),"review",Z.a("\u0110ang duy\u1ec7t"),"reviewApproval",Z.a("Xem x\xe9t ph\xea duy\u1ec7t"),"reviewPendingApproval",Z.a("\u0110\xe1nh gi\xe1 c\u1ee7a b\u1ea1n \u0111\xe3 \u0111\u01b0\u1ee3c g\u1eedi v\xe0 \u0111ang ch\u1edd ph\xea duy\u1ec7t!"),"reviewSent",Z.a("\u0110\xe1nh gi\xe1 c\u1ee7a b\u1ea1n \u0111\xe3 \u0111\u01b0\u1ee3c g\u1eedi!"),"reviews",Z.a("Nh\u1eadn x\xe9t"),"romanian",Z.a("Romanian"),"russian",Z.a("Russian"),"sale",A.dKz(),"salePrice",Z.a("Gi\xe1 b\xe1n"),"saveAddress",Z.a("L\u01b0u \u0111\u1ecba ch\u1ec9"),"saveAddressSuccess",Z.a("Your address is exist in your local"),"saveForLater",Z.a("\u0110\u1ec3 d\xe0nh v\u1ec1 sau"),"saveToWishList",Z.a("L\u01b0u v\xe0o danh s\xe1ch \u01b0a th\xedch"),"search",Z.a("T\xecm ki\u1ebfm"),"searchByName",Z.a("T\xecm ki\u1ebfm v\u1edbi T\xean ..."),"searchForItems",Z.a("T\xecm ki\u1ebfm m\u1eb7t h\xe0ng"),"searchInput",Z.a("H\xe3y \u0111i\u1ec1n th\xf4ng tin \u1edf \xf4 t\xecm ki\u1ebfm"),"searchOrderId",Z.a("T\xecm ki\u1ebfm ID \u0111\u01a1n \u0111\u1eb7t h\xe0ng ..."),"searchPlace",Z.a("Search Place"),"searchingAddress",Z.a("T\xecm \u0111\u1ecba ch\u1ec9"),"secondsAgo",A.dKA(),"seeAll",Z.a("Xem t\u1ea5t c\u1ea3"),"seeOrder",Z.a("Xem \u0111\u01a1n \u0111\u1eb7t h\xe0ng"),"selectAddress",Z.a("Ch\u1ecdn \u0111\u1ecba ch\u1ec9"),"selectAll",Z.a("Ch\u1ecdn t\u1ea5t c\u1ea3"),"selectFileCancelled",Z.a("\u0110\xe3 h\u1ee7y ch\u1ecdn t\u1ec7p!"),"selectImage",Z.a("Ch\u1ecdn \u1ea3nh"),"selectNone",Z.a("Kh\xf4ng ch\u1ecdn"),"selectTheColor",Z.a("Ch\u1ecdn m\xe0u "),"selectThePoint",Z.a("Select the point"),"selectTheQuantity",Z.a("Ch\u1ecdn s\u1ed1 l\u01b0\u1ee3ng "),"selectTheSize",Z.a("Ch\u1ecdn k\xedch th\u01b0\u1edbc"),"send",Z.a("G\u1eedi"),"sendSMSCode",Z.a("Get code"),"serbian",Z.a("Ti\u1ebfng Serbian"),"settings",Z.a("C\xe0i \u0111\u1eb7t"),"share",Z.a("Chia s\u1ebb"),"shipped",Z.a(m),"shipping",Z.a("\u0110ang chuy\u1ec3n h\xe0ng"),"shippingAddress",Z.a("\u0110\u1ecba ch\u1ec9 giao h\xe0ng"),"shippingMethod",Z.a("Ph\u01b0\u01a1ng ph\xe1p giao h\xe0ng"),"shop",Z.a("C\u1eeda h\xe0ng"),"shopEmail",Z.a("Email c\u1eeda h\xe0ng"),"shopName",Z.a("T\xean c\u1eeda h\xe0ng"),"shopOrders",Z.a("\u0110\u01a1n \u0111\u1eb7t h\xe0ng"),"shopPhone",Z.a("Mua \u0111i\u1ec7n tho\u1ea1i"),"shopSlug",Z.a("C\u1eeda h\xe0ng s\xean"),"shoppingCartItems",A.dKB(),"shortDescription",Z.a("M\xf4 t\u1ea3 ng\u1eafn"),"showAllMyOrdered",Z.a("Hi\u1ec7n th\u1ecb t\u1ea5t c\u1ea3 \u0111\u01a1n h\xe0ng \u0111\xe3 \u0111\u1eb7t"),"showDetails",Z.a("Hi\u1ec3n th\u1ecb chi ti\u1ebft"),"showGallery",Z.a("Show Gallery"),"signIn",Z.a(o),"signInWithEmail",Z.a("\u0110\u0103ng nh\u1eadp b\u1eb1ng "),"signUp",Z.a("\u0110\u0103ng k\xfd"),"signup",Z.a("\u0110\u0103ng k\xfd"),"simple",Z.a("\u0110\u01a1n gi\u1ea3n"),"size",Z.a("K\xedch th\u01b0\u1edbc"),"skip",Z.a("B\u1ecf qua"),"sku",Z.a("SKU"),"sold",A.dKC(),"soldBy",Z.a("Sold by"),"spanish",Z.a("Ti\u1ebfng T\xe2y Ban Nha"),"startExploring",Z.a("B\u1eaft \u0111\u1ea7u kh\xe1m ph\xe1"),"startShopping",Z.a("B\u1eaft \u0111\u1ea7u mua s\u1eafm"),"stateIsRequired",Z.a("T\xean t\u1ec9nh kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"stateProvince",Z.a("T\u1ec9nh"),"status",Z.a("Tr\u1ea1ng th\xe1i"),"stock",Z.a("c\u1ed5 ph\u1ea7n"),"stockQuantity",Z.a("S\u1ed1 l\u01b0\u1ee3ng c\u1ed5 phi\u1ebfu"),"storeInformation",Z.a("L\u01b0u tr\u1eef th\xf4ng tin"),"storeListBanner",Z.a("Bi\u1ec3u ng\u1eef danh s\xe1ch c\u1eeda h\xe0ng"),"storeLogo",Z.a("Bi\u1ec3u tr\u01b0ng c\u1eeda h\xe0ng"),"storeMobileBanner",Z.a("Bi\u1ec3u ng\u1eef tr\xean \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng c\u1ee7a Store"),"storeSettings",Z.a("C\xe0i \u0111\u1eb7t c\u1eeda h\xe0ng"),"storeSliderBanner",Z.a("Bi\u1ec3u ng\u1eef thanh tr\u01b0\u1ee3t c\u1eeda h\xe0ng"),"storeStaticBanner",Z.a("Bi\u1ec3u ng\u1eef t\u0129nh c\u1ee7a c\u1eeda h\xe0ng"),"stores",Z.a("Gian h\xe0ng"),"street",Z.a("\u0111\u01b0\u1eddng ph\u1ed1"),"street2",Z.a("\u0110\u01b0\u1eddng 2"),"streetIsRequired",Z.a("\u0110\u1ecba ch\u1ec9 kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng"),"streetName",Z.a("T\xean \u0111\u1ecba ch\u1ec9"),"streetNameApartment",Z.a("Apartment"),"streetNameBlock",Z.a("Block"),"submit",Z.a("G\u1eedi \u0111i"),"submitYourPost",Z.a("G\u1eedi b\xe0i \u0111\u0103ng c\u1ee7a b\u1ea1n"),"subtotal",Z.a("T\u1ed5ng ph\u1ee5"),"tags",Z.a("Nh\xe3n"),"takePicture",Z.a("Ch\u1ee5p \u1ea3nh"),"tapSelectLocation",Z.a("Tap to select this location"),"tax",Z.a("Thu\u1ebf"),"thailand",Z.a("Thai"),"thisDateIsNotAvailable",Z.a("Ng\xe0y n\xe0y kh\xf4ng c\xf3 s\u1eb5n"),"thisFeatureDoesNotSupportTheCurrentLanguage",Z.a("T\xednh n\u0103ng n\xe0y kh\xf4ng h\u1ed7 tr\u1ee3 ng\xf4n ng\u1eef hi\u1ec7n t\u1ea1i"),"thisPlatformNotSupportWebview",Z.a("This platform is not support for webview"),"tickets",Z.a("V\u1ec1"),"title",Z.a("Ch\u1ee9c v\u1ee5"),"total",Z.a("T\u1ed5ng"),"totalCartValue",Z.a("Total order's value must be at least"),"totalProducts",A.dKD(),"totalTax",Z.a("T\u1ed5ng thu\u1ebf"),"trackingNumberIs",Z.a("S\u1ed1 theo d\xf5i l\xe0"),"trackingPage",Z.a("Trang theo d\xf5i"),"transactionCancelled",Z.a("Giao d\u1ecbch b\u1ecb h\u1ee7y"),"turkish",Z.a("Turkish"),"typeYourMessage",Z.a("G\xf5 tin nh\u1eafn c\u1ee7a b\u1ea1n \u1edf \u0111\xe2y..."),"ukrainian",Z.a("Ti\u1ebfng Ukraina"),"unavailable",Z.a("Kh\xf4ng c\xf3 h\xe0ng"),"undo",Z.a("Undo"),"update",Z.a("C\u1eadp nh\u1eadt"),"updateFailed",Z.a("C\u1eadp nh\u1eadt kh\xf4ng th\xe0nh c\xf4ng!"),"updateInfo",Z.a("C\u1eadp nh\u1eadt th\xf4ng tin"),"updatePassword",Z.a("C\u1eadp nh\u1eadt m\u1eadt kh\u1ea9u"),"updateStatus",Z.a("C\u1eadp nh\u1eadt tr\u1ea1ng th\xe1i"),"updateSuccess",Z.a("C\u1eadp nh\u1eadt th\xe0nh c\xf4ng!"),"updateUserInfor",Z.a("C\u1eadp nh\u1eadt th\xf4ng tin ng\u01b0\u1eddi d\xf9ng"),"uploadFile",Z.a("C\u1eadp nh\u1eadt d\u1eed li\u1ec7u"),"uploadProduct",Z.a("T\u1ea3i l\xean s\u1ea3n ph\u1ea9m"),"uploading",Z.a("\u0110ang t\u1ea3i l\xean"),"url",Z.a("URL"),"useNow",Z.a("S\u1eed d\u1ee5ng ngay"),"username",Z.a("Username"),"validUntilDate",A.dKE(),"variable",Z.a("Bi\u1ebfn \u0111\u1ed5i"),"variation",Z.a("Bi\u1ebfn th\u1ec3"),"vendorAdmin",Z.a("Vendor Admin"),"vendorInfo",Z.a("Th\xf4ng tin nh\xe0 cung c\u1ea5p"),"verifySMSCode",Z.a("Verify"),"video",Z.a("Video"),"vietnamese",Z.a("ti\u1ebfng vi\u1ec7t"),"visible",Z.a("C\xf3 th\u1ec3 nh\xecn th\u1ea5y"),"visitStore",Z.a("Xem c\u1eeda h\xe0ng"),"waitForLoad",Z.a("Ch\u1edd \u0111\u1ec3 t\u1ea3i h\xecnh \u1ea3nh"),"waitForPost",Z.a("Ch\u1edd cho s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c \u0111\u0103ng"),"waitingForConfirmation",Z.a("\u0110ang ch\u1edd x\xe1c nh\u1eadn"),"warning",A.dKF(),"weFoundBlogs",Z.a("Ch\xfang t\xf4i \u0111\xe3 t\xecm th\u1ea5y (c\xe1c) Blog"),"weFoundProducts",A.dKG(),"webView",Z.a("Ch\u1ebf \u0111\u1ed9 xem web"),"week",A.dKI(),"welcome",Z.a("Xin ch\xe0o"),"womanCollections",Z.a("B\u1ed9 s\u01b0u t\u1eadp ph\u1ee5 n\u1eef"),"writeComment",Z.a("Vi\u1ebft b\xecnh lu\u1eadn c\u1ee7a b\u1ea1n"),"writeYourNote",Z.a("Write your note"),"yearsAgo",A.dKJ(),"yes",Z.a("Yes"),"youCanOnlyPurchase",Z.a("B\u1ea1n ch\u1ec9 c\xf3 th\u1ec3 mua"),"youHaveBeenSaveAddressYourLocal",Z.a("B\u1ea1n \u0111\xe3 \u0111\u01b0\u1ee3c l\u01b0u \u0111\u1ecba ch\u1ec9 t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng c\u1ee7a b\u1ea1n"),"youHavePoints",Z.a("B\u1ea1n c\xf3 $point \u0111i\u1ec3m"),"youMightAlsoLike",Z.a("B\u1ea1n c\xf3 th\u1ec3 th\u1eadt s\u1ef1 th\xedch"),"yourAddressExistYourLocal",Z.a("\u0110\u1ecba ch\u1ec9 c\u1ee7a b\u1ea1n t\u1ed3n t\u1ea1i \u1edf \u0111\u1ecba ph\u01b0\u01a1ng c\u1ee7a b\u1ea1n"),"yourBagIsEmpty",Z.a("Gi\u1ecf h\xe0ng c\u1ee7a b\u1ea1n tr\u1ed1ng r\u1ed7ng"),"yourBookingDetail",Z.a("Chi ti\u1ebft \u0111\u1eb7t ph\xf2ng c\u1ee7a b\u1ea1n"),"yourEarningsThisMonth",Z.a("Thu nh\u1eadp c\u1ee7a b\u1ea1n trong th\xe1ng n\xe0y"),"yourNote",Z.a("Ghi ch\xfa c\u1ee7a b\u1ea1n"),"yourOrders",Z.a("\u0110\u01a1n \u0111\u1eb7t h\xe0ng c\u1ee7a b\u1ea1n"),"yourUsernameEmail",Z.a("T\xean \u0111\u0103ng nh\u1eadp ho\u1eb7c email c\u1ee7a b\u1ea1n"),"zipCode",Z.a("M\xe3 b\u01b0u \u0111i\u1ec7n"),"zipCodeIsRequired",Z.a("M\xe3 b\u01b0u \u0111i\u1ec7n kh\xf4ng \u0111\u01b0\u1ee3c b\u1ecf tr\u1ed1ng")],y.g,y.a)},
-avv:function avv(d){this.a=d}},O,M,V,U,L,F
-a.setFunctionNamesIfNecessary([A])
-C=c[0]
-H=c[1]
-J=c[2]
-P=c[3]
-W=c[4]
-D=c[5]
-S=c[6]
-R=c[7]
-T=c[8]
-Q=c[9]
-G=c[10]
-Y=c[11]
-Z=c[12]
-X=c[13]
-E=c[14]
-N=c[15]
-K=c[16]
-B=c[17]
-A=a.updateHolder(c[18],A)
-O=c[19]
-M=c[20]
-V=c[21]
-U=c[22]
-L=c[23]
-F=c[24]
-A.avv.prototype={
-giF:function(){return"vi"},
-gij:function(){return this.a}}
-var z=a.updateTypes(["t(@)","a_<t,bL>(@)"]);(function installTearOffs(){var x=a._static_1
-x(A,"dKv","dcR",0)
-x(A,"dKw","de3",0)
-x(A,"dKH","diW",0)
-x(A,"dKK","djm",0)
-x(A,"dKL","djN",0)
-x(A,"dKM","dke",0)
-x(A,"dKN","dkG",0)
-x(A,"dKO","dl4",0)
-x(A,"dKP","dlw",0)
-x(A,"dKQ","dlV",0)
-x(A,"dKx","ddj",0)
-x(A,"dKy","de4",0)
-x(A,"dKz","dez",0)
-x(A,"dKA","df1",0)
-x(A,"dKB","dfu",0)
-x(A,"dKC","dfW",0)
-x(A,"dKD","dgm",0)
-x(A,"dKE","dgN",0)
-x(A,"dKF","dhe",0)
-x(A,"dKG","dhG",0)
-x(A,"dKI","di5",0)
-x(A,"dKJ","diw",0)
-x(A,"dKu","cTO",1)})();(function inheritance(){var x=a.inherit
-x(A.avv,Z.d2)})()
-H.ew(b.typeUniverse,JSON.parse('{"avv":{"d2":[]}}'))
-0
-var y={a:H.a9("bL"),g:H.a9("t")};(function lazyInitializers(){var x=a.lazyFinal
-x($,"dTQ","d3O",function(){return new A.avv(A.cTO(A.dKu()))})})()}
-$__dart_deferred_initializers__["uUITg9gUrMoq4HebvuN4SiYCl6o="] = $__dart_deferred_initializers__.current
-//# sourceMappingURL=main.dart.js_40.part.js.map
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D={
+ejA(d,e,f,g){return new D.ZS(e,d,f,!0,null)},
+ZS:function ZS(d,e,f,g,h){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.a=h},
+awr:function awr(d){this.a=null
+this.b=d
+this.c=null},
+cge:function cge(d){this.a=d},
+cgc:function cgc(d){this.a=d},
+cgd:function cgd(d){this.a=d},
+cgf:function cgf(d,e){this.a=d
+this.b=e},
+cgh:function cgh(d,e,f){this.a=d
+this.b=e
+this.c=f},
+cgg:function cgg(d,e,f){this.a=d
+this.b=e
+this.c=f}},E={ab2:function ab2(d,e,f,g,h,i,j){var _=this
+_.c=d
+_.e=e
+_.f=f
+_.r=g
+_.x=h
+_.y=i
+_.a=j},bPn:function bPn(d){this.a=d}},F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+a.setFunctionNamesIfNecessary([D,E])
+A=c[0]
+B=c[1]
+C=c[2]
+D=a.updateHolder(c[3],D)
+E=a.updateHolder(c[4],E)
+F=c[5]
+G=c[6]
+H=c[7]
+J=c[8]
+K=c[9]
+L=c[10]
+M=c[11]
+N=c[12]
+O=c[13]
+P=c[14]
+Q=c[15]
+R=c[16]
+S=c[17]
+T=c[18]
+U=c[19]
+V=c[20]
+W=c[21]
+X=c[22]
+Y=c[23]
+Z=c[24]
+E.ab2.prototype={
+c5N(d){var x,w,v,u,t,s=this,r=null,q=s.r,p=q*2,o=y.u,n=H.b([M.z(r,G.yA(r,new A.cE(new E.bPn(s),r),r,r,C.S,r,C.U,r,p,r,r,q),C.f,r,r,r,r,r,r,C.aE_,r,r,r,r)],o)
+if(s.c){x=K.l(d).A.Q
+w=K.l(d).d
+w=P.V(245,w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255)
+v=K.aj(9)
+u=s.y
+t=u.gaVr()
+t=H.b([T.T(H.b([L.w(t[0].toUpperCase()+C.e.bN(t,1),r,r,r,r,r,r,r,K.l(d).A.x.fm(C.o),r,r,r),B.H6(d,r,r,"The Compatible Product that you have purchased.\nOne product will compatible with many templates")],o),C.m,r,C.ao,C.j,r,r),C.G,C.k6,B.Lt(d,"Device"),L.w("iOS, Android, PWA",r,r,r,r,r,r,r,x,r,r,r)],o)
+if(u.gaQs().length!==0)C.c.H(t,H.b([C.k6,B.Lt(d,"App Type"),L.w(u.gaQs(),r,r,r,r,r,r,r,x,r,r,r)],o))
+t.push(C.aJ)
+o=U.Cb(r,r,K.l(d).b,r,r,r,r,r,r,C.L,C.eo,C.L,r,new X.x4(K.aj(6),C.a3),r,r,r,r,r)
+t.push(U.dl(!1,T.T(C.cNF,C.m,r,C.a9,C.j,r,r),C.f,r,r,r,s.f,o))
+n.push(M.z(r,T.Q(t,C.w,r,C.k,C.j,r),C.f,r,r,new S.a4(w,r,r,v,r,r,r,C.r),r,50+p,r,r,C.af,r,r,q+60))}return T.be(C.N,n,C.C,C.P,r,r)},
+p(d,e){var x=null,w=K.aj(9),v=K.l(e).d
+v=P.V(C.i.L(127.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255)
+return D.ax(x,M.z(x,G.H0(this.c5N(e),C.U,x,C.S,G.NE()),C.f,x,x,new S.a4(v,x,x,w,x,x,x,C.r),x,x,x,C.iN,x,x,x,x),C.q,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,this.e,x,x,x,x,x,x,x,x)}}
+D.ZS.prototype={
+C(){return new D.awr(C.p)},
+c2a(){return this.c.$0()},
+c11(d){return this.d.$1(d)}}
+D.awr.prototype={
+bA7(){var x=this.c
+x.toString
+E.yp(C.ai,!0,new D.cge(this),x,null,!0,!0,y.b)},
+PX(d,e){return this.b2V(d,e)},
+b2V(d,e){var x=0,w=P.v(y.v)
+var $async$PX=P.q(function(f,g){if(f===1)return P.r(g,w)
+while(true)switch(x){case 0:$.aI().gaY().c=d.gaRh()
+x=2
+return P.o($.NI().$1$0(y.s).jQ("String","mockFolder",d.gaRh()),$async$PX)
+case 2:$.xN().pc(e)
+return P.t(null,w)}})
+return P.u($async$PX,w)},
+SN(d,e){return this.bBx(d,e)},
+bBx(d,e){var x=0,w=P.v(y.v),v=this,u,t,s,r
+var $async$SN=P.q(function(f,g){if(f===1)return P.r(g,w)
+while(true)switch(x){case 0:r=$.eq;(r==null?$.eq=new U.zF():r).a=null
+r=v.c
+r.toString
+u=y.j
+r=Y.A(r,!1,u)
+r.d=d
+r.c=e
+r.G()
+x=2
+return P.o(e.fQ(),$async$SN)
+case 2:t=g
+r=v.c
+r.toString
+Y.A(r,!1,u).b=t
+r=v.c
+r.toString
+r=Y.A(r,!1,u).f
+s=v.c
+x=r?3:5
+break
+case 3:s.toString
+r=Y.A(s,!1,u)
+r.f=!1
+r.G()
+P.cJ(C.bb,new D.cgf(v,e),y.F)
+x=4
+break
+case 5:s.toString
+x=6
+return P.o(v.PX(e,Y.A(s,!1,u).XC()),$async$SN)
+case 6:r=v.c
+r.toString
+r=Y.A(r,!1,y.c)
+r.d=B.d5(10)
+r.G()
+case 4:v.a.c2a()
+return P.t(null,w)}})
+return P.u($async$SN,w)},
+p(d,e){var x,w,v=null,u=this.a.e
+if(u==null)return M.z(v,v,C.f,v,v,v,v,v,v,v,v,v,v,v)
+x=y.x
+w=e.E(x).f.a.gih()<600?e.E(x).f.a.a*0.4:120
+return G.H0(T.eT(C.ae,P.dY(u.gaV0().length,new D.cgh(this,u,w),!0,y.l),C.b6,C.B,C.ae,20,0,v,C.a7),C.al,v,C.S,G.NE())}}
+var z=a.updateTypes(["~()","ab2(H)"])
+E.bPn.prototype={
+$2(d,e){var x=null,w=this.a,v=w.r,u=K.aj(3)
+return T.aH(M.z(x,U.x1(w.y.b,C.v,300,x,C.dU,x,"core_builder",x),C.f,x,x,new S.a4(x,x,x,u,x,x,x,C.r),x,v*2,x,x,C.hX,x,x,v),x,x,x)},
+$S:1797}
+D.cge.prototype={
+$1(d){var x,w=null,v=M.z(w,C.dHd,C.f,w,w,w,w,w,w,w,C.aDZ,w,w,380),u=U.dl(!1,C.yN,C.f,w,w,w,new D.cgc(d),w),t=this.a,s=t.c
+s.toString
+s=K.l(s)
+x=t.c
+x.toString
+return E.zy(H.b([u,U.dl(!1,C.dGR,C.f,w,w,w,new D.cgd(t),U.Cb(w,w,s.b,w,w,w,w,w,w,w,w,K.l(x).q.c,w,w,w,w,w,w,w)),C.d4],y.u),C.H,w,w,C.f,v,C.cl,w,C.bN,!1,w,w,w,w,w)},
+$S:38}
+D.cgc.prototype={
+$0(){K.a8(this.a,!1).bh(0,null)
+return null},
+$S:0}
+D.cgd.prototype={
+$0(){var x,w,v,u,t=this.a,s=t.a
+s.toString
+x=t.c
+x.toString
+w=y.j
+x=Y.A(x,!1,w).c
+s.c11(x==null?null:x.gaVr())
+s=t.c
+s.toString
+v=U.a8_(P.bk(Y.A(s,!1,w).XC(),y.w,y.b))
+w=t.c
+w.toString
+K.dAc(v.a5(),w)
+w=t.c
+w.toString
+Y.A(w,!1,y.c).gb_().a9F()
+s=t.c
+s.toString
+u=K.bWH(s)
+if(u!=null&&u.uX()){t=t.c
+t.toString
+K.a8(t,!1).bh(0,null)}},
+$S:0}
+D.cgf.prototype={
+$0(){var x=0,w=P.v(y.F),v=this,u,t
+var $async$$0=P.q(function(d,e){if(d===1)return P.r(e,w)
+while(true)switch(x){case 0:u=v.a
+t=u.c
+t.toString
+x=2
+return P.o(u.PX(v.b,Y.A(t,!1,y.j).XC()),$async$$0)
+case 2:u=u.c
+u.toString
+u=Y.A(u,!1,y.c)
+u.d=B.d5(10)
+u.G()
+return P.t(null,w)}})
+return P.u($async$$0,w)},
+$S:43}
+D.cgh.prototype={
+$1(d){var x,w,v,u=this.b,t=u.gaV0()[d],s=this.a,r=s.c
+r.toString
+x=y.j
+if(Y.A(r,!1,x).c==null)w=!1
+else{r=t.gal(t)
+v=s.c
+v.toString
+v=Y.A(v,!1,x).c
+if(r===(v==null?null:v.gal(v))){r=u.gal(u)
+v=s.c
+v.toString
+x=r===Y.A(v,!1,x).d
+w=x}else w=!1}s.a.toString
+return new E.ab2(w,new D.cgg(s,t,u),s.gbA6(),this.c,!0,t,null)},
+$S:z+1}
+D.cgg.prototype={
+$0(){var x=this.c
+return this.a.SN(x.gal(x),this.b)},
+$S:6};(function installTearOffs(){var x=a._instance_0u
+x(D.awr.prototype,"gbA6","bA7",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(E.ab2,N.a5)
+x(E.bPn,H.Ls)
+x(D.ZS,N.R)
+x(D.awr,L.Oa)
+w(H.yC,[D.cge,D.cgh])
+w(H.Io,[D.cgc,D.cgd,D.cgf,D.cgg])})()
+H.x8(b.typeUniverse,JSON.parse('{"ab2":{"a5":[],"k":[]},"ZS":{"R":[],"k":[]},"awr":{"S":["ZS"]}}'))
+var y=(function rtii(){var x=H.ae
+return{c:x("yg"),u:x("O<k>"),x:x("yX"),F:x("aL"),s:x("Q8"),w:x("p"),j:x("KK"),l:x("k"),b:x("@"),v:x("~")}})();(function constants(){var x=a.makeConstList
+C.aDZ=new V.a_(30,10,30,10)
+C.aE_=new V.a_(30,25,30,25)
+C.cFr=new L.b5(C.Cy,13,C.x,null)
+C.dF4=new A.ac(!0,C.x,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.dHR=new L.aD("Apply Now",null,C.dF4,null,null,null,null,null,null,null,null,null,null,null,null)
+C.cNF=H.b(x([C.cFr,C.d4,C.dHR]),y.u)
+C.dGR=new L.aD("YES",null,C.db,null,null,null,null,null,null,null,null,null,null,null,null)
+C.dHd=new L.aD("All your previous customized design will be override by this template layout?",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["1l1wT+UBLDzT9kMSLtQpkzMARgM="] = $__dart_deferred_initializers__.current

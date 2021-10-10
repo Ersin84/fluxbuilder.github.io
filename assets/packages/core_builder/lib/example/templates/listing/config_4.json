@@ -130,14 +130,7 @@
             "layout": "category",
             "categoryLayout": "card",
             "icon": "assets/icons/tabs/icon-category.png",
-            "pos": 200,
-            "categories": [
-                "33",
-                "64",
-                "19",
-                "66",
-                "65"
-            ]
+            "pos": 200
         },
         {
             "layout": "search",

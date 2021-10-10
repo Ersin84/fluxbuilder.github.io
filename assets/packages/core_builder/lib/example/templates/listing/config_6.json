@@ -50,11 +50,6 @@
       "categoryLayout":"card",
       "icon":"assets/icons/tabs/icon-category.png",
       "pos":200,
-      "categories":["19",
-        "37",
-        "33",
-        "29",
-        "35"],
       "showChat":false
     },
     {

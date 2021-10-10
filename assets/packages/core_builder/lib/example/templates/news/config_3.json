@@ -1,0 +1,126 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": false,
+      "name": "Hearty Dinner"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items": [
+        {
+          "image": "https://i.imgur.com/7aKWOLd.jpg",
+          "padding": 0.0,
+          "category": 37,
+          "radius": 24.0
+        }
+      ]
+    },
+    {
+      "title": "Giving Kids the Hearty Dinner ",
+      "isSafeArea": true,
+      "showSearch": false,
+      "padding": 15.0,
+      "height": 0.07,
+      "fontSize": 22.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "items": [
+        {
+          "image": "https://i.imgur.com/6ZGzGjO.jpeg",
+          "padding": 0.0,
+          "category": null,
+          "radius": 0.0
+        },
+        {
+          "image": "https://i.imgur.com/cSZqOnh.jpeg",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ],
+      "autoPlay": true,
+      "design": "default",
+      "radius": 10.0
+    },
+    {
+      "name": "Mommy, I want this!!",
+      "image": "",
+      "layout": "twoColumn",
+      "isSnapping": null
+    },
+    {
+      "name": "Explore More",
+      "layout": "sliderList",
+      "type": "imageOnTheLeft",
+      "imageBorder": 100.0
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "card",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "label": "Home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "search",
+      "label": "Search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "size": 24,
+      "pos": 200
+    },
+    {
+      "layout": "wishlist",
+      "label": "Wish List",
+      "icon": "assets/icons/tabs/icon-heartthin.png",
+      "pos": 300
+    },
+    {
+      "layout": "profile",
+      "label": "Setting",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 400
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "web",
+        "show": true
+      },
+      {
+        "type": "about",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "SplashScreen": {
+    "type": "animated",
+    "data": "https://media3.giphy.com/media/eJXZudWmMO6apAEWna/giphy.webp"
+  }
+}

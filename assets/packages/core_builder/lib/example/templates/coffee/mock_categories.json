@@ -1,0 +1,158 @@
+[
+    {
+        "id": 23,
+        "name": "Cappuccino",
+        "slug": "cappuccino",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Espresso",
+        "slug": "espresso",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=200",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Latte",
+        "slug": "latte",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/25"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/22"
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "Flat White",
+        "slug": "clothing",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10855,
+            "date_created": "2017-06-15T10:43:50",
+            "date_created_gmt": "2017-06-15T03:43:50",
+            "date_modified": "2017-06-15T10:43:50",
+            "date_modified_gmt": "2017-06-15T03:43:50",
+            "src": "https://mstore.io/wp-content/uploads/2017/06/cloth.png",
+            "title": "cloth",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/208"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Americano",
+        "slug": "clothing",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10855,
+            "date_created": "2017-06-15T10:43:50",
+            "date_created_gmt": "2017-06-15T03:43:50",
+            "date_modified": "2017-06-15T10:43:50",
+            "date_modified_gmt": "2017-06-15T03:43:50",
+            "src": "https://mstore.io/wp-content/uploads/2017/06/cloth.png",
+            "title": "cloth",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 3,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/208"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    }
+]

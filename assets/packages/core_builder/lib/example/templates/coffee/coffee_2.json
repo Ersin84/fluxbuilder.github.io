@@ -1,0 +1,281 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Find the best coffee \nfor you",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 110,
+      "fontSize": 27,
+      "textOpacity": 1,
+      "marginLeft": 22,
+      "marginRight": 0,
+      "marginTop": 18,
+      "marginBottom": 0,
+      "layout": "header_text",
+      "textColor": "ff000000"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.2,
+      "fit": "fitWidth",
+      "items": [
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60b5ad663cdc191f1989072a/60b5adf31ad3854f38017c14/867b1fd2da28a9e493afeddddead6d59/1.png",
+          "padding": 1.6,
+          "category": null
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60b5ad663cdc191f1989072a/60b5adf31ad3854f38017c14/5626234ac44b22a1e9bb657114a8b2a5/a95d37fe12d38bc7fb42a5869e4865e6.png",
+          "padding": 1.6,
+          "category": null
+        },
+        {
+          "padding": 1.6,
+          "image": "https://trello-attachments.s3.amazonaws.com/60b5ad663cdc191f1989072a/60b5adf31ad3854f38017c14/15eec77f97e1f5f1329417a7c7642398/2.png",
+          "category": null
+        }
+      ],
+      "autoPlay": true,
+      "design": "swiper",
+      "radius": 13.8,
+      "intervalTime": 5,
+      "title": {
+        "marginLeft": 33,
+        "textOpacity": 0.8,
+        "marginBottom": 0,
+        "hideHeader": false,
+        "fontSize": 32,
+        "showSearch": false,
+        "key": "pdk6jaarpf",
+        "layout": "header_text",
+        "textColor": "fff81515",
+        "height": 61,
+        "marginTop": 0,
+        "title": "",
+        "fontWeight": "200",
+        "marginRight": 0
+      }
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1,
+      "radius": 50,
+      "items": [
+        {
+          "category": null,
+          "image": "https://i.imgur.com/Lo2PlB9.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Latte",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/Q9z15YQ.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Black Coffee",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/MbDsHtx.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Beans",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/Cq7ZaLu.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Favorites",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "marginTop": 13,
+      "marginBottom": 0,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "columns": 4,
+      "hideTitle": false
+    },
+    {
+      "category": null,
+      "isSnapping": true,
+      "name": "Popular",
+      "layout": "twoColumn"
+    },
+    {
+      "name": "On sale",
+      "layout": "twoColumn",
+      "isSnapping": true,
+      "category": null
+    }
+  ],
+  "Setting": {
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ffff672d",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": null,
+      "showFloatingClip": false,
+      "showFloating": true,
+      "radiusTopLeft": 0,
+      "radiusTopRight": 0,
+      "radiusBottomLeft": 0,
+      "radiusBottomRight": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingBottom": 0,
+      "paddingTop": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ffff672d",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": null,
+        "floatingType": "rectangle"
+      }
+    },
+    "MainColor": "fffca31f",
+    "FontHeader": "ABeeZee",
+    "FontFamily": "Acme",
+    "ShowChat": true,
+    "ProductDetail": "halfSizeImageType"
+  },
+  "TabBar": [
+    {
+      "label": null,
+      "pos": 100,
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "icon": "home",
+      "key": "vi23r7dkx3"
+    },
+       {
+      "categoryLayout": "card",
+      "categories": null,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "pos": 200,
+      "label": null,
+      "images": null,
+      "fontFamily": "CupertinoIcons",
+      "key": "4ocmu4lm46"
+    },
+    {
+      "layout": "search",
+      "icon": "search",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 300,
+      "key": "vi23r7dkx3"
+    },
+    {
+      "layout": "cart",
+      "icon": "shopping_bag_sharp",
+      "fontFamily": "MaterialIcons",
+      "label": null,
+      "pos": 400,
+      "key": "vi23r7dkx3"
+    },
+    {
+      "layout": "profile",
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 500,
+      "settings": null,
+      "background": null,
+      "key": "hwazkmoqao"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "Background": {
+    "layout": "background",
+    "color": null,
+    "image": "https://images.unsplash.com/photo-1530124175301-15984e162c84?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "height": 0.24
+  },
+  "VerticalLayout": {
+    "isVertical": true,
+    "layout": "list",
+    "category": "322",
+    "name": "Things you might love",
+    "key": "hwazkmoqao",
+    "page": 1
+  }
+}

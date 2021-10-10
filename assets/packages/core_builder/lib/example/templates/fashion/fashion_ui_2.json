@@ -1,0 +1,267 @@
+{
+    "HorizonLayout": [
+      {
+        "title": "Best Fashion",
+        "showSearch": false,
+        "hideHeader": false,
+        "isSafeArea": true,
+        "fontWeight": "400",
+        "height": 40.0,
+        "fontSize": 26.0,
+        "textOpacity": 1.0,
+        "marginLeft": 21.0,
+        "marginRight": 0.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      },
+      {
+        "title": "Make your life with new fashion",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 21.0,
+        "fontSize": 18.0,
+        "textOpacity": 1.0,
+        "marginLeft": 22.0,
+        "marginRight": 0.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": null
+      },
+      {
+        "text": "",
+        "height": 85.0,
+        "padding": 20.0,
+        "shadow": 10.0,
+        "radius": 30.0,
+        "layout": "header_search",
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "marginTop": 13.0,
+        "marginBottom": 0.0,
+        "textOpacity": 1.0,
+        "backgroundInput": false,
+        "borderInput": false,
+        "fontSize": 13.0,
+        "boxShadow": {},
+        "showShadow": false
+      },
+      {
+        "title": "Categories",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 23.0,
+        "fontSize": 20.0,
+        "textOpacity": 1.0,
+        "marginLeft": 18.0,
+        "marginRight": 0.0,
+        "marginTop": 5.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      },
+      {
+        "layout": "category",
+        "type": "text",
+        "wrap": false,
+        "size": 1.0,
+        "radius": 19.0,
+        "items": [
+          {
+            "category": "576702152",
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Dresses",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": "576702152",
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Shoes",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": "576702152",
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "T-shirt",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": "449557068",
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Coats",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Shorts",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": "449557068",
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Bags",
+            "description": "",
+            "keepDefaultTitle": true
+          },
+          {
+            "category": null,
+            "image": null,
+            "colors": [
+              "#333333"
+            ],
+            "originalColor": true,
+            "title": "Jewelry",
+            "description": "",
+            "keepDefaultTitle": true
+          }
+        ],
+        "line": false,
+        "marginLeft": 17.0,
+        "marginRight": 17.0,
+        "marginTop": 11.0,
+        "marginBottom": 10.0,
+        "paddingX": 8.0,
+        "paddingY": 16.0,
+        "marginX": 8.0,
+        "marginY": 9.0,
+        "hideTitle": false
+      },
+      {
+        "name": "Women Fashion",
+        "layout": "twoColumn",
+        "isSnapping": false,
+        "category": null
+      }
+    ],
+    "Setting": {
+      "StickyHeader": false,
+      "TabBarConfig": {
+        "isSafeArea": true,
+        "color": null,
+        "colorCart": null,
+        "colorIcon": "ff7a7b7f",
+        "colorActiveIcon": "ffff672d",
+        "iconSize": 22.968195913186673,
+        "indicatorStyle": null,
+        "showFloatingClip": true,
+        "showFloating": true,
+        "radiusTopLeft": 0.0,
+        "radiusTopRight": 0.0,
+        "radiusBottomLeft": 0.0,
+        "radiusBottomRight": 0.0,
+        "paddingLeft": 0.0,
+        "paddingRight": 0.0,
+        "paddingBottom": 0.0,
+        "paddingTop": 0.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "TabBarIndicator": {
+          "height": null,
+          "tabPosition": "bottom",
+          "topRightRadius": null,
+          "topLeftRadius": null,
+          "bottomRightRadius": null,
+          "bottomLeftRadius": null,
+          "color": null,
+          "horizontalPadding": null,
+          "verticalPadding": null,
+          "strokeWidth": null,
+          "radius": null,
+          "distanceFromCenter": null,
+          "paintingStyle": "fill"
+        },
+        "TabBarFloating": {
+          "position": 4,
+          "radius": null,
+          "color": "ffff672d",
+          "location": "endDocked",
+          "width": null,
+          "height": null,
+          "elevation": null,
+          "floatingType": "rectangle"
+        }
+      },
+      "FontHeader": "Raleway",
+      "ShowChat": true,
+      "MainColor": "#3FC1BE",
+      "FontFamily": "Roboto",
+      "ProductListLayout": "list"
+    },
+    "TabBar": [
+      {
+        "icon": "assets/icons/tabs/icon-home.png",
+        "pos": 100,
+        "layout": "home",
+        "key": "3791iv01vg"
+      },
+      {
+        "pos": 200,
+        "icon": "assets/icons/tabs/icon-category.png",
+        "categoryLayout": "card",
+        "layout": "category",
+        "key": "zjdaweq0v6"
+      },
+      {
+        "icon": "assets/icons/tabs/icon-search.png",
+        "pos": 300,
+        "layout": "search",
+        "key": "f7auj94fhw"
+      },
+      {
+        "pos": 393,
+        "layout": "cart",
+        "icon": "assets/icons/tabs/icon-cart2.png",
+        "showChat": true,
+        "key": "w92l9c6pvx"
+      },
+      {
+        "pos": 400,
+        "layout": "profile",
+        "icon": "assets/icons/tabs/icon-user.png",
+        "key": "fks5fqdobu"
+      }
+    ],
+    "VerticalLayout": {
+      "key": "s2yc7ymvmc",
+      "layout": "list",
+      "name": "Collections",
+      "isVertical": true,
+      "category": "208"
+    }
+  }

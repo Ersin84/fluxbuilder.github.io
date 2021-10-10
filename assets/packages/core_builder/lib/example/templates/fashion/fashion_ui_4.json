@@ -1,0 +1,252 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.3,
+      "fit": "cover",
+      "items": [
+        {
+          "category": null,
+          "padding": 0.0,
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/6108e9c6b89dfc0b2510dff0/download/clothes-background.png",
+          "radius": 0.0,
+          "title": {
+            "text": "FASHION\nCHANGING ALWAYS",
+            "color": "#FFFFFF",
+            "fontSize": 24.0,
+            "x": -0.9,
+            "y": 0.34
+          },
+          "description": {
+            "text": "Let's get ready for very best\nnew fashion pop-up store",
+            "color": "#FFFFFF",
+            "fontSize": 15.0,
+            "x": -0.9,
+            "y": 0.75
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you like to find?",
+      "height": 87.0,
+      "padding": 22.0,
+      "shadow": 10.0,
+      "radius": 13.0,
+      "layout": "header_search",
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "textOpacity": 0.8,
+      "backgroundInput": true,
+      "borderInput": true,
+      "fontSize": 16.0,
+      "boxShadow": {
+        "spreadRadius": 2.0,
+        "y": 5,
+        "x": 7,
+        "colorOpacity": 0.10,
+        "blurRadius": 7.5
+      },
+      "showShadow": true
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523fab20222b0d5b653d/download/dress-icon.png",
+          "showText": true,
+          "title": "Dress",
+          "description": ""
+        },
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523e8529ab4a8ef82bb9/download/shoes-icon.png",
+          "showText": true,
+          "title": "Shoes",
+          "description": ""
+        },
+        {
+          "category": "156",
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523c780ccf8c613ccdcb/download/coat-icon.png",
+          "showText": true,
+          "title": "Coats",
+          "description": ""
+        },
+        {
+          "category": "156",
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523bea202183fa8b869f/download/short.png",
+          "showText": true,
+          "title": "Short",
+          "description": ""
+        },
+        {
+          "category": "156",
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523a835eef4e90baa351/download/bag-icon.png",
+          "showText": true,
+          "title": "Bags",
+          "description": ""
+        },
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523d0ddc8c4ef773fd34/download/tshirt-icon.png",
+          "showText": true,
+          "title": "T-shirt",
+          "description": ""
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "paddingX": 14.0,
+      "paddingY": 8.0,
+      "marginX": 10.0,
+      "marginY": 0.0,
+      "itemSize": {
+        "width": 260,
+        "height": 125
+      }
+    },
+    {
+      "name": "Special",
+      "layout": "threeColumn",
+      "isSnapping": true,
+      "category": "787"
+    },
+    {
+      "name": "Collections",
+      "layout": "simpleList",
+      "isSnapping": false,
+      "category": "787"
+    }
+  ],
+  "Setting": {
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "MainColor": "ff1d34c5",
+    "ProductDetail": "simpleType",
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": "fffe2060",
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ff1d34c5",
+      "iconSize": 23.025228226675463,
+      "indicatorStyle": "material",
+      "showFloatingClip": true,
+      "showFloating": false,
+      "radiusTopLeft": 0.0,
+      "radiusTopRight": 0.0,
+      "radiusBottomLeft": 0.0,
+      "radiusBottomRight": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 0.0,
+      "paddingTop": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": 9.988863169703269,
+        "bottomLeftRadius": 9.980371609191021,
+        "color": "ff1d34c5",
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ff1d34c5",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": 2.005172228538149,
+        "floatingType": "rectangle"
+      }
+    },
+    "FontHeader": "ABeeZee"
+  },
+  "TabBar": [
+    {
+      "fontFamily": "CupertinoIcons",
+      "layout": "home",
+      "pos": 100,
+      "icon": "home",
+      "key": "bqm1ejhqmi"
+    },
+    {
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "pos": 200,
+      "key": "3dpysbqfvn"
+    },
+    {
+      "pos": 300,
+      "size": 24,
+      "icon": "search",
+      "fontFamily": "CupertinoIcons",
+      "layout": "search",
+      "key": "47u95ebghg"
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "categoryLayout": "cart",
+      "layout": "cart",
+      "fontFamily": "CupertinoIcons",
+      "key": "ih7qbsi4zs"
+    },
+    {
+      "pos": 500,
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "layout": "profile",
+      "key": "vlzaqddkga"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  }
+}

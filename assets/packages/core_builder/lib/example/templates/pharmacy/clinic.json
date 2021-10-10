@@ -1,0 +1,294 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showNotification": true,
+      "showLogo": false,
+      "menuIcon": {
+        "name": "bandage_fill",
+        "fontFamily": "CupertinoIcons"
+      },
+      "name": "CYA CLINIC"
+    },
+    {
+      "height": 150,
+      "hideHeader": false,
+      "textOpacity": 1,
+      "fontSize": 40,
+      "layout": "header_text",
+      "textColor": "ff2e7d32",
+      "marginTop": 0,
+      "fontWeight": "400",
+      "marginRight": 100,
+      "marginBottom": 0,
+      "title": "How are you feeling",
+      "marginLeft": 24,
+      "showSearch": false
+    },
+    {
+      "marginRight": 100,
+      "textColor": "ffffffff",
+      "marginTop": 0,
+      "marginLeft": 24,
+      "fontWeight": "400",
+      "showSearch": false,
+      "height": 60,
+      "title": "today?",
+      "fontSize": 40,
+      "textOpacity": 1,
+      "marginBottom": 0,
+      "hideHeader": false,
+      "layout": "header_text"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.2,
+      "fit": "cover",
+      "items": [
+        {
+          "url": "https://petpaw.app/",
+          "padding": 0.0,
+          "image": "https://trello.com/1/cards/610ac92d295277578b408953/attachments/610adb298e2c4d4b93a0406d/previews/610adb2a8e2c4d4b93a0407a/download"
+        },
+        {
+          "image": "https://trello.com/1/cards/610ac92d295277578b408953/attachments/610adb2b13321f1f955b58b3/previews/610adb2c13321f1f955b5901/download",
+          "url": "https://petpaw.app/",
+          "padding": 0.0
+        },
+        {
+          "padding": 0.0,
+          "image": "https://trello.com/1/cards/610ac92d295277578b408953/attachments/610adb2c30f57c080a4dd3bc/previews/610adb2d30f57c080a4dd3d1/download",
+          "category": "23"
+        }
+      ],
+      "autoPlay": true,
+      "design": "swiper",
+      "radius": 8.0,
+      "intervalTime": 4
+    },
+    {
+      "title": "Our Services",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 50.0,
+      "fontSize": 20.0,
+      "textOpacity": 1.0,
+      "marginLeft": 24.0,
+      "marginRight": 24.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.4,
+      "radius": 16.0,
+      "items": [
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad0d4e6f98f6acea8e06c/previews/610ad0d4e6f98f6acea8e074/download",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "COVID",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ace280486c252cc2e0be6/previews/610ace280486c252cc2e0bf3/download",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Consultant",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610acda138e1517dfce43010/previews/610acda138e1517dfce43042/download",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Medicine",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad2238fd94072c84c0761/previews/610ad2238fd94072c84c0779/download",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Mental",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad15f18151234f67ea68f/previews/610ad15f18151234f67ea6a4/download",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Dental",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 24.0,
+      "marginRight": 24.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "paddingX": 4.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false
+    }
+  ],
+  "Setting": {
+    "FontFamily": "Bree Serif",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType",
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": "fffe2060",
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ff4caf50",
+      "iconSize": 23.0,
+      "indicatorStyle": null,
+      "showFloatingClip": false,
+      "showFloating": false,
+      "radiusTopLeft": 0.0,
+      "radiusTopRight": 0.0,
+      "radiusBottomLeft": 0.0,
+      "radiusBottomRight": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 0.0,
+      "paddingTop": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "TabBarIndicator": {
+        "height": 1.0,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": 10,
+        "bottomLeftRadius": 10,
+        "color": "ff4caf50",
+        "horizontalPadding": 1.5,
+        "verticalPadding": null,
+        "strokeWidth": 6.0,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "stroke"
+      },
+      "TabBarFloating": {
+        "position": 4,
+        "radius": null,
+        "color": "ff4caf50",
+        "location": "endDocked",
+        "width": null,
+        "height": null,
+        "elevation": 2.0,
+        "floatingType": "rectangle"
+      }
+    },
+    "MainColor": "ff4caf50",
+    "FontHeader": "Bree Serif",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "pos": 100,
+      "icon": "home",
+      "label": null,
+      "fontFamily": "CupertinoIcons",
+      "layout": "home",
+      "key": "91hmco5x5w"
+    },
+    {
+      "icon": "rectangle_grid_1x2",
+      "categories": null,
+      "images": null,
+      "label": null,
+      "categoryLayout": "card",
+      "pos": 200,
+      "fontFamily": "CupertinoIcons",
+      "layout": "category",
+      "key": "91hmco5x5w"
+    },
+    {
+      "layout": "cart",
+      "icon": "shopping_cart",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 300,
+      "key": "91hmco5x5w"
+    },
+    {
+      "layout": "profile",
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 400,
+      "settings": null,
+      "background": null,
+      "key": "91hmco5x5w"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "Background": {
+    "color": "ffa5d6a7",
+    "image": "https://trello.com/1/cards/610ac92d295277578b408953/attachments/610aca6c3a87b85e112b62fa/previews/610aca6c3a87b85e112b6306/download",
+    "height": 0.4,
+    "layout": "background"
+  },
+  "VerticalLayout": {
+    "layout": "menu",
+    "name": "Browse by categories",
+    "isVertical": true,
+    "key": "91hmco5x5w"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false,
+      "menuIcon": {
+        "name": "menu_rounded",
+        "fontFamily": "MaterialIcons"
+      },
+      "name": "Fluxstore"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.5,
+      "fit": "fill",
+      "items": [
+	          {
+          "category": null,
+          "padding":0.0,
+          "image": "https://i.imgur.com/Qb9qe5G.png"
+        },
+        {
+          "padding": 0.0,
+          "image": "https://i.imgur.com/nOdRdhz.gif",
+          "category": null
+        }
+      ],
+      "autoPlay": true,
+      "design": "default",
+      "radius": 0.0,
+      "intervalTime": 20
+    },
+    {
+      "name": "Summer Collection",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": null
+    },
+    {
+      "name": "Trending",
+      "layout": "listTile",
+      "isSnapping": false,
+      "category": null
+    }
+  ],
+  "Setting": {
+    "MainColor": "fffca31f",
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ffff672d",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": null,
+      "showFloatingClip": false,
+      "showFloating": false,
+      "radiusTopLeft": 0,
+      "radiusTopRight": 0,
+      "radiusBottomLeft": 0,
+      "radiusBottomRight": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingBottom": 0,
+      "paddingTop": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ffff672d",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": null,
+        "floatingType": "rectangle"
+      }
+    },
+    "StickyHeader": false,
+    "ProductDetail": "halfSizeImageType",
+    "FontHeader": "Roboto",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list",
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "key": "1140inbzdy",
+      "layout": "home",
+      "icon": "home",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100
+    },
+    {
+      "categoryLayout": "card",
+      "categories": null,
+      "layout": "category",
+      "icon": "bars",
+      "pos": 200,
+      "label": null,
+      "images": null,
+      "fontFamily": "CupertinoIcons",
+      "key": "1140inbzdy"
+    },
+    {
+      "layout": "search",
+      "icon": "search",
+      "label": null,
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "key": "1140inbzdy"
+    },
+    {
+      "fontFamily": "MaterialIcons",
+      "icon": "shopping_bag_sharp",
+      "pos": 400,
+      "label": null,
+      "layout": "cart",
+      "key": "1140inbzdy"
+    },
+    {
+      "icon": "person",
+      "label": null,
+      "pos": 500,
+      "settings": null,
+      "fontFamily": "CupertinoIcons",
+      "layout": "profile",
+      "background": null,
+      "key": "1140inbzdy"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "VerticalLayout": {
+    "key": "0ry96eyndj",
+    "layout": "list",
+    "name": "Things you might love",
+    "isVertical": true
+  }
+}

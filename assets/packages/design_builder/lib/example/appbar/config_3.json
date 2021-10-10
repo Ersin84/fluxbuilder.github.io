@@ -1,0 +1,52 @@
+{
+  "showOnScreens": [
+    "home"
+  ],
+  "items": [
+    {
+      "type": "text",
+      "action": "none",
+      "pos": 200,
+      "fontFamily": "CupertinoIcons",
+      "icon": "search",
+      "size": 20.0,
+      "radius": 16.0,
+      "backgroundColor": "#00000000",
+      "marginLeft": 4.0,
+      "marginRight": 4.0,
+      "marginTop": 4.0,
+      "marginBottom": 4.0,
+      "paddingLeft": 16.0,
+      "paddingRight": 16.0,
+      "paddingTop": 4.0,
+      "paddingBottom": 4.0,
+      "alignment": "left",
+      "fontSize": 18,
+      "fontWeight": "500",
+      "textOpacity": 0.8,
+      "title": "Find best product \nfor your pet",
+      "layout": "header_search",
+      "key": "gvibbsc7v9"
+    },
+    {
+      "type": "icon",
+      "action": "cart",
+      "pos": 300,
+      "fontFamily": "CupertinoIcons",
+      "icon": "cart",
+      "size": 40.0,
+      "iconSize": 18.0,
+      "radius": 18.0,
+      "backgroundColor": "#04000000",
+      "marginLeft": 4.0,
+      "marginRight": 16.0,
+      "marginTop": 4.0,
+      "marginBottom": 4.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "key": "vgv9sbbc7i"
+    }
+  ]
+}

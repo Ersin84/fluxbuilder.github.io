@@ -1,0 +1,330 @@
+{
+  "SnappingLayout": [
+    {
+      "text": "Search...",
+      "height": 89.0,
+      "padding": 20.0,
+      "shadow": 10.0,
+      "radius": 10.0,
+      "layout": "header_search",
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "textOpacity": 0.5,
+      "backgroundInput": true,
+      "borderInput": false,
+      "fontSize": 16.0,
+      "boxShadow": {
+        "y": 7.0,
+        "spreadRadius": 6.0606060606060606,
+        "blurRadius": 9.090909090909092,
+        "colorOpacity": 0.09
+      },
+      "showShadow": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "size": 1.0,
+      "radius": 50.0,
+      "wrap": true,
+      "items": [{
+        "category": 18,
+        "keepDefaultTitle": true,
+        "image": "https://image.flaticon.com/icons/png/512/869/869712.png",
+        "title": "Vegetable",
+        "colors": [
+          "#3CC2BF",
+          "#3CC2BF"
+        ],
+        "originalColor": false
+      },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/512/819/819853.png",
+          "title": "Drink",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/512/372/372922.png",
+          "title": "Milk",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/933/933310.png",
+          "title": "Meat",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/512/811/811643.png",
+          "title": "Fish",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/883/883407.png",
+          "title": "Pharmacy",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/2421/2421778.png",
+          "title": "House Hold",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/1261/1261052.png",
+          "title": "Grocery",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/920/920623.png",
+          "title": "Liquor",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/1974/1974058.png",
+          "title": "Chilled",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/2270/2270920.png",
+          "title": "Beverages",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/2682/2682044.png",
+          "title": "Frozen Food",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/3183/3183629.png",
+          "title": "Homeware",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/128/3081/3081887.png",
+          "title": "Fruits",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        }
+      ]
+    }
+  ],
+  "HorizonLayout": [
+    {
+      "name": "Collections",
+      "layout": "fourColumn",
+      "category": "1"
+    },
+    {
+      "name": "Most Popular",
+      "layout": "threeColumn",
+      "category": "2"
+    },
+    {
+      "name": "Favorites",
+      "layout": "twoColumn",
+      "category": "3"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ff3FC1BE",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": "dot",
+      "showFloatingClip": false,
+      "showFloating": false,
+      "radiusTopLeft": 0.0,
+      "radiusTopRight": 0.0,
+      "radiusBottomLeft": 0.0,
+      "radiusBottomRight": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 0.0,
+      "paddingTop": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": 3.4905237013986303,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": 13.143012458216017,
+        "color": "ffff682d",
+        "location": "centerDocked",
+        "width": 50.0,
+        "height": 50.0,
+        "elevation": 4.983128353712156,
+        "floatingType": "rectangle"
+      }
+    },
+    "ProductDetail": "simpleType",
+    "ShowChat": true,
+    "FontHeader": "ABeeZee",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "key": "rt23pebmpa",
+      "layout": "home",
+      "icon": "rectangle_grid_2x2_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100
+    },
+    {
+      "key": "5wyi6aemsc",
+      "layout": "category",
+      "icon": "flame_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200,
+      "categoryLayout": "card",
+      "categories": null,
+      "images": null
+    },
+    {
+      "key": "b799ndk8l1",
+      "layout": "search",
+      "icon": "add",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 300
+    },
+    {
+      "key": "8y18a5paef",
+      "layout": "cart",
+      "icon": "bell_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 400
+    },
+    {
+      "key": "gqxne4bctb",
+      "layout": "profile",
+      "icon": "bookmark_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 500,
+      "settings": null,
+      "background": null
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  }
+}

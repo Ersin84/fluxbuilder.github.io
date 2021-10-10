@@ -1,0 +1,268 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": true,
+      "menuIcon": {
+        "name": "gear_big",
+        "fontFamily": "CupertinoIcons"
+      },
+      "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a6badb907dc2e2e482151/download/eaglefire.png"
+    },
+    {
+      "text": "",
+      "height": 81.0,
+      "padding": 20.0,
+      "shadow": 10.0,
+      "radius": 9.0,
+      "layout": "header_search",
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "textOpacity": 1.0,
+      "backgroundInput": false,
+      "borderInput": true,
+      "fontSize": 13.0,
+      "boxShadow": {
+        "x": 6.0,
+        "y": 5.0,
+        "blurRadius": 5.0,
+        "spreadRadius": 0.0,
+        "colorOpacity": 0.10
+      },
+      "showShadow": true
+    },
+    {
+      "layout": "category",
+      "type": "text",
+      "wrap": true,
+      "size": 1.0,
+      "radius": 19.0,
+      "items": [
+        {
+          "category": "576702152",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Dresses",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "576702152",
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Shoes",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "576702152",
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "T-shirt",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "449557068",
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Coats",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Shorts",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "449557068",
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Bags",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "Jewelry",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 17.0,
+      "marginRight": 10.0,
+      "marginTop": 0.0,
+      "marginBottom": 30.0,
+      "paddingX": 8.0,
+      "paddingY": 16.0,
+      "marginX": 8.0,
+      "marginY": 9.0,
+      "columns": 4,
+      "hideTitle": false
+    },
+    {
+      "title": "SHOP STYLE IN A SNAP",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 45.0,
+      "fontSize": 26.0,
+      "textOpacity": 1.0,
+      "marginLeft": 26.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "title": "Frayed hems and fresh flares,\nour dreamy denim muse Halley Baldwin models the new denim your need",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 76.0,
+      "fontSize": 16.0,
+      "textOpacity": 1.0,
+      "marginLeft": 26.0,
+      "marginRight": 26.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "marginTop": 14.000000000000002,
+      "marginBottom": 10.0,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "height": 0.3,
+      "fit": "cover",
+      "items": [
+        {
+          "padding": 0.0,
+          "image": "https://images.unsplash.com/photo-1462392246754-28dfa2df8e6b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "radius": 20.0,
+          "url_laucher": "https://inspireui.com",
+          "title": {
+            "text": "MAKE\nYOUR STYLE",
+            "color": "#FFFFFF",
+            "fontSize": 26.0,
+            "enableShadow": true,
+            "x": -0.7,
+            "y": 0.0
+          },
+          "description": {
+            "text": "Polish up your selfies to make yourself\nmore beautiful with this app",
+            "color": "#FFFFFF",
+            "fontSize": 14.0,
+            "enableShadow": true,
+            "x": -0.5,
+            "y": 0.42
+          }
+        }
+      ]
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "menu",
+    "name": "Women Fashion"
+  },
+  "Setting": {
+    "FontFamily": "Roboto",
+    "ProductDetail": "simpleType",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "TabBarConfig": null,
+    "MainColor": "#3FC1BE",
+    "FontHeader": "Raleway",
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100,
+      "key": "o9771eyibl"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200,
+      "key": "4eylwvcbyo"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300,
+      "key": "2gaq2gaxc9"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400,
+      "key": "fs8hcmrcf9"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true,
+      "pos": 500,
+      "key": "fjfb9gy994"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

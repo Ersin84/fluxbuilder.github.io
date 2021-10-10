@@ -1,0 +1,302 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false,
+      "showNotification": true,
+      "menuIcon": {
+        "name": "line_horizontal_3_decrease",
+        "fontFamily": "CupertinoIcons"
+      },
+      "name": "Fast Pizza"
+    },
+    {
+      "text": "Search for Restaurant & Food",
+      "height": 88.0,
+      "padding": 16.0,
+      "shadow": 10.0,
+      "radius": 12.0,
+      "layout": "header_search",
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "textOpacity": 1.0,
+      "backgroundInput": true,
+      "borderInput": false,
+      "fontSize": 18.0,
+      "boxShadow": {
+        "x": 0.0,
+        "blurRadius": 18.181818181818183,
+        "spreadRadius": 0.0,
+        "colorOpacity": 0.09,
+        "y": 3.0
+      },
+      "showShadow": true
+    },
+    {
+      "name": "TOP HOT DEALS",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": null
+    },
+    {
+      "showSearch": false,
+      "isSafeArea": false,
+      "fontWeight": "400",
+      "marginRight": 16,
+      "layout": "header_text",
+      "textColor": null,
+      "title": "CATEGORIES",
+      "marginLeft": 16,
+      "marginBottom": 0,
+      "fontSize": 18,
+      "hideHeader": false,
+      "height": 50,
+      "marginTop": 16,
+      "textOpacity": 1
+    },
+    {
+      "layout": "category",
+      "type": "text",
+      "wrap": false,
+      "size": 1.4,
+      "radius": 12.0,
+      "items": [
+        {
+          "category": "23",
+          "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false,
+          "title": "🍔 Burger",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "23",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": false,
+          "title": "🍕 Pizza",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "23",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/56x48/477fabe73bec2db33ecf04953afa953e/ic_glasses.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "originalColor": false,
+          "title": "🍟 French fries",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": "23",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "title": "🐼 Panda",
+          "keepDefaultTitle": true,
+          "description": "",
+          "originalColor": false,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png"
+        },
+        {
+          "keepDefaultTitle": true,
+          "description": "",
+          "originalColor": false,
+          "category": "23",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
+          "title": "🐦 Bird",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "title": "🐸 Frog",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
+          "keepDefaultTitle": true,
+          "category": "23",
+          "description": "",
+          "originalColor": false,
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "category": "208",
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "keepDefaultTitle": true,
+          "title": "🐷 Pig",
+          "originalColor": true,
+          "description": ""
+        },
+        {
+          "category": "23",
+          "image": null,
+          "keepDefaultTitle": true,
+          "title": "🐾 Others",
+          "originalColor": true,
+          "colors": [
+            "#333333"
+          ],
+          "description": ""
+        }
+      ],
+      "line": false,
+      "marginLeft": 16.0,
+      "marginRight": 16.0,
+      "marginTop": 10.0,
+      "marginBottom": 16.0,
+      "paddingX": 12.0,
+      "paddingY": 16.0,
+      "marginX": 12.0,
+      "marginY": 12.0,
+      "hideTitle": false
+    }
+  ],
+  "Setting": {
+    "ProductDetail": "simpleType",
+    "StickyHeader": true,
+    "MainColor": "ffff7043",
+    "TabBarConfig": {
+      "showFloatingClip": true,
+      "TabBarFloating": {
+        "color": null,
+        "width": 56.00000000000001,
+        "elevation": null,
+        "position": 2,
+        "radius": 23.921720559976492,
+        "height": 56.00000000000001,
+        "location": "centerDocked",
+        "floatingType": "rectangle"
+      },
+      "colorActiveIcon": "ffff7043",
+      "colorIcon": "ffbdbdbd",
+      "isSafeArea": false,
+      "TabBarIndicator": {
+        "horizontalPadding": 2,
+        "paintingStyle": "fill",
+        "height": 2,
+        "topLeftRadius": 16,
+        "radius": null,
+        "topRightRadius": 16,
+        "color": "ffff7043",
+        "bottomLeftRadius": 16,
+        "bottomRightRadius": 16,
+        "distanceFromCenter": null,
+        "strokeWidth": 4,
+        "verticalPadding": 16,
+        "tabPosition": "bottom"
+      },
+      "paddingTop": 16,
+      "paddingLeft": 0,
+      "marginTop": 0,
+      "indicatorStyle": null,
+      "paddingRight": 0,
+      "showFloating": false,
+      "radiusTopLeft": 24,
+      "marginLeft": 0,
+      "color": "ffffffff",
+      "marginBottom": 0,
+      "radiusBottomLeft": 24,
+      "iconSize": 23,
+      "radiusBottomRight": 24,
+      "colorCart": "ffff5722",
+      "boxShadow": {
+        "x": 0,
+        "spreadRadius": 10,
+        "colorOpacity": 0,
+        "blurRadius": 10,
+        "y": 0
+      },
+      "radiusTopRight": 24,
+      "paddingBottom": 16,
+      "marginRight": 0
+    },
+    "ProductListLayout": "list",
+    "FontHeader": "Source Sans Pro",
+    "FontFamily": "Source Sans Pro"
+  },
+  "TabBar": [
+    {
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "layout": "home",
+      "icon": "house_alt_fill",
+      "label": null,
+      "key": "7ac9y4odtd"
+    },
+    {
+      "layout": "wishlist",
+      "label": null,
+      "pos": 200,
+      "icon": "heart_solid",
+      "fontFamily": "CupertinoIcons",
+      "key": "7ac9y4odtd"
+    },
+    {
+      "fontFamily": "CupertinoIcons",
+      "icon": "cart_fill",
+      "layout": "search",
+      "label": null,
+      "pos": 300,
+      "key": "7ac9y4odtd"
+    },
+    {
+      "layout": "profile",
+      "label": null,
+      "settings": null,
+      "background": null,
+      "pos": 400,
+      "fontFamily": "CupertinoIcons",
+      "icon": "person_solid",
+      "key": "7ac9y4odtd"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "FEELING HUNGRY?",
+    "isVertical": true,
+    "key": "7ac9y4odtd",
+    "page": 3
+  }
+}

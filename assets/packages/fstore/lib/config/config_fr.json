@@ -92,26 +92,25 @@
       ]
     },
     {
-      "name": "Vente Happy Flash 🎁",
-      "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
+      "name": "Bonne Vente Flash 🎁",
       "layout": "saleOff",
       "category": 22,
       "isSnapping": true
     },
     {
-      "name": "Collections homme",
+      "name": "Collections Homme",
       "image": "",
       "layout": "twoColumn",
-      "category": 21,
-      "isSnapping": true
+      "category": 21
     },
     {
       "layout": "bannerImage",
+      "height": 0.15,
       "items": [
         {
           "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
           "coupon": "blackf",
-          "padding": 8.0,
+          "padding": 15.0,
           "radius": 9.0
         }
       ]
@@ -121,11 +120,11 @@
       "layout": "recentView"
     },
     {
-      "name": "Nos billets de blog",
+      "name": "Nos articles de blog",
       "layout": "blog"
     },
     {
-      "name": "Nouvelles collections",
+      "name": "Nouvelles Collections",
       "layout": "staggered",
       "limit": 20,
       "category": 29
@@ -134,6 +133,7 @@
   "Setting": {
     "MainColor": "#3FC1BE",
     "FontFamily": "Roboto",
+    "FontHeader": "Raleway",
     "ProductListLayout": "list",
     "StickyHeader": false,
     "ShowChat": true
@@ -141,70 +141,32 @@
   "TabBar": [
     {
       "layout": "home",
-      "icon": "home",
-      "pos": 100,
-      "fontFamily": "CupertinoIcons",
-      "key": "p1q235ba14"
+      "icon": "assets/icons/tabs/icon-home.png"
     },
     {
-      "pos": 200,
       "layout": "category",
-      "icon": "rectangle_grid_1x2",
-      "fontFamily": "CupertinoIcons",
       "categoryLayout": "card",
-      "key": "hwu0rkrizt"
+      "icon": "assets/icons/tabs/icon-category.png"
     },
     {
-      "key": "2reihs4qzc",
-      "icon": "search",
       "layout": "search",
-      "fontFamily": "CupertinoIcons",
-      "pos": 300,
-      "size": 24
+      "icon": "assets/icons/tabs/icon-search.png"
     },
     {
-      "pos": 400,
-      "icon": "bag",
       "layout": "cart",
-      "categoryLayout": "cart",
-      "key": "a2xts0oou6",
-      "fontFamily": "CupertinoIcons"
+      "icon": "assets/icons/tabs/icon-cart2.png"
     },
     {
       "layout": "profile",
-      "fontFamily": "CupertinoIcons",
-      "pos": 500,
-      "key": "69jw5yx12d",
-      "icon": "person"
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
     }
   ],
   "searchSuggestion": [
     "Here are some suggestions:",
-    "man",
-    "woman",
-    "dress",
-    "Stitch"
-  ],
-  "OnBoarding": {
-    "data": [
-      {
-        "title": "Bienvenue sur FluxStore",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Fluxstore est en route pour vous servir. ",
-        "background": "#FFF3F2"
-      },
-      {
-        "title": "Connecter le monde environnant",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "Voyez tout ce qui se passe autour de vous en un clic dans votre téléphone. Rapide, pratique et propre.",
-        "background": "#F2FFFC"
-      },
-      {
-        "title": "Commençons",
-        "image": "fogg-order-completed.png",
-        "desc": "N’attendons plus, voyons ce que nous obtenons!",
-        "background": "#F9F2FF"
-      }
-    ]
-  }
+    "Print",
+    "T-Shirt",
+    "Jersey",
+    "Hoodie"
+  ]
 }

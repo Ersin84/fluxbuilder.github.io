@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Happy Flash Sale 🎁",
+      "name": "Buona vendita flash 🎁",
       "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/990x316/2bd8b7540812cdbc254129ff35667d93/sale.gif",
       "layout": "saleOff",
       "category": 22,
@@ -107,11 +107,12 @@
     },
     {
       "layout": "bannerImage",
+      "height": 0.15,
       "items": [
         {
           "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
           "coupon": "blackf",
-          "padding": 8.0,
+          "padding": 15.0,
           "radius": 9.0
         }
       ]
@@ -184,27 +185,5 @@
     "woman",
     "dress",
     "Stitch"
-  ],
-  "OnBoarding": {
-    "data": [
-      {
-        "title": "Benvenuti in FluxStore",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Fluxstore è sulla strada per servirti. ",
-        "background": "#FFF3F2"
-      },
-      {
-        "title": "Connetti il mondo circostante",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "Guarda tutte le cose che accadono intorno a te con un clic nel tuo telefono. Veloce, comodo e pulito.",
-        "background": "#F2FFFC"
-      },
-      {
-        "title": "Iniziamo",
-        "image": "fogg-order-completed.png",
-        "desc": "Non aspettando più, vediamo cosa otteniamo!",
-        "background": "#F9F2FF"
-      }
-    ]
-  }
+  ]
 }

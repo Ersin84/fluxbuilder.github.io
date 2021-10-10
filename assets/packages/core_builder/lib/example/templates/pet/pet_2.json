@@ -1,0 +1,320 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false,
+      "showCart": true,
+      "menuIcon": {
+        "name": "circle_grid_hex_fill",
+        "fontFamily": "CupertinoIcons"
+      },
+      "name": ""
+    },
+    {
+      "fontSize": 24,
+      "marginRight": 16,
+      "marginTop": 16,
+      "marginLeft": 16,
+      "hideHeader": false,
+      "isSafeArea": true,
+      "layout": "header_text",
+      "title": "Find best product\nfor your pet",
+      "marginBottom": 0,
+      "showSearch": true,
+      "fontWeight": "700",
+      "textColor": null,
+      "height": 64,
+      "textOpacity": 1
+    },
+    {
+      "intervalTime": 4,
+      "fit": "cover",
+      "radius": 16.3,
+      "marginTop": 16,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "isSlider": true,
+      "autoPlay": true,
+      "height": 0.2,
+      "marginBottom": 0,
+      "items": [
+        {
+          "padding": 16.1,
+          "url": "https://petpaw.app/",
+          "image": "https://trello.com/1/cards/610ab60d5e88a76716ceb828/attachments/610ab617aeb39445098152f2/previews/610ab618aeb394450981530e/download"
+        },
+        {
+          "image": "https://trello.com/1/cards/610ab60d5e88a76716ceb828/attachments/610ab6198fa1a87f689a8631/previews/610ab6198fa1a87f689a863c/download",
+          "url": "https://petpaw.app/",
+          "padding": 16.1
+        },
+        {
+          "image": "https://trello.com/1/cards/610ab60d5e88a76716ceb828/attachments/610ab61ab114117ae39213e9/previews/610ab61ab114117ae39213f6/download",
+          "padding": 16.1,
+          "category": "23"
+        }
+      ],
+      "design": "default",
+      "layout": "bannerImage"
+    },
+    {
+      "showSearch": false,
+      "fontWeight": "400",
+      "hideHeader": false,
+      "fontSize": 18,
+      "marginRight": 16,
+      "textColor": null,
+      "layout": "header_text",
+      "marginBottom": 0,
+      "marginLeft": 16,
+      "title": "CATEGORIES",
+      "textOpacity": 1,
+      "height": 50,
+      "isSafeArea": false,
+      "marginTop": 16
+    },
+    {
+      "paddingY": 12,
+      "marginRight": 16,
+      "size": 1.2,
+      "line": false,
+      "marginY": 12,
+      "type": "text",
+      "marginBottom": 10,
+      "radius": 16,
+      "marginLeft": 16,
+      "marginTop": 10,
+      "marginX": 12,
+      "items": [
+        {
+          "title": "🐶 Dog",
+          "originalColor": false,
+          "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
+          "category": "23",
+          "description": "",
+          "keepDefaultTitle": true,
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": false,
+          "category": "23",
+          "description": "",
+          "title": "🐱 Cat",
+          "keepDefaultTitle": true
+        },
+        {
+          "title": "🐹 Hamster",
+          "description": "",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/56x48/477fabe73bec2db33ecf04953afa953e/ic_glasses.png",
+          "category": "23",
+          "keepDefaultTitle": true,
+          "originalColor": false
+        },
+        {
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "category": "23",
+          "originalColor": false,
+          "title": "🐼 Panda",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
+          "keepDefaultTitle": true,
+          "description": ""
+        },
+        {
+          "originalColor": false,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
+          "keepDefaultTitle": true,
+          "description": "",
+          "title": "🐦 Bird",
+          "category": "23",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
+          "keepDefaultTitle": true,
+          "category": "23",
+          "originalColor": false,
+          "title": "🐸 Frog",
+          "description": "",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "keepDefaultTitle": true,
+          "originalColor": true,
+          "colors": [
+            "#333333"
+          ],
+          "description": "",
+          "title": "🐷 Pig",
+          "image": null,
+          "category": "208"
+        },
+        {
+          "keepDefaultTitle": true,
+          "originalColor": true,
+          "title": "🐾 Others",
+          "image": null,
+          "description": "",
+          "category": "23",
+          "colors": [
+            "#333333"
+          ]
+        }
+      ],
+      "hideTitle": false,
+      "paddingX": 12,
+      "wrap": false,
+      "layout": "category"
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": {
+      "indicatorStyle": null,
+      "paddingBottom": 16,
+      "marginTop": 0,
+      "color": "ffffffff",
+      "isSafeArea": false,
+      "radiusBottomRight": 24,
+      "TabBarFloating": {
+        "position": 2,
+        "elevation": null,
+        "height": 56.00000000000001,
+        "location": "centerDocked",
+        "radius": 23.921720559976492,
+        "width": 56.00000000000001,
+        "color": null,
+        "floatingType": "rectangle"
+      },
+      "showFloating": false,
+      "radiusBottomLeft": 24,
+      "boxShadow": {
+        "y": 0,
+        "blurRadius": 10,
+        "x": 0,
+        "spreadRadius": 10,
+        "colorOpacity": 0
+      },
+      "colorCart": "ffff5722",
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "colorIcon": "ffbdbdbd",
+      "colorActiveIcon": "ffff7043",
+      "radiusTopLeft": 24,
+      "paddingLeft": 0,
+      "paddingTop": 16,
+      "marginRight": 0,
+      "radiusTopRight": 24,
+      "TabBarIndicator": {
+        "strokeWidth": 4,
+        "color": "ffff7043",
+        "height": 2,
+        "bottomLeftRadius": 16,
+        "topLeftRadius": 16,
+        "topRightRadius": 16,
+        "bottomRightRadius": 16,
+        "paintingStyle": "fill",
+        "distanceFromCenter": null,
+        "horizontalPadding": 2,
+        "tabPosition": "bottom",
+        "radius": null,
+        "verticalPadding": 16
+      },
+      "iconSize": 23,
+      "paddingRight": 0,
+      "showFloatingClip": true
+    },
+    "FontFamily": "Source Sans Pro",
+    "MainColor": "ffff7043",
+    "FontHeader": "Source Sans Pro",
+    "ProductDetail": "simpleType",
+    "ProductListLayout": "list",
+    "StickyHeader": false
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "label": null,
+      "icon": "house_alt_fill",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "yf8grf7zfd"
+    },
+    {
+      "layout": "wishlist",
+      "icon": "heart_solid",
+      "pos": 200,
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "key": "yf8grf7zfd"
+    },
+    {
+      "pos": 300,
+      "icon": "cart_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "layout": "search",
+      "key": "yf8grf7zfd"
+    },
+    {
+      "label": null,
+      "fontFamily": "CupertinoIcons",
+      "background": null,
+      "pos": 400,
+      "layout": "profile",
+      "icon": "person_solid",
+      "settings": null,
+      "key": "yf8grf7zfd"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "VerticalLayout": {
+    "limit": 10,
+    "name": "CUSTOMER FAVORITES",
+    "layout": "pinterest",
+    "isVertical": true,
+    "key": "yf8grf7zfd",
+    "page": 1
+  }
+}

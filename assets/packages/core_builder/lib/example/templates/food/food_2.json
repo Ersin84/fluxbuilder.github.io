@@ -1,0 +1,266 @@
+{
+    "HorizonLayout": [
+      {
+        "layout": "logo",
+        "showMenu": true,
+        "showSearch": false,
+        "showLogo": true,
+        "menuIcon": {
+          "name": "blur_on",
+          "fontFamily": "MaterialIcons"
+        },
+        "image": "https://trello.com/1/cards/6108e20d969429879834a214/attachments/6108e21d54bfd524415c4589/download/food-logo.png"
+      },
+      {
+        "title": "Categories",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 30.0,
+        "fontSize": 22.0,
+        "textOpacity": 1.0,
+        "marginLeft": 14.000000000000002,
+        "marginRight": 0.0,
+        "marginTop": 10.0,
+        "marginBottom": 5.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      },
+      {
+        "type": "image",
+        "size": 1,
+        "marginRight": 10,
+        "marginTop": 0,
+        "wrap": true,
+        "radius": 0,
+        "columns": 4,
+        "layout": "category",
+        "marginBottom": 0,
+        "marginY": 0,
+        "paddingX": 0,
+        "line": false,
+        "marginLeft": 20,
+        "itemSize": {
+          "width": 360,
+          "height": 110
+        },
+        "paddingY": 0,
+        "marginX": 0,
+        "items": [
+          {
+            "category": "208",
+            "showText": true,
+            "description": "",
+            "title": "Sea Food",
+            "image": "https://images.unsplash.com/photo-1582759777896-0aaa738a5c38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1489&q=80"
+          },
+          {
+            "category": null,
+            "title": "Vegetables",
+            "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "showText": true,
+            "description": ""
+          },
+          {
+            "category": "208",
+            "title": "Fruits",
+            "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80",
+            "description": "",
+            "showText": true
+          },
+          {
+            "category": null,
+            "image": "https://images.unsplash.com/photo-1527324688151-0e627063f2b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "showText": true,
+            "description": "",
+            "title": "Meat"
+          },
+          {
+            "description": "",
+            "category": null,
+            "image": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+            "title": "Fish",
+            "showText": true
+          },
+          {
+            "description": "",
+            "category": "208",
+            "title": "Drink",
+            "showText": true,
+            "image": "https://images.unsplash.com/photo-1560523964-7c0a83b8f8e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+          }
+        ]
+      },
+      {
+        "title": "E-voucher",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 26.0,
+        "fontSize": 15.0,
+        "textOpacity": 1.0,
+        "marginLeft": 10.0,
+        "marginRight": 0.0,
+        "marginTop": 10.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ffe26600"
+      },
+      {
+        "layout": "bannerImage",
+        "isSlider": false,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "height": 0.15,
+        "fit": "cover",
+        "items": [
+          {
+            "padding": 8.9,
+            "image": "https://trello.com/1/cards/6108e20d969429879834a214/attachments/6108e73f4345f843e1e86493/download/food-ads.png",
+            "url": "https://inspireui.com"
+          }
+        ]
+      },
+      {
+        "title": "Menu",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 37.0,
+        "fontSize": 26.0,
+        "textOpacity": 1.0,
+        "marginLeft": 12.0,
+        "marginRight": 0.0,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "layout": "header_text",
+        "textColor": "ff000000"
+      }
+    ],
+    "Setting": {
+      "FontFamily": "Roboto",
+      "ProductDetail": "simpleType",
+      "ProductListLayout": "list",
+      "StickyHeader": false,
+      "TabBarConfig": {
+        "showFloating": true,
+        "marginLeft": 0,
+        "radiusBottomRight": 0,
+        "colorIcon": "ff7a7b7f",
+        "indicatorStyle": "dot",
+        "marginBottom": 0,
+        "TabBarIndicator": {
+          "tabPosition": "bottom",
+          "height": null,
+          "topLeftRadius": null,
+          "paintingStyle": "fill",
+          "distanceFromCenter": null,
+          "topRightRadius": null,
+          "horizontalPadding": null,
+          "color": "ffff6200",
+          "bottomRightRadius": null,
+          "bottomLeftRadius": null,
+          "strokeWidth": null,
+          "verticalPadding": null,
+          "radius": null
+        },
+        "color": null,
+        "paddingLeft": 0,
+        "iconSize": 22.968195913186673,
+        "colorCart": null,
+        "paddingBottom": 0,
+        "radiusTopRight": 0,
+        "showFloatingClip": true,
+        "colorActiveIcon": "ffff672d",
+        "isSafeArea": true,
+        "paddingTop": 0,
+        "TabBarFloating": {
+          "height": 51,
+          "width": 51,
+          "radius": null,
+          "position": 0,
+          "elevation": null,
+          "floatingType": "rectangle",
+          "location": "startDocked",
+          "color": "ffff672d"
+        },
+        "radiusBottomLeft": 0,
+        "marginRight": 0,
+        "marginTop": 0,
+        "paddingRight": 0,
+        "radiusTopLeft": 0
+      },
+      "MainColor": "#3FC1BE",
+      "FontHeader": "ABeeZee",
+      "ShowChat": true
+    },
+    "TabBar": [
+      {
+        "layout": "home",
+        "fontFamily": "CupertinoIcons",
+        "icon": "news",
+        "pos": 100,
+        "label": null,
+        "key": "0b049tqpbr"
+      },
+      {
+        "pos": 200,
+        "icon": "rectangle_grid_1x2",
+        "categoryLayout": "card",
+        "layout": "category",
+        "fontFamily": "CupertinoIcons",
+        "key": "vg3plx1rv9"
+      },
+      {
+        "size": 24,
+        "pos": 300,
+        "icon": "search",
+        "fontFamily": "CupertinoIcons",
+        "layout": "search",
+        "key": "hflxocj0os"
+      },
+      {
+        "categoryLayout": "cart",
+        "pos": 400,
+        "fontFamily": "CupertinoIcons",
+        "layout": "cart",
+        "icon": "bag",
+        "key": "fms3vl1dgg"
+      },
+      {
+        "pos": 500,
+        "layout": "profile",
+        "fontFamily": "CupertinoIcons",
+        "icon": "person",
+        "key": "517be9fbsu"
+      }
+    ],
+    "Drawer": {
+      "logo": "assets/images/logo.png",
+      "items": [
+        {
+          "show": true,
+          "type": "home"
+        },
+        {
+          "show": true,
+          "type": "blog"
+        },
+        {
+          "type": "login",
+          "show": true
+        },
+        {
+          "type": "category",
+          "show": true
+        }
+      ]
+    },
+    "VerticalLayout": {
+      "key": "99s1cs3ij2",
+      "layout": "menu",
+      "isVertical": true
+    }
+  }

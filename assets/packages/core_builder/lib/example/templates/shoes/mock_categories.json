@@ -1,0 +1,167 @@
+[
+    {
+        "id": 23,
+        "name": "Nike",
+        "slug": "bags",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10861,
+            "date_created": "2017-06-15T13:34:54",
+            "date_created_gmt": "2017-06-15T06:34:54",
+            "date_modified": "2017-06-15T13:34:54",
+            "date_modified_gmt": "2017-06-15T06:34:54",
+            "src": "https://images.unsplash.com/photo-1579298245158-33e8f568f7d3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1067&q=80",
+            "title": "poster",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 8,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Adidas",
+        "slug": "bags-men",
+        "parent": 0,
+        "description": "abc def",
+        "display": "default",
+        "image": {
+            "id": 10852,
+            "date_created": "2017-06-15T10:26:13",
+            "date_created_gmt": "2017-06-15T03:26:13",
+            "date_modified": "2017-06-15T10:26:13",
+            "date_modified_gmt": "2017-06-15T03:26:13",
+            "src": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "title": "man",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 7,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/24"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/18"
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Puma",
+        "slug": "men",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 10852,
+            "date_created": "2017-06-15T10:26:13",
+            "date_created_gmt": "2017-06-15T03:26:13",
+            "date_modified": "2017-06-15T10:26:13",
+            "date_modified_gmt": "2017-06-15T03:26:13",
+            "src": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+            "title": "man",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 53,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/18"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Mizuno",
+        "slug": "women",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 12016,
+            "date_created": "2017-11-24T11:28:30",
+            "date_created_gmt": "2017-11-24T04:28:30",
+            "date_modified": "2017-11-24T11:28:30",
+            "date_modified_gmt": "2017-11-24T04:28:30",
+            "src": "https://images.unsplash.com/photo-1485736231968-0c8ad5c9e174?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "title": "woman",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 43,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 309,
+        "name": "Reebok",
+        "slug": "women",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": {
+            "id": 12016,
+            "date_created": "2017-11-24T11:28:30",
+            "date_created_gmt": "2017-11-24T04:28:30",
+            "date_modified": "2017-11-24T11:28:30",
+            "date_modified_gmt": "2017-11-24T04:28:30",
+            "src": "https://images.unsplash.com/photo-1530389912609-9a007b3c38a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "title": "woman",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 43,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mstore.io/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    }
+]

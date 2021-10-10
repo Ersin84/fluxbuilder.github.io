@@ -1,0 +1,293 @@
+{
+  "HorizonLayout": [
+    {
+      "text": "Apple, iphone, ipad...",
+      "height": 85,
+      "padding": 20,
+      "shadow": 10,
+      "radius": 6,
+      "layout": "header_search",
+      "marginLeft": 0,
+      "marginRight": 0,
+      "marginTop": 60,
+      "marginBottom": 0,
+      "textOpacity": 0.6,
+      "backgroundInput": false,
+      "borderInput": false,
+      "fontSize": 13,
+      "boxShadow": {},
+      "showShadow": false
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.25,
+      "fit": "fill",
+      "items": [
+        {
+          "padding": 0,
+          "image": "https://i.imgur.com/YHCK8M5.png",
+          "category": null
+        },
+        {
+          "category": null,
+          "padding": 0,
+          "image": "https://i.imgur.com/cqJvQyR.png"
+        },
+        {
+          "padding": 0,
+          "image": "https://i.imgur.com/3YhFFKj.png",
+          "category": null
+        }
+      ],
+      "autoPlay": true,
+      "design": "default",
+      "radius": 0,
+      "intervalTime": 5
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.1,
+      "radius": 50,
+      "items": [
+        {
+          "category": null,
+          "image": "https://i.imgur.com/tqFSncS.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "iPhone",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/uF0dgtV.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Huawei",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/aC4m1Gv.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Xiaomi",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/MT1wTY3.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Oppo",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/Feti4q0.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Vivo",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/6bS4NxH.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "iPad",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/RtMit6V.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Dell",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": null,
+          "image": "https://i.imgur.com/IgbfY4f.png",
+          "colors": [
+            "#ffffff"
+          ],
+          "originalColor": true,
+          "title": "Sony",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 23,
+      "marginRight": 23,
+      "marginTop": 10,
+      "marginBottom": 10,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "columns": 4,
+      "hideTitle": false
+    },
+    {
+      "name": "Daily deals",
+      "layout": "saleOff",
+      "isSnapping": false,
+      "category": null,
+      "onSale": true,
+      "showCountDown": false
+    }
+  ],
+  "Setting": {
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ffff672d",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": null,
+      "showFloatingClip": false,
+      "showFloating": false,
+      "radiusTopLeft": 0,
+      "radiusTopRight": 0,
+      "radiusBottomLeft": 0,
+      "radiusBottomRight": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingBottom": 0,
+      "paddingTop": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ffff672d",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": null,
+        "floatingType": "rectangle"
+      }
+    },
+    "MainColor": "fffca31f",
+    "FontHeader": "Roboto",
+    "FontFamily": "Roboto",
+    "ShowChat": true,
+    "ProductDetail": "halfSizeImageType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100,
+      "key": "0dkre1i0nl"
+    },
+    {
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200,
+      "categoryLayout": "card",
+      "categories": null,
+      "images": null,
+      "key": "0dkre1i0nl"
+    },
+
+    {
+      "layout": "cart",
+      "icon": "shopping_bag_sharp",
+      "fontFamily": "MaterialIcons",
+      "label": null,
+      "pos": 300,
+      "key": "0dkre1i0nl"
+    },
+    {
+      "layout": "profile",
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 400,
+      "settings": null,
+      "background": null,
+      "key": "0dkre1i0nl"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "VerticalLayout": {
+    "key": "ylonvfwxcr",
+    "layout": "menu",
+    "name": "Explore our store",
+    "isVertical": true
+  }
+}

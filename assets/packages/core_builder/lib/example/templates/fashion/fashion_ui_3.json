@@ -1,0 +1,108 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "menuIcon": {
+        "name": "text_justifyleft",
+        "fontFamily": "CupertinoIcons"
+      },
+      "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a6badb907dc2e2e482151/download/eaglefire.png",
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "radius": 0.0,
+      "height": 0.45,
+      "fit": "cover",
+      "items": [
+        {
+          "padding": 0.0,
+          "image": "https://images.unsplash.com/photo-1603217040208-56131869e0e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+          "category": 21,
+          "button": {
+            "text": "Shop Now ⚡",
+            "textColor": "#FFFFFF",
+            "backgroundColor": "#000000",
+            "x": 0.9,
+            "y": 0.9
+          },
+          "title": {
+            "text": "BE \nFASHIONABLE",
+            "color": "#FFA700",
+            "x": 0.9,
+            "y": -0.6
+          },
+          "description": {
+            "text": "Fashion \nget your style",
+            "color": "#FFA700",
+            "fontSize": 12.0,
+            "x": 0.9,
+            "y": -0.3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Women Fashion",
+      "layout": "threeColumn",
+      "category": 21,
+      "isSnapping": true
+    },
+    {
+      "name": "Collections",
+      "layout": "simpleList"
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": null,
+    "ProductListLayout": "list",
+    "MainColor": "#3FC1BE"
+  },
+  "TabBar": [
+    {
+      "pos": 100,
+      "icon": "home",
+      "fontFamily": "CupertinoIcons",
+      "layout": "home",
+      "key": "tsfjg5j94x"
+    },
+    {
+      "pos": 200,
+      "categoryLayout": "card",
+      "fontFamily": "CupertinoIcons",
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "key": "12xgdcagqo"
+    },
+    {
+      "size": 24,
+      "fontFamily": "CupertinoIcons",
+      "layout": "search",
+      "icon": "search",
+      "pos": 300,
+      "key": "cfoy8j28p8"
+    },
+    {
+      "layout": "cart",
+      "pos": 400,
+      "fontFamily": "CupertinoIcons",
+      "icon": "bag",
+      "categoryLayout": "cart",
+      "key": "kikpc4mhjf"
+    },
+    {
+      "fontFamily": "CupertinoIcons",
+      "icon": "person",
+      "layout": "profile",
+      "pos": 500,
+      "key": "r4ijsmv3nt"
+    }
+  ]
+}

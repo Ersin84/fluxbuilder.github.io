@@ -1,0 +1,579 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": false,
+      "menuIcon": {
+        "name": "menu_rounded",
+        "fontFamily": "MaterialIcons"
+      },
+      "name": "Fluxstore"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.3,
+      "fit": "fill",
+      "items": [
+        {
+          "padding": 0,
+          "image": "https://i.imgur.com/cY1aFyz.png",
+          "category": 23
+        },
+        {
+          "padding": 0,
+          "image": "https://i.imgur.com/9TKqioM.png",
+          "category": 23
+        }
+      ],
+      "autoPlay": true,
+      "design": "default",
+      "radius": 0,
+      "intervalTime": 10
+    },
+    {
+      "title": "Trending #hashtag",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 50,
+      "fontSize": 20,
+      "textOpacity": 1,
+      "marginLeft": 16,
+      "marginRight": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "text",
+      "wrap": false,
+      "size": 1.4,
+      "radius": 2,
+      "items": [
+        {
+          "category": 23,
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "#suit",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 23,
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "#swimsuit",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 23,
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "#nikesaleoff",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 23,
+          "image": null,
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "title": "#adidas",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 30,
+      "marginRight": 10,
+      "marginTop": 10,
+      "marginBottom": 10,
+      "paddingX": 0,
+      "paddingY": 9,
+      "marginX": 0,
+      "marginY": 0,
+      "hideTitle": false
+    },
+    {
+      "title": "Season collections",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 50,
+      "fontSize": 25,
+      "textOpacity": 1,
+      "marginLeft": 16,
+      "marginRight": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 1,
+      "radius": 0,
+      "items": [
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/w9wym8O.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/TuMgqtp.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/7O8z8bw.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/BJDPgwW.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        }
+      ],
+      "line": false,
+      "marginLeft": 10,
+      "marginRight": 10,
+      "marginTop": 0,
+      "marginBottom": 10,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "itemSize": {
+        "width": 418.37008843613586,
+        "height": 600
+      }
+    },
+    {
+      "title": "Popular in",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 50,
+      "fontSize": 25,
+      "textOpacity": 1,
+      "marginLeft": 16,
+      "marginRight": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 1,
+      "radius": 0,
+      "items": [
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/h3Ij7Jg.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/QZRfOIy.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/dIySGg6.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/Jk15hq5.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/fMnzYZa.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/S0aHWao.png",
+          "showText": false,
+          "title": "",
+          "description": ""
+        }
+      ],
+      "line": false,
+      "marginLeft": 10,
+      "marginRight": 10,
+      "marginTop": 0,
+      "marginBottom": 10,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "itemSize": {
+        "width": 418.37008843613586,
+        "height": 600
+      }
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 10,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.45,
+      "fit": "fitHeight",
+      "items": [
+        {
+          "category": 23,
+          "padding": 0,
+          "image": "https://i.imgur.com/17W1f40.png"
+        },
+        {
+          "category": 23,
+          "padding": 0,
+          "image": "https://i.imgur.com/ZHLLfPK.png"
+        },
+        {
+          "category": 23,
+          "padding": 0,
+          "image": "https://i.imgur.com/Xi6Iu8r.png"
+        }
+      ],
+      "autoPlay": true,
+      "design": "stack",
+      "radius": 0,
+      "intervalTime": 3,
+      "title": {
+        "title": "Footwear",
+        "showSearch": false,
+        "hideHeader": false,
+        "fontWeight": "400",
+        "height": 50,
+        "fontSize": 25,
+        "textOpacity": 1,
+        "marginLeft": 16,
+        "marginRight": 0,
+        "marginTop": 0,
+        "marginBottom": 0,
+        "layout": "header_text",
+        "textColor": null,
+        "key": "9ih68re7uz"
+      }
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "marginTop": 12,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.2,
+      "fit": "cover",
+      "items": [
+        {
+          "padding": 0,
+          "image": "https://i.imgur.com/bwLTjzu.png",
+          "radius": 0,
+          "category": 23
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "height": 0.15,
+      "fit": "fitWidth",
+      "items": [
+        {
+          "category": 23,
+          "padding": 0,
+          "image": "https://i.imgur.com/XKkFd5n.png"
+        },
+        {
+          "category": 23,
+          "padding": 0,
+          "image": "https://i.imgur.com/DsFl3sp.png"
+        },
+        {
+          "category": 23,
+          "padding": 0,
+          "image": "https://i.imgur.com/a4elzXb.png"
+        }
+      ],
+      "autoPlay": true,
+      "design": "swiper",
+      "radius": 0,
+      "intervalTime": 10
+    }
+    ,   
+    {
+      "title": "Favorite brands",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 50,
+      "fontSize": 25,
+      "textOpacity": 1,
+      "marginLeft": 16,
+      "marginRight": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.5,
+      "radius": 50,
+      "items": [
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/uY65nVa.png",
+          "colors": [
+            "#FFFFFF"
+          ],
+          "originalColor": true,
+          "title": "",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/0VzmLCP.png",
+          "colors": [
+            "#FFFFFF"
+          ],
+          "originalColor": true,
+          "title": "",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/rc8qaus.png",
+          "colors": [
+            "#FFFFFF"
+          ],
+          "originalColor": true,
+          "title": "",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 23,
+          "image": "https://i.imgur.com/44f8odb.png",
+          "colors": [
+            "#FFFFFF"
+          ],
+          "originalColor": true,
+          "title": "",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 10,
+      "marginRight": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "paddingX": 0,
+      "paddingY": 0,
+      "marginX": 0,
+      "marginY": 0,
+      "columns": 4,
+      "hideTitle": false
+    },
+    {
+      "name": "Flash deals",
+      "layout": "saleOff",
+      "isSnapping": false,
+      "category": null,
+      "onSale": true,
+      "showCountDown": false
+    },
+    {
+      "title": "",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 20,
+      "fontSize": 25,
+      "textOpacity": 1,
+      "marginLeft": 16,
+      "marginRight": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "layout": "header_text",
+      "textColor": null
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": null,
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ffff672d",
+      "iconSize": 22.968195913186673,
+      "indicatorStyle": null,
+      "showFloatingClip": false,
+      "showFloating": false,
+      "radiusTopLeft": 0,
+      "radiusTopRight": 0,
+      "radiusBottomLeft": 0,
+      "radiusBottomRight": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingBottom": 0,
+      "paddingTop": 0,
+      "marginTop": 0,
+      "marginBottom": 0,
+      "marginLeft": 0,
+      "marginRight": 0,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "color": null,
+        "horizontalPadding": null,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ffff672d",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": null,
+        "floatingType": "rectangle"
+      }
+    },
+    "StickyHeader": true,
+    "MainColor": "fffca31f",
+    "ShowChat": true,
+    "ProductListLayout": "list",
+    "FontHeader": "Roboto",
+    "FontFamily": "Roboto",
+    "ProductDetail": "halfSizeImageType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100,
+      "key": "4ocmu4lm46"
+    },
+    {
+      "categoryLayout": "card",
+      "categories": null,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "pos": 200,
+      "label": null,
+      "images": null,
+      "fontFamily": "CupertinoIcons",
+      "key": "4ocmu4lm46"
+    },
+    {
+      "fontFamily": "MaterialIcons",
+      "icon": "shopping_bag_sharp",
+      "pos": 300,
+      "label": null,
+      "layout": "cart",
+      "key": "4ocmu4lm46"
+    },
+    {
+      "icon": "person",
+      "label": null,
+      "pos": 400,
+      "settings": null,
+      "fontFamily": "CupertinoIcons",
+      "layout": "profile",
+      "background": null,
+      "key": "4ocmu4lm46"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ]
+  }
+}
