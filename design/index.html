@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <base href="/design/">
+  <base href="/">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="FluxBuilder - Flutter App Builder">
@@ -13,7 +13,7 @@
   <meta name="apple-mobile-web-app-title" content="web_builder">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <link rel="manifest" href="../manifest.json">
+  <link rel="manifest" href="/manifest.json">
 
   <title>FluxBuilder - Flutter App Builder</title>
 
@@ -74,7 +74,7 @@
       }
       scriptLoaded = true;
       var scriptTag = document.createElement('script');
-      scriptTag.src = '../main.dart.js';
+      scriptTag.src = '/main.dart.js';
       scriptTag.type = 'application/javascript';
       document.body.append(scriptTag);
     }
@@ -85,7 +85,7 @@
         // Wait for registration to finish before dropping the <script> tag.
         // Otherwise, the browser will load the script multiple times,
         // potentially different versions.
-        var serviceWorkerUrl = '../flutter_service_worker.js?v=' + serviceWorkerVersion;
+        var serviceWorkerUrl = '/flutter_service_worker.js?v=' + serviceWorkerVersion;
         navigator.serviceWorker.register(serviceWorkerUrl)
           .then((reg) => {
             function waitForActivation(serviceWorker) {
