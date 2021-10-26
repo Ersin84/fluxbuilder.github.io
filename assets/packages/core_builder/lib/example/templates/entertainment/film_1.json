@@ -41,13 +41,11 @@
       "marginBottom": 0,
       "layout": "header_search",
       "backgroundInput": false,
-      "boxShadow": {
-      },
-      "marginRight": 0,
+      "marginRight": 20,
       "radius": 20,
-      "marginLeft": 0,
+      "marginLeft": 20,
       "borderInput": false,
-      "height": 80,
+      "height": 41,
       "padding": 20
     },
     {

@@ -2,13 +2,13 @@
   "SnappingLayout": [
     {
       "text": "Search...",
-      "height": 89.0,
+      "height": 41.0,
       "padding": 20.0,
       "shadow": 10.0,
       "radius": 10.0,
       "layout": "header_search",
-      "marginLeft": 0.0,
-      "marginRight": 0.0,
+      "marginLeft": 20.0,
+      "marginRight": 20.0,
       "marginTop": 0.0,
       "marginBottom": 0.0,
       "textOpacity": 0.5,

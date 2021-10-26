@@ -1,139 +1,139 @@
 [
   {
-    "code": "AP",
-    "name": "Andhra Pradesh"
+    "code": "AC",
+    "name": "Aceh"
   },
   {
-    "code": "AR",
-    "name": "Arunachal Pradesh"
+    "code": "SU",
+    "name": "Sumatera Utara"
   },
   {
-    "code": "AS",
-    "name": "Assam"
+    "code": "SB",
+    "name": "Sumatera Barat"
   },
   {
-    "code": "BR",
-    "name": "Bihar"
+    "code": "RI",
+    "name": "Riau"
   },
   {
-    "code": "CG",
-    "name": "Chhattisgarh"
+    "code": "KR",
+    "name": "Kepulauan Riau"
   },
   {
-    "code": "GA",
-    "name": "Goa"
+    "code": "JA",
+    "name": "Jambi"
   },
   {
-    "code": "GJ",
-    "name": "Gujarat"
+    "code": "BE",
+    "name": "Bengkulu"
   },
   {
-    "code": "HR",
-    "name": "Haryana"
+    "code": "SS",
+    "name": "Sumatera Selatan"
   },
   {
-    "code": "HP",
-    "name": "Himachal Pradesh"
+    "code": "BB",
+    "name": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "LA",
+    "name": "Lampung"
   },
   {
     "code": "JK",
-    "name": "Jammu and Kashmir"
+    "name": "DKI Jakarta"
   },
   {
-    "code": "JH",
-    "name": "Jharkhand"
+    "code": "BT",
+    "name": "Banten"
   },
   {
-    "code": "KA",
-    "name": "Karnataka"
+    "code": "JB",
+    "name": "Jawa Barat"
   },
   {
-    "code": "KL",
-    "name": "Kerala"
+    "code": "JT",
+    "name": "Jawa Tengah"
   },
   {
-    "code": "MP",
-    "name": "Madhya Pradesh"
+    "code": "YO",
+    "name": "DIY Yogyakarta"
   },
   {
-    "code": "MH",
-    "name": "Maharashtra"
+    "code": "JI",
+    "name": "Jawa Timur"
   },
   {
-    "code": "MN",
-    "name": "Manipur"
+    "code": "BA",
+    "name": "Bali"
   },
   {
-    "code": "ML",
-    "name": "Meghalaya"
+    "code": "NB",
+    "name": "Nusa Tenggara Barat"
   },
   {
-    "code": "MZ",
-    "name": "Mizoram"
+    "code": "NT",
+    "name": "Nusa Tenggara Timur"
   },
   {
-    "code": "NL",
-    "name": "Nagaland"
+    "code": "KB",
+    "name": "Kalimantan Barat"
   },
   {
-    "code": "OR",
-    "name": "Orissa"
+    "code": "KT",
+    "name": "Kalimantan Tengah"
+  },
+  {
+    "code": "KS",
+    "name": "Kalimantan Selatan"
+  },
+  {
+    "code": "KI",
+    "name": "Kalimantan Timur"
+  },
+  {
+  "code": "KU",
+  "name": "Kalimantan Utara"
+  },
+  {
+    "code": "SA",
+    "name": "Sulawesi Utara"
+  },
+  {
+    "code": "GO",
+    "name": "Gorontalo"
+  },
+  {
+    "code": "ST",
+    "name": "Sulawesi Tengah"
+  },
+  {
+    "code": "SR",
+    "name": "Sulawesi Barat"
+  },
+  {
+    "code": "SN",
+    "name": "Sulawesi Selatan"
+  },
+  {
+    "code": "SG",
+    "name": "Sulawesi Tenggara"
+  },
+  {
+    "code": "MU",
+    "name": "Maluku Utara"
+  },
+  {
+    "code": "MA",
+    "name": "Maluku"
   },
   {
     "code": "PB",
-    "name": "Punjab"
+    "name": "Papua Barat"
   },
   {
-    "code": "RJ",
-    "name": "Rajasthan"
-  },
-  {
-    "code": "SK",
-    "name": "Sikkim"
-  },
-  {
-  "code": "TR",
-  "name": "Tripura"
-  },
-  {
-    "code": "UK",
-    "name": "Uttarakhand"
-  },
-  {
-    "code": "UP",
-    "name": "Uttar Pradesh"
-  },
-  {
-    "code": "WB",
-    "name": "West Bengal"
-  },
-  {
-    "code": "TN",
-    "name": "Tamil Nadu"
-  },
-  {
-    "code": "AN",
-    "name": "Andaman and Nicobar Islands"
-  },
-  {
-    "code": "CH",
-    "name": "Chandigarh"
-  },
-  {
-    "code": "DN",
-    "name": "Dadra and Nagar Haveli"
-  },
-  {
-    "code": "DD",
-    "name": "Daman and Diu"
-  },
-  {
-    "code": "DL",
-    "name": "Delhi"
-  },
-  {
-    "code": "LD",
-    "name": "Lakshadweep Islands"
+    "code": "PA",
+    "name": "Papua"
   },
   {
     "code": "PY",

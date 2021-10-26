@@ -26,6 +26,9 @@
     },
     {
       "layout": "header_search",
+      "height": 41,
+      "marginLeft": 15.0,
+      "marginRight": 15.0,
       "text": "Search for a product"
     },
     {

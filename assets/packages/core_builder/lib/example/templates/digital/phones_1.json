@@ -2,20 +2,19 @@
   "HorizonLayout": [
     {
       "text": "Apple, iphone, ipad...",
-      "height": 85,
+      "height": 41,
       "padding": 20,
       "shadow": 10,
       "radius": 6,
       "layout": "header_search",
-      "marginLeft": 0,
-      "marginRight": 0,
+      "marginLeft": 20,
+      "marginRight": 20,
       "marginTop": 60,
       "marginBottom": 0,
       "textOpacity": 0.6,
       "backgroundInput": false,
       "borderInput": false,
       "fontSize": 13,
-      "boxShadow": {},
       "showShadow": false
     },
     {

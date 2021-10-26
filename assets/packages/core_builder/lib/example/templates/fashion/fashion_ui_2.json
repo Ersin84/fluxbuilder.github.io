@@ -33,20 +33,19 @@
       },
       {
         "text": "",
-        "height": 85.0,
+        "height": 41.0,
         "padding": 20.0,
         "shadow": 10.0,
         "radius": 30.0,
         "layout": "header_search",
-        "marginLeft": 0.0,
-        "marginRight": 0.0,
+        "marginLeft": 15.0,
+        "marginRight": 15.0,
         "marginTop": 13.0,
         "marginBottom": 0.0,
         "textOpacity": 1.0,
         "backgroundInput": false,
         "borderInput": false,
         "fontSize": 13.0,
-        "boxShadow": {},
         "showShadow": false
       },
       {

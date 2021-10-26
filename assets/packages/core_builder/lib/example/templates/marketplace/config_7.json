@@ -35,11 +35,11 @@
             "upHeight": 0
         },
         {
-            "padding": 20,
-            "shadow": 10,
-            "height": 77,
             "layout": "header_search",
-            "radius": 30,
+            "radius": 30.0,
+            "height": 41,
+            "marginLeft": 20.0,
+            "marginRight": 20.0,
             "text": "Search for a product"
         },
         {

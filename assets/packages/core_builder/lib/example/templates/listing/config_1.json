@@ -19,8 +19,9 @@
     },
     {
       "text": "Search for a product",
-      "height": 81.0,
-      "padding": 20.0,
+      "height": 41.0,
+      "marginLeft": 20.0,
+      "marginRight": 20.0,
       "shadow": 10.0,
       "radius": 6.0,
       "layout": "header_search"
