@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D={
-a8w(d,e){return D.eXt(d,e)},
-eXt(d,e){var w=0,v=P.v(x.w),u,t=2,s,r=[],q,p,o
+a8w(d,e){return D.eXm(d,e)},
+eXm(d,e){var w=0,v=P.v(x.w),u,t=2,s,r=[],q,p,o
 var $async$a8w=P.q(function(f,g){if(f===1){s=g
 w=t}while(true)switch(w){case 0:t=4
 w=7
@@ -29,11 +29,11 @@ break
 case 6:case 1:return P.t(u,v)
 case 2:return P.r(s,v)}})
 return P.u($async$a8w,v)},
-bZj:function bZj(d,e){var _=this
+bZh:function bZh(d,e){var _=this
 _.d=null
 _.a=d
 _.b=e
-_.c=null}},E={bMX:function bMX(){},bZt:function bZt(){}},F,G,H,J,K,L,M,N,O,P,Q,R={bNQ:function bNQ(){}},S,T,U,V,W,X,Y,Z
+_.c=null}},E={bMV:function bMV(){},bZr:function bZr(){}},F,G,H,J,K,L,M,N,O,P,Q,R={bNO:function bNO(){}},S,T,U,V,W,X,Y,Z
 a.setFunctionNamesIfNecessary([D,E,R])
 A=c[0]
 B=c[1]
@@ -60,34 +60,34 @@ W=c[21]
 X=c[22]
 Y=c[23]
 Z=c[24]
-E.bMX.prototype={
-b6i(d){d.l(0,"isBuilder",!0)
+E.bMV.prototype={
+b6e(d){d.l(0,"isBuilder",!0)
 $.aH().pk(d)}}
-E.bZt.prototype={}
-R.bNQ.prototype={
-i6(d){throw H.o(P.bw(null))},
-hG(d){throw H.o(P.bw(null))},
+E.bZr.prototype={}
+R.bNO.prototype={
+i6(d){throw H.o(P.bx(null))},
+hG(d){throw H.o(P.bx(null))},
 AY(d,e,f,g,h){var w=h==null?null:h.length!==0
 if(w===!0){h.toString
-return S.dQ4(d,h,f,g,!0)}return e!=null&&e.a!=null?S.ae0(e,f,g,!0):S.ER(d,f,g,!0)},
+return S.dQ0(d,h,f,g,!0)}return e!=null&&e.a!=null?S.ae0(e,f,g,!0):S.ER(d,f,g,!0)},
 Dk(d,e,f,g,h,i,j,k,l){}}
-D.bZj.prototype={
-amQ(d){switch(this.d){case"fluxlisting":return T.ae7(d)
+D.bZh.prototype={
+amN(d){switch(this.d){case"fluxlisting":return T.ae7(d)
 case"fluxnews":return N.D8(d)
 default:return T.Zs(d)}},
-bXx(d){var w,v,u
+bXt(d){var w,v,u
 switch(this.d){case"fluxlisting":w=d
 w=w
 u=new R.ec()
-u.awC(w)
+u.awx(w)
 return u
 case"fluxnews":u=new R.ec()
-u.acX(d)
+u.acW(d)
 return u
 default:v=d
 v=v
 u=new R.ec()
-u.RD(v)
+u.RC(v)
 return u}},
 fJ(d){var w=0,v=P.v(x.i),u,t=this,s,r,q,p,o,n
 var $async$fJ=P.q(function(e,f){if(e===1)return P.r(f,v)
@@ -100,14 +100,14 @@ return P.n(D.a8w(o,o),$async$fJ)
 case 3:s=n.aa(0,f,null)
 r=H.b([],x.a)
 for(p=J.aa(s);p.t();){q=p.gA(p)
-if(!J.E(J.d(q,"slug"),"uncategorized"))r.push(t.bXx(q))}u=r
+if(!J.E(J.d(q,"slug"),"uncategorized"))r.push(t.bXt(q))}u=r
 w=1
 break
 case 1:return P.t(u,v)}})
 return P.u($async$fJ,v)},
-eV(d,e,f,g){return this.c_g(d,e,f,g)},
+eV(d,e,f,g){return this.c_d(d,e,f,g)},
 xw(d,e){return this.eV(d,e,!1,null)},
-c_g(d,e,f,g){var w=0,v=P.v(x.q),u,t=this,s,r,q,p,o,n,m,l,k
+c_d(d,e,f,g){var w=0,v=P.v(x.q),u,t=this,s,r,q,p,o,n,m,l,k
 var $async$eV=P.q(function(h,i){if(h===1)return P.r(i,v)
 while(true)switch(w){case 0:o=H.b([],x.z)
 n=t.c
@@ -120,8 +120,8 @@ return P.n(D.a8w(m,m),$async$eV)
 case 3:n=l.aa(k.aa(0,i,null)),s=J.L(d)
 case 4:if(!n.t()){w=5
 break}r=n.gA(n)
-q=t.amQ(r)
-if(s.h(d,"category")!=null&&H.i(s.h(d,"category")).length!==0)q.sbTd(J.J(s.h(d,"category")))
+q=t.amN(r)
+if(s.h(d,"category")!=null&&H.i(s.h(d,"category")).length!==0)q.sbT9(J.J(s.h(d,"category")))
 p=J.L(r)
 if(p.h(r,"store")!=null)if(J.d(p.h(r,"store"),"errors")!=null){o.push(q)
 w=4
@@ -145,7 +145,7 @@ w=3
 return P.n(D.a8w(q,q),$async$ud)
 case 3:r=p.aa(o.aa(0,g,null))
 case 4:if(!r.t()){w=5
-break}s.push(t.amQ(r.gA(r)))
+break}s.push(t.amN(r.gA(r)))
 w=4
 break
 case 5:u=s
@@ -153,14 +153,14 @@ w=1
 break
 case 1:return P.t(u,v)}})
 return P.u($async$ud,v)},
-anF(d){return this.ud(d,null)},
-d1(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r){return this.c_6(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r)},
+anC(d){return this.ud(d,null)},
+d1(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r){return this.c_3(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r)},
 xu(d,e){return this.d1(null,null,d,null,null,null,null,null,null,null,null,null,e,null,null)},
 zR(d,e,f,g,h,i,j){return this.d1(null,null,d,null,e,null,f,g,null,null,h,i,j,null,null)},
 qL(d,e,f){return this.d1(null,null,d,null,e,null,null,null,null,null,null,null,f,null,null)},
 xv(d,e,f,g){return this.d1(null,null,d,null,e,null,null,null,null,null,null,null,f,null,g)},
 zS(d,e,f,g,h,i,j,k){return this.d1(null,null,d,null,e,null,f,g,null,null,h,i,j,null,k)},
-c_6(d,e,f,g,h,i,j,k,a0,a1,a2,a3,a4,a5,a6){var w=0,v=P.v(x.q),u,t=this,s,r,q,p,o,n,m,l
+c_3(d,e,f,g,h,i,j,k,a0,a1,a2,a3,a4,a5,a6){var w=0,v=P.v(x.q),u,t=this,s,r,q,p,o,n,m,l
 var $async$d1=P.q(function(a7,a8){if(a7===1)return P.r(a8,v)
 while(true)switch(w){case 0:p=H.b([],x.z)
 o=t.c
@@ -171,7 +171,7 @@ return P.n(D.a8w(n,n),$async$d1)
 case 3:m=l.aa(0,a8,null)
 N.W("[\ud83e\uddecload mock data] fetchProductsByCategory",null)
 for(o=J.aa(m);o.t();){s=o.gA(o)
-r=t.amQ(s)
+r=t.amN(s)
 q=J.L(s)
 if(q.h(s,"store")!=null)if(J.d(q.h(s,"store"),"errors")!=null){p.push(r)
 continue}p.push(r)}u=p
@@ -180,11 +180,11 @@ break
 case 1:return P.t(u,v)}})
 return P.u($async$d1,v)}}
 var z=a.updateTypes([]);(function inheritance(){var w=a.inherit
-w(E.bZt,P.aj)
-w(E.bMX,E.bZt)
-w(R.bNQ,V.alW)
-w(D.bZj,E.alX)})()
+w(E.bZr,P.aj)
+w(E.bMV,E.bZr)
+w(R.bNO,V.alW)
+w(D.bZh,E.alX)})()
 H.xq(b.typeUniverse,JSON.parse("{}"))
 var y={b:"packages/core_builder/lib/example/templates/"}
 var x={C:H.ad("P<cr>"),a:H.ad("P<ec>"),z:H.ad("P<cD>"),i:H.ad("K<ec>"),q:H.ad("K<cD>"),w:H.ad("p"),p:H.ad("K<cr>?")}}
-$__dart_deferred_initializers__["0iZ4YzFCPmzBo5TZ+eCzNlejv7o="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Y//99Q2bYhlkigPee7GFAf5H5b4="] = $__dart_deferred_initializers__.current
