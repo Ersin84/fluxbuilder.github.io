@@ -1,18 +1,18 @@
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
-const TEMP = 'flutter-temp-cache-2';
-const CACHE_NAME = 'flutter-app-cache-2';
+const TEMP = 'flutter-temp-cache';
+const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "main.dart.js_24.part.js": "d48bba5685ca10adbf3f3b14c7a2c187",
 "main.dart.js_34.part.js": "c44626f8d568b3c952f3c18c035feeba",
 "main.dart.js_46.part.js": "ef076a0d249ff222d0760989c40d6b37",
-"version.json": "fac317da408b3cdc4dcd959ad17552a2",
+"version.json": "c194a500898b0399231997dc02f74105",
 "main.dart.js_7.part.js": "5a26872b5cefa8e0ccb2e248fb3f9ee6",
 "main.dart.js_12.part.js": "5b8e7efc88a1da73a6d982db0cd9d3c5",
 "favicon.ico": "e656785135d8b96f90e93597b23cd9c1",
 "main.dart.js_6.part.js": "2069101ac3768bcec01168418df226e9",
-"index.html": "2ce2f055927315b8b2ee9af0a6abd1b9",
-"/": "2ce2f055927315b8b2ee9af0a6abd1b9",
+"index.html": "e2ad9c8c8f4e0048b8b365da1c5bd969",
+"/": "e2ad9c8c8f4e0048b8b365da1c5bd969",
 "main.dart.js_13.part.js": "a04320d6e5bf1734fa54bda3f80d0a3d",
 "main.dart.js_35.part.js": "ee65716c418da89f0421b3ec6559de0c",
 "main.dart.js_25.part.js": "de6fdbfd8cfe74f15c3c7812a909c4ab",
