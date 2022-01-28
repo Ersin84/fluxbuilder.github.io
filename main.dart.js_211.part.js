@@ -43,7 +43,7 @@ B.aK2.prototype={
 n(d){this.a7(0)},
 K(){this.Gs()
 A.ci(C.M,new B.cPU(this),y.F)},
-b2V(d,e){var x=this
+b2X(d,e){var x=this
 switch(e.a){case 0:x.m(new B.cPV(x,d))
 break
 case 1:x.m(new B.cPW(x,d))
@@ -55,7 +55,7 @@ if(r.ch){x=1
 break}r.m(new B.cPQ(r))
 k=r.c
 k.toString
-q=A.y(k,!1,y.r).c.U()
+q=A.y(k,!1,y.r).c.T()
 k=r.c
 k.toString
 p=C.q.cw(E.elk(E.ecQ(k)),null)
@@ -72,7 +72,7 @@ return A.l(J.e1H(o),$async$Mf)
 case 7:n=e
 f=C.q
 x=8
-return A.l(C.ak.bVd(n.x),$async$Mf)
+return A.l(C.ak.bVf(n.x),$async$Mf)
 case 8:m=f.af(0,e,null)
 x=n.b===200?9:11
 break
@@ -84,7 +84,7 @@ case 12:r.m(new B.cPR(r))
 x=10
 break
 case 11:A.U("\ud83d\udd34\ufe0f There is an issue",null)
-r.b2V(J.f(m,"message"),D.dsO)
+r.b2X(J.f(m,"message"),D.dsO)
 r.m(new B.cPS(r))
 case 10:u=2
 x=6
@@ -101,7 +101,7 @@ break
 case 6:case 1:return A.q(v,w)
 case 2:return A.p(t,w)}})
 return A.r($async$Mf,w)},
-aXz(){var x,w=A.ev(J.f($.DB().$1$0(y.s).a,"lastTimeRequest"))
+aXB(){var x,w=A.ev(J.f($.DB().$1$0(y.s).a,"lastTimeRequest"))
 if(w==null)return 130
 x=C.f.I(w/1000)
 new A.aR(x,!1).ri(x,!1)
@@ -111,16 +111,16 @@ return x},
 p(d,e){var x,w,v,u,t,s=this,r=null,q=s.c
 q.toString
 x=y.r
-w=A.y(q,!1,x).c.U()
+w=A.y(q,!1,x).c.T()
 if(w.h(0,"isBuilder")!=null)w.em(w,new B.cPO())
 A.U("\ud83e\udd16 serverConfig",r)
 q=s.c
 q.toString
-A.U(A.y(q,!1,x).c.U(),r)
+A.U(A.y(q,!1,x).c.T(),r)
 A.U("\u2b50\ufe0f get URL",r)
 q=s.c
 q.toString
-A.U(A.Qn("fluxbuilder.inspireui.com",r,r,r,A.y(q,!1,x).c.U(),"https").gHf(),r)
+A.U(A.Qn("fluxbuilder.inspireui.com",r,r,r,A.y(q,!1,x).c.T(),"https").gHf(),r)
 x=y.n
 v=A.y(e,!0,x)
 q=s.x
@@ -131,10 +131,10 @@ if(u==null)u=""
 s.y.sat(0,u)}u=y.u
 t=A.b([new A.a5(r,e.D(y.x).f.a.b*0.08,r,r),A.u("Build Testing APK",r,r,r,r,r,A.j(e).w.f,r,r,r),C.b5,C.B],u)
 C.b.F(t,A.Ep("WEBSITE URL",r,A.P4(e,r,r,"Type your own Website URL"),r))
-t.push(new F.aaV(q,r,new B.cPP(s),!1,r,v.a==null,r))
+t.push(new F.aaU(q,r,new B.cPP(s),!1,r,v.a==null,r))
 t.push(C.B)
 C.b.F(t,A.Ep("YOUR EMAIL",r,A.P4(e,r,r,"The Email Address to get the download APK file"),r))
-t.push(new F.aaV(s.y,r,r,!1,"Please login to verify the email",!0,r))
+t.push(new F.aaU(s.y,r,r,!1,"Please login to verify the email",!0,r))
 t.push(C.B)
 t.push(A.x(r,A.e2i(e,"You will receive a demo APK which is used for testing only.\nDo not upload to Google Play Store. To build a release APK, please use the desktop version of FluxBuilder instead."),C.e,r,G.Jl,r,r,r,r,r,r,r,r,r))
 t.push(C.a1)
@@ -145,7 +145,7 @@ q=s.z
 x=s.c
 if(q){q=s.ch
 x.toString
-q=A.fc(A.j(x).b,r,C.mq,v.a==null,q,r,r,s.gbTN(),"Create APK",r,r,120)}else{x.toString
+q=A.fc(A.j(x).b,r,C.mq,v.a==null,q,r,r,s.gbTP(),"Create APK",r,r,120)}else{x.toString
 q=A.j(x).w.Q
 q.toString
 x=s.c
@@ -162,7 +162,7 @@ B.cPU.prototype={
 $0(){var x=0,w=A.t(y.F),v=this,u
 var $async$$0=A.o(function(d,e){if(d===1)return A.p(e,w)
 while(true)switch(x){case 0:u=v.a
-if(u.aXz()<30)u.m(new B.cPT(u))
+if(u.aXB()<30)u.m(new B.cPT(u))
 return A.q(null,w)}})
 return A.r($async$$0,w)},
 $S:42}
@@ -198,8 +198,8 @@ $1(d){var x=this.a.c
 x.toString
 A.y(x,!1,y.r).a3i(d)},
 $S:49};(function installTearOffs(){var x=a._instance_0u
-x(B.aK2.prototype,"gbTN","Mf",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.b99,A.afe)
+x(B.aK2.prototype,"gbTP","Mf",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.b99,A.afd)
 x(B.a1N,A.M)
 x(B.aK2,A.V7)
 w(A.NI,[B.cPU,B.cPT,B.cPV,B.cPW,B.cPQ,B.cPR,B.cPS])
@@ -208,4 +208,4 @@ x(B.cPP,A.Ea)})()
 A.eS(b.typeUniverse,JSON.parse('{"a1N":{"M":[],"k":[]},"aK2":{"N":["a1N"]}}'))
 var y={u:A.ab("K<k>"),x:A.ab("Db"),F:A.ab("aI"),s:A.ab("Ru"),w:A.ab("n"),n:A.ab("XA"),r:A.ab("RR"),b:A.ab("@")};(function constants(){D.dsO=new B.b99(0,"error")
 D.dUA=new B.b99(1,"success")})()}
-$__dart_deferred_initializers__["o7mnwZbSVQJ3lUGJroouSih6VLg="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["cFu4DIHxVNfDaNkAKZ6ZWMJMw5g="] = $__dart_deferred_initializers__.current

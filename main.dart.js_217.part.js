@@ -32,19 +32,19 @@ eEy(a0,a1){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h="TabBarConfig",g=null,f="Vertic
 try{x=a0.h(0,"Setting")
 w=a0.h(0,"Drawer")
 for(q=J.De(J.Gb(x)),p=q.length,o=0;o<q.length;q.length===p||(0,A.X)(q),++o){v=q[o]
-d.aTr(v,J.f(x,v))}if(J.f(x,h)==null)d.aTr(h,g)
+d.aTs(v,J.f(x,v))}if(J.f(x,h)==null)d.aTs(h,g)
 A.U("--updated setting",g)
 if(w!=null){for(q=J.De(J.Gb(w)),p=q.length,o=0;o<q.length;q.length===p||(0,A.X)(q),++o){u=q[o]
-d.cbA(u,J.f(w,u))}A.U("--update drawer",g)}q=a0.h(0,"AppBar")
+d.cbC(u,J.f(w,u))}A.U("--update drawer",g)}q=a0.h(0,"AppBar")
 if(q==null){q=y.z
 q=A.G(q,q)}p=y.N
 n=y.z
 t=A.ba(q,p,n)
 q=d
 m=A.ba(t,p,n)
-l=q.gaN()
-k=q.gaN().d
-l.d=k==null?g:k.aJz(m)
+l=q.gaM()
+k=q.gaM().d
+l.d=k==null?g:k.aJA(m)
 q.L()
 A.U("--updated appbar",g)
 q=y.a
@@ -59,16 +59,16 @@ d.a7u(s)
 A.U("--updated background",g)
 if(a0.h(0,f)!=null){d.a7E(A.ba(A.ejt(a0.h(0,f)),p,n))
 A.U(a0.h(0,f),g)}else{q=d
-l=q.gaN().d
+l=q.gaM().d
 if(l!=null)l.a=A.G(p,n)
 q.L()}A.U("--updated vertical widget",g)
 if(a0.h(0,e)!=null){q=d
 l=A.ba(a0.h(0,e),p,n)
-k=q.gaN()
-j=q.gaN().d
-k.d=j==null?g:j.bSZ(new A.a50(A.ba(l,p,n),y.Y))
+k=q.gaM()
+j=q.gaM().d
+k.d=j==null?g:j.bT0(new A.a50(A.ba(l,p,n),y.Y))
 q.L()}else{q=d
-l=q.gaN().d
+l=q.gaM().d
 if(l!=null)l.d=A.G(p,n)
 q.L()}A.U("--updated splash screen widget",g)}catch(i){r=A.a_(i)
 A.U(J.J(r),g)}}},A,B,D,J
@@ -79,7 +79,7 @@ B=c[2]
 D=c[58]
 J=c[1]
 C.ajT.prototype={
-c98(d){var x,w,v,u,t,s=this,r=null,q="keywords",p=s.r,o=p*2,n=y.p,m=A.b([A.x(r,A.Dv(r,new A.cB(new C.c7r(s),r),r,r,B.P,r,B.T,r,o,r,r,p),B.e,r,r,r,r,r,r,D.aH1,r,r,r,r)],n)
+c9a(d){var x,w,v,u,t,s=this,r=null,q="keywords",p=s.r,o=p*2,n=y.p,m=A.b([A.x(r,A.Dv(r,new A.cB(new C.c7r(s),r),r,r,B.P,r,B.T,r,o,r,r,p),B.e,r,r,r,r,r,r,D.aH1,r,r,r,r)],n)
 if(s.c){x=A.j(d).w.Q
 w=A.j(d).d
 w=A.S(245,w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255)
@@ -95,36 +95,36 @@ t.push(A.dG(!1,A.P(D.cQS,B.k,r,B.af,B.h,r,r),B.e,r,r,r,r,r,s.f,n))
 m.push(A.x(r,A.L(t,B.t,r,B.j,B.h,r),B.e,r,r,new A.Z(w,r,r,v,r,r,r,B.p),r,50+o,r,r,B.au,r,r,p+60))}return A.b5(B.I,m,B.v,B.J,r,r)},
 p(d,e){var x=null,w=A.ag(9),v=A.j(e).d
 v=A.S(B.f.I(127.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255)
-return A.ax(x,A.x(x,A.Km(this.c98(e),B.T,x,B.P,A.Qq()),B.e,x,x,new A.Z(v,x,x,w,x,x,x,B.p),x,x,x,B.j8,x,x,x,x),B.n,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,this.e,x,x,x,x,x,x,x,x)}}
+return A.ax(x,A.x(x,A.Km(this.c9a(e),B.T,x,B.P,A.Qq()),B.e,x,x,new A.Z(v,x,x,w,x,x,x,B.p),x,x,x,B.j8,x,x,x,x),B.n,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,this.e,x,x,x,x,x,x,x,x)}}
 C.a6A.prototype={
 B(){return new C.aHp(B.m)},
-c4Z(){return this.c.$0()},
-ams(d){return this.d.$1(d)}}
+c50(){return this.c.$0()},
+amt(d){return this.d.$1(d)}}
 C.aHp.prototype={
 bN(d){var x,w
 this.Kl(d)
-x=$.D7()
+x=$.CZ()
 w=this.c
 w.toString
-x.pi(A.y(w,!1,y.k).gaN().d.U())},
-bAl(){var x=this.c
+x.ot(A.y(w,!1,y.k).gaM().d.T())},
+bAn(){var x=this.c
 x.toString
-A.D6(B.al,!0,new C.cD8(this),x,null,!0,!0,y.z)},
-PJ(d,e){return this.b1h(d,e)},
-b1h(d,e){var x=0,w=A.t(y.H),v
+A.D7(B.al,!0,new C.cD8(this),x,null,!0,!0,y.z)},
+PJ(d,e){return this.b1j(d,e)},
+b1j(d,e){var x=0,w=A.t(y.H),v
 var $async$PJ=A.o(function(f,g){if(f===1)return A.p(g,w)
 while(true)switch(x){case 0:v=d.c
 A.d($.aB().aG$,"api").c=A.d(v,"mockFolder")
 x=2
 return A.l($.DB().$1$0(y.C).hJ("String","mockFolder",A.d(v,"mockFolder")),$async$PJ)
-case 2:$.D7().pi(e)
+case 2:$.CZ().ot(e)
 return A.q(null,w)}})
 return A.r($async$PJ,w)},
-RW(d,e){return this.bCb(d,e)},
-bCb(d,e){var x=0,w=A.t(y.H),v=this,u,t,s,r
+RW(d,e){return this.bCd(d,e)},
+bCd(d,e){var x=0,w=A.t(y.H),v=this,u,t,s,r
 var $async$RW=A.o(function(f,g){if(f===1)return A.p(g,w)
 while(true)switch(x){case 0:r=$.f8;(r==null?$.f8=A.GO():r).a=null
-$.CZ().a.E(0,new A.VO(0,!1))
+$.D_().a.E(0,new A.VO(0,!1))
 r=v.c
 r.toString
 u=y.D
@@ -153,13 +153,13 @@ x=4
 break
 case 5:s.toString
 x=6
-return A.l(v.PJ(e,A.y(s,!1,u).WX()),$async$RW)
+return A.l(v.PJ(e,A.y(s,!1,u).a84()),$async$RW)
 case 6:r=v.c
 r.toString
 r=A.y(r,!1,y.k)
 r.d=A.cn(10)
 r.L()
-case 4:v.a.c4Z()
+case 4:v.a.c50()
 return A.q(null,w)}})
 return A.r($async$RW,w)},
 p(d,e){var x,w,v=null,u=this.a.e
@@ -191,19 +191,19 @@ x=t.c
 x.toString
 w=y.D
 x=A.y(x,!1,w).c
-s.ams(x==null?null:A.d(x.e,"typeFramework"))
+s.amt(x==null?null:A.d(x.e,"typeFramework"))
 s=t.c
 s.toString
-v=A.agn(A.ba(A.y(s,!1,w).WX(),y.N,y.z))
+v=A.agn(A.ba(A.y(s,!1,w).a84(),y.N,y.z))
 w=t.c
 w.toString
-C.eEy(v.U(),w)
+C.eEy(v.T(),w)
 w=t.c
 w.toString
 A.cI4(w,"customize")
 s=t.c
 s.toString
-A.y(s,!1,y.k).gaN().a8S()
+A.y(s,!1,y.k).gaM().a8T()
 s=t.c
 s.toString
 u=A.Tl(s)
@@ -218,7 +218,7 @@ while(true)switch(x){case 0:u=v.a
 t=u.c
 t.toString
 x=2
-return A.l(u.PJ(v.b,A.y(t,!1,y.D).WX()),$async$$0)
+return A.l(u.PJ(v.b,A.y(t,!1,y.D).a84()),$async$$0)
 case 2:u=u.c
 u.toString
 u=A.y(u,!1,y.k)
@@ -241,12 +241,12 @@ v=s.c
 v.toString
 x=r===A.y(v,!1,x).d
 w=x}else w=!1}s.a.toString
-return new C.ajT(w,new C.cDa(s,t,u),s.gbAk(),this.c,!0,t,null)},
+return new C.ajT(w,new C.cDa(s,t,u),s.gbAm(),this.c,!0,t,null)},
 $S:z+1}
 C.cDa.prototype={
 $0(){return this.a.RW(A.d(this.c.a,"id"),this.b)},
 $S:7};(function installTearOffs(){var x=a._instance_0u
-x(C.aHp.prototype,"gbAk","bAl",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(C.aHp.prototype,"gbAm","bAn",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(C.ajT,A.Y)
 x(C.c7r,A.QI)
 x(C.a6A,A.M)
@@ -263,4 +263,4 @@ D.dNu=new A.at("Apply Now",null,B.yf,null,null,null,null,null,null,null,null,nul
 D.cQS=A.b(x([D.cIf,B.cy,D.dNu]),y.p)
 D.dM9=new A.at("YES",null,B.dy,null,null,null,null,null,null,null,null,null,null,null,null)
 D.dMz=new A.at("All your previous customized design will be override by this template layout?",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["8R2fU5ts6VlE4/oQqJUASn6fvUQ="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Ig82qYx+42yrBc6l9K9HzBedZB0="] = $__dart_deferred_initializers__.current

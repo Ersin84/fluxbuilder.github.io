@@ -32,8 +32,8 @@ _.c=u
 _.d=v
 _.$ti=w},dfQ:function dfQ(d,e){this.a=d
 this.b=e},cfb:function cfb(){},
-a4A(d,e,f,g){return new B.abh(d,e,g,f)},
-abh:function abh(d,e,f,g){var _=this
+a4A(d,e,f,g){return new B.abg(d,e,g,f)},
+abg:function abg(d,e,f,g){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -412,7 +412,7 @@ this.b=e},
 cIa:function cIa(d,e){this.a=d
 this.b=e},
 cI8:function cI8(d){this.a=d},
-aeg(d,e,f){return new B.ap3(e,f,d,null)},
+aef(d,e,f){return new B.ap3(e,f,d,null)},
 ap3:function ap3(d,e,f,g){var _=this
 _.c=d
 _.e=e
@@ -428,7 +428,7 @@ J=c[1]
 E=c[60]
 F=c[50]
 B.b2_.prototype={
-cb9(d,e,f,g){return new B.b1Z(e,g,null)}}
+cbb(d,e,f,g){return new B.b1Z(e,g,null)}}
 B.b1Z.prototype={
 p(d,e){return new A.air(this.c,new B.bZR(),new B.bZS(),this.d,null)}}
 B.aNz.prototype={
@@ -441,14 +441,14 @@ gtO(){return this.dU},
 guD(d){return this.dH},
 gOp(){return this.cv}}
 B.cfb.prototype={}
-B.abh.prototype={
+B.abg.prototype={
 gj(d){return this.a},
 gcb(d){return this.b},
 gbM(){return null}}
 B.au9.prototype={
 p(d,e){throw A.m(A.bF(null))}}
 B.aVp.prototype={
-ao7(){var w=null
+ao8(){var w=null
 switch(this.d.a){case 0:case 1:case 2:return new B.aJJ(w)
 case 6:return new B.aBn(w)
 case 7:return new B.aCF(w)
@@ -459,13 +459,13 @@ case 8:return new B.aHK(w)
 case 10:case 9:case 11:return new B.aB3(w)
 case 13:return new B.aCw(w)
 default:return A.x(w,w,C.e,w,w,w,w,w,w,w,w,w,w,w)}},
-p(d,e){return this.ao7()}}
+p(d,e){return this.ao8()}}
 B.aB3.prototype={
 B(){return new B.bAV(C.m)}}
 B.bAV.prototype={
 K(){this.P()},
 p(d,e){var w,v,u,t,s=this,r=null,q="type",p=A.j(e).q.c,o=x.p
-p=A.P(A.b([A.u("Compatible with FluxStore Listing app",r,r,r,r,r,A.aq(r,r,A.S(C.f.I(127.5),p.gj(p)>>>16&255,p.gj(p)>>>8&255,p.gj(p)&255),r,r,r,r,r,r,r,r,13,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxlisting"))],o),C.d6,r,C.j,C.h,r,r)
+p=A.P(A.b([A.u("Compatible with FluxStore Listing app",r,r,r,r,r,A.aq(r,r,A.S(C.f.I(127.5),p.gj(p)>>>16&255,p.gj(p)>>>8&255,p.gj(p)&255),r,r,r,r,r,r,r,r,13,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxlisting"))],o),C.d6,r,C.j,C.h,r,r)
 w=s.c
 w.toString
 v=x.h
@@ -486,7 +486,7 @@ w=w==null?null:w.c
 this.r=A.aP(w==null?"":w)
 this.P()},
 p(d,e){var w=null,v=B.Sa(this.r,"ACCESS TOKEN",new B.dFP(this)),u=A.j(e).q.c,t=x.p
-return A.L(A.b([D.dMl,C.cj,v,C.b5,A.P(A.b([A.u("Compatible with FluxStore Pro app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(178.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_pro"))],t),C.d6,w,C.j,C.h,w,w)],t),C.t,w,C.j,C.h,w)}}
+return A.L(A.b([D.dMl,C.cj,v,C.b5,A.P(A.b([A.u("Compatible with FluxStore Pro app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(178.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_pro"))],t),C.d6,w,C.j,C.h,w,w)],t),C.t,w,C.j,C.h,w)}}
 B.aCw.prototype={
 B(){var w=null
 return new B.bvd(A.aP(w),A.aP(w),A.aP(w),A.aP(w),A.aP(w),A.aP(w),A.aP(w),A.aP(w),C.m)}}
@@ -543,7 +543,7 @@ B(){return new B.bB3(C.m)}}
 B.bB3.prototype={
 K(){this.P()},
 p(d,e){var w=null,v=A.j(e).q.c
-return A.P(A.b([A.u("Compatible with Fluxstore Pro app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_pro"))],x.p),C.d6,w,C.j,C.h,w,w)}}
+return A.P(A.b([A.u("Compatible with Fluxstore Pro app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_pro"))],x.p),C.d6,w,C.j,C.h,w,w)}}
 B.aDu.prototype={
 B(){return new B.bB8(A.aP(null),C.m)}}
 B.bB8.prototype={
@@ -554,7 +554,7 @@ w=w==null?null:w.f
 this.r=A.aP(w==null?"":w)
 this.P()},
 p(d,e){var w=null,v=B.Sa(this.r,"WEBSERVICES KEY",new B.dGx(this)),u=A.j(e).q.c,t=x.p
-return A.L(A.b([D.dLF,C.cj,v,C.b5,A.P(A.b([A.u("Compatible with FluxStore Prestashop app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_prestashop"))],t),C.d6,w,C.j,C.h,w,w)],t),C.t,w,C.j,C.h,w)}}
+return A.L(A.b([D.dLF,C.cj,v,C.b5,A.P(A.b([A.u("Compatible with FluxStore Prestashop app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_prestashop"))],t),C.d6,w,C.j,C.h,w,w)],t),C.t,w,C.j,C.h,w)}}
 B.aGg.prototype={
 B(){return new B.bBi(A.aP(null),C.m)}}
 B.bBi.prototype={
@@ -565,13 +565,13 @@ w=w==null?null:w.c
 this.r=A.aP(w==null?"":w)
 this.P()},
 p(d,e){var w=null,v=A.P(D.cWU,C.d6,w,C.j,C.h,w,w),u=B.Sa(this.r,"ACCESS TOKEN",new B.dJq(this)),t=A.j(e).q.c,s=x.p
-return A.L(A.b([v,C.cj,u,C.b5,A.P(A.b([A.u("Compatible with FluxStore Shopify app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),t.gj(t)>>>16&255,t.gj(t)>>>8&255,t.gj(t)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_shopify"))],s),C.k,w,C.j,C.h,w,w)],s),C.t,w,C.j,C.h,w)}}
+return A.L(A.b([v,C.cj,u,C.b5,A.P(A.b([A.u("Compatible with FluxStore Shopify app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),t.gj(t)>>>16&255,t.gj(t)>>>8&255,t.gj(t)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_shopify"))],s),C.k,w,C.j,C.h,w,w)],s),C.t,w,C.j,C.h,w)}}
 B.aHK.prototype={
 B(){return new B.bBr(C.m)}}
 B.bBr.prototype={
 K(){this.P()},
 p(d,e){var w=null,v=A.j(e).q.c
-return A.P(A.b([A.u("Compatible with FluxStore Strapi app",w,w,w,w,w,A.aq(w,w,A.S(204,v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_strapi"))],x.p),C.d6,w,C.j,C.h,w,w)}}
+return A.P(A.b([A.u("Compatible with FluxStore Strapi app",w,w,w,w,w,A.aq(w,w,A.S(204,v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxstore_strapi"))],x.p),C.d6,w,C.j,C.h,w,w)}}
 B.aJH.prototype={
 B(){return new B.bBA(C.m)}}
 B.bBA.prototype={
@@ -604,7 +604,7 @@ B.ahs.prototype={
 p(d,e){var w,v=this,u=null,t=v.c,s=A.Mh(u,!1,u,u,u,new B.bRk(v),!1,t,u),r=x.Z.a(v.d),q=A.j(e).w.z
 q.toString
 w=A.j(e).q.c
-return A.P(A.b([s,A.bt(!1,u,!0,A.x(u,A.u(v.e,u,u,u,u,u,q.b2(A.S(C.f.I(255*(t?1:0.5)),w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255)),u,u,u),C.e,u,D.aqO,u,u,u,u,u,u,u,u,u),u,!0,u,u,u,u,u,u,u,u,u,u,u,r,u,u,u,u,u,u),C.bh,B.aeg(u,v.f,v.r)],x.p),C.k,u,C.j,C.h,u,u)},
+return A.P(A.b([s,A.bt(!1,u,!0,A.x(u,A.u(v.e,u,u,u,u,u,q.b2(A.S(C.f.I(255*(t?1:0.5)),w.gj(w)>>>16&255,w.gj(w)>>>8&255,w.gj(w)&255)),u,u,u),C.e,u,D.aqO,u,u,u,u,u,u,u,u,u),u,!0,u,u,u,u,u,u,u,u,u,u,u,r,u,u,u,u,u,u),C.bh,B.aef(u,v.f,v.r)],x.p),C.k,u,C.j,C.h,u,u)},
 gbM(d){return this.f}}
 B.aJJ.prototype={
 B(){return new B.bBC(A.aP(null),A.aP(null),C.m)}}
@@ -632,19 +632,19 @@ B(){return new B.bBE(C.m)}}
 B.bBE.prototype={
 K(){this.P()},
 p(d,e){var w=null,v=A.j(e).q.c
-return A.P(A.b([A.u("Compatible with FluxNews app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aeg(C.hd,"Purchase Now",C.dZ.h(0,"fluxnews"))],x.p),C.d6,w,C.j,C.h,w,w)}}
+return A.P(A.b([A.u("Compatible with FluxNews app",w,w,w,w,w,A.aq(w,w,A.S(C.f.I(127.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,w,w,w,w,w,13,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w),C.bh,B.aef(C.hd,"Purchase Now",C.dZ.h(0,"fluxnews"))],x.p),C.d6,w,C.j,C.h,w,w)}}
 B.ayM.prototype={
 B(){return new B.bAE(C.m)}}
 B.bAE.prototype={
-ai8(){var w=0,v=A.t(x.H)
-var $async$ai8=A.o(function(d,e){if(d===1)return A.p(e,v)
+ai9(){var w=0,v=A.t(x.H)
+var $async$ai9=A.o(function(d,e){if(d===1)return A.p(e,v)
 while(true)switch(w){case 0:return A.q(null,v)}})
-return A.r($async$ai8,v)},
+return A.r($async$ai9,v)},
 p(d,e){var w=null,v=A.dG(!1,D.amc,C.e,w,w,w,w,w,new B.dDC(),w),u=A.fh("assets/fails/generate_thumbnail.png",C.r,w,w,w,w,w,w),t=A.HZ(w,w,A.j(e).b,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w),s=x.p,r=A.b([D.dMt],s)
 v=A.b([D.dN1,v,C.a1,D.dMN,u,D.dLy,C.a1,A.dG(!1,A.P(r,C.k,w,C.j,C.a4,w,w),C.e,w,w,w,w,w,new B.dDD(this),t)],s)
 return A.L(v,C.t,w,C.j,C.h,w)}}
 B.b23.prototype={
-c8Y(){var w,v=null,u=this.c
+c9_(){var w,v=null,u=this.c
 u.toString
 w=J.E(u)
 if(x.f.b(w.h(u,"data")))switch(J.f(w.h(u,"data"),"code")){case"woocommerce_rest_cannot_view":return new B.blc(v)
@@ -652,8 +652,8 @@ case"url_fail":return new B.bkf(v)
 case"not_generate_thumbnails":return new B.ayM(v)}return A.x(v,v,C.e,v,v,v,v,v,v,v,v,v,v,v)},
 p(d,e){var w=null,v=x.p,u=A.b([D.dFT],v)
 C.b.F(u,A.Ep("Server Response:",18,w,C.R))
-u.push(A.x(w,new A.ab4(this.c,w,w),C.e,w,w,new A.Z(A.S(C.f.I(25.5),158,158,158),w,w,A.ag(6),w,w,w,C.p),w,w,w,D.aGC,C.au,w,w,w))
-u.push(new A.T(C.c3,this.c8Y(),w))
+u.push(A.x(w,new A.ab3(this.c,w,w),C.e,w,w,new A.Z(A.S(C.f.I(25.5),158,158,158),w,w,A.ag(6),w,w,w,C.p),w,w,w,D.aGC,C.au,w,w,w))
+u.push(new A.T(C.c3,this.c9_(),w))
 C.b.F(u,A.Ep("Solution:",18,w,C.R))
 u.push(A.P(A.b([A.u("Read The Document ",w,w,w,w,w,A.j(e).w.y.ed(C.ah),w,w,w),A.bt(!1,A.ag(6),!0,new A.T(D.aHl,A.u("#3 Integration with your website.",w,w,w,w,w,A.j(e).w.y.f0(C.dN,C.ah),w,w,w),w),w,!0,w,w,w,w,w,w,w,w,w,w,w,new B.bZV(),w,w,w,w,w,w)],v),C.k,w,C.j,C.h,w,w))
 return A.bu(A.L(u,C.t,w,C.j,C.h,w),w,C.n,w,w,w,w,C.C)}}
@@ -730,7 +730,7 @@ q=new A.bE(A.j(e).b,2,C.Z)
 t=x.p
 return A.L(A.b([C.B,D.dMK,C.b5,A.P(A.b([w,C.X,D.am3,C.aB,A.bt(!1,o,!0,A.x(o,A.u("Run Troubleshoot",o,o,o,o,o,A.j(e).w.Q.b2(C.w),o,o,o),C.e,o,o,new A.Z(u.b,o,new A.c0(q,q,q,q),v,o,o,o,C.p),o,o,o,o,C.hL,o,o,o),o,!0,o,o,o,o,o,o,o,o,o,o,o,p.c,o,o,o,o,o,o)],t),C.k,o,C.j,C.h,o,o),C.a1,C.hI,C.B,new A.cB(new B.c4e(),o),C.a1],t),C.t,o,C.j,C.h,o)}}
 B.bjU.prototype={
-ao7(){var w=this,v=null
+ao8(){var w=this,v=null
 switch(w.d.a){case 0:case 1:case 2:return new B.aJI(w.c,v)
 case 6:return new B.aBm(w.c,v)
 case 7:return new B.aCE(w.c,v)
@@ -744,7 +744,7 @@ default:return new A.a5(1/0,400,A.L(A.b([A.aG(A.fh("assets/images/empty.png",C.r
 p(d,e){var w,v=null,u=A.j(e).d
 u=A.S(C.f.I(76.5),u.gj(u)>>>16&255,u.gj(u)>>>8&255,u.gj(u)&255)
 w=A.ag(3)
-return A.x(v,this.ao7(),C.e,v,v,new A.Z(u,v,v,w,v,v,v,C.p),v,v,v,C.eR,D.aGh,v,v,v)}}
+return A.x(v,this.ao8(),C.e,v,v,new A.Z(u,v,v,w,v,v,v,C.p),v,v,v,C.eR,D.aGh,v,v,v)}}
 B.aB2.prototype={
 B(){return new B.bAU(!1,null,null,!1,C.m)}}
 B.bAU.prototype={
@@ -998,8 +998,8 @@ B.Qc.prototype={
 gCR(){var w=this.c
 w.toString
 return A.y(w,!1,x.h)},
-wU(d){return this.bR7(d)},
-bR7(d){var w=0,v=A.t(x.H)
+wU(d){return this.bR9(d)},
+bR9(d){var w=0,v=A.t(x.H)
 var $async$wU=A.o(function(e,f){if(e===1)return A.p(f,v)
 while(true)switch(w){case 0:return A.q(null,v)}})
 return A.r($async$wU,v)},
@@ -1013,7 +1013,7 @@ w.toString
 w=A.y(w,!1,x.Q)
 w.b=!1
 w.L()
-$.OP().pi(this.gCR().c.U())},
+$.OP().ot(this.gCR().c.T())},
 ff(d){var w=0,v=A.t(x.H),u=this,t,s,r,q,p,o,n,m,l,k
 var $async$ff=A.o(function(e,f){if(e===1)return A.p(f,v)
 while(true)switch(w){case 0:if(u.gCR().b!=null){t=u.gCR().b
@@ -1048,8 +1048,8 @@ if((n==null?0:n)>2)break}if(p==null)p=t.h(q,0)
 if(p!=null){t=u.c
 t.toString
 A.y(t,!1,x.D)
-if(u.gCR().b==null){t=$.D7()
-if(t.gaHA()!=null){t=t.gaHA()
+if(u.gCR().b==null){t=$.CZ()
+if(t.gaHB()!=null){t=t.gaHB()
 t.toString
 k=A.ba(t,x.N,x.z)
 k.k(0,"HorizonLayout",A.f31(k.h(0,"HorizonLayout"),p.a))
@@ -1058,7 +1058,7 @@ t=u.c
 t.toString
 t=A.y(t,!1,x.k)
 r=A.agn(k)
-t.gaN().d=r
+t.gaM().d=r
 t.L()}}}}t=u.gCR()
 t.e=A.cn(10)
 t.L()
@@ -1470,18 +1470,18 @@ B.bc6.prototype={
 p(d,e){return new A.cB(new B.clg(this),null)},
 gcb(d){return this.e}}
 B.biX.prototype={
-c96(d){var w=null,v=this.d,u=v==null,t=!u
+c98(d){var w=null,v=this.d,u=v==null,t=!u
 if(t&&v)return D.cHg
 if(t&&!v)return D.cHX
 if(this.c&&u){v=A.j(d).q.c
 return A.x(w,A.aXq(w,A.S(C.f.I(76.5),v.gj(v)>>>16&255,v.gj(v)>>>8&255,v.gj(v)&255),w,w,w,2,w,w),C.e,w,w,w,w,14,w,C.Mz,w,w,w,14)}return A.x(w,w,C.e,w,w,w,w,w,w,w,w,w,w,w)},
-aWT(){var w=this.d
+aWU(){var w=this.d
 if(w!=null){if(w)return $.e8D.h(0,this.f).h(0,"pass")
 return $.e8D.h(0,this.f).h(0,"fail")}return"-"},
 Pv(){return $.e8D.h(0,this.f).h(0,"title")},
-aro(d){var w=null,v=d.D(x.w).f.a.giK(),u=A.a7(d,!0),t=A.b([],x.j),s=$.aJ,r=x._,q=x.c,p=A.HT(C.di),o=A.b([],x.A),n=A.ac(0,w,!1,x.Z),m=$.aJ
-u.cs(new B.aNz(C.al,!0,"Dismiss",C.dH,C.kz,new B.cIb(this,v<600),D.aso.gcb7(),w,t,new A.bn(w,x.b),new A.bn(w,x.B),new A.Jd(),w,new A.b1(new A.aw(s,r),q),p,o,C.eC,new A.da(w,n,x.n),new A.b1(new A.aw(m,r),q),x.a))},
-aRS(d){var w,v,u=null,t=d.D(x.w).f.a.giK()<600,s=this.d,r=s!=null
+arp(d){var w=null,v=d.D(x.w).f.a.giK(),u=A.a7(d,!0),t=A.b([],x.j),s=$.aJ,r=x._,q=x.c,p=A.HT(C.di),o=A.b([],x.A),n=A.ac(0,w,!1,x.Z),m=$.aJ
+u.cs(new B.aNz(C.al,!0,"Dismiss",C.dH,C.kz,new B.cIb(this,v<600),D.aso.gcb9(),w,t,new A.bn(w,x.b),new A.bn(w,x.B),new A.Jd(),w,new A.b1(new A.aw(s,r),q),p,o,C.eC,new A.da(w,n,x.n),new A.b1(new A.aw(m,r),q),x.a))},
+aRT(d){var w,v,u=null,t=d.D(x.w).f.a.giK()<600,s=this.d,r=s!=null
 if(r&&s){s=t?C.af:C.j
 r=A.S(51,76,175,80)
 w=A.ag(15)
@@ -1491,7 +1491,7 @@ return A.ax(u,A.x(u,D.dNa,C.e,u,u,new A.Z(A.S(51,244,67,54),u,new A.c0(v,v,v,v),
 r=A.S(C.f.I(25.5),244,67,54)
 return A.P(A.b([A.Hr(A.bt(!1,u,!0,A.x(u,A.u("Failed",u,u,u,u,u,A.j(d).w.Q.b2(C.aT).hg(0.8),u,u,u),C.e,u,u,new A.Z(r,u,u,s,u,u,u,C.p),u,u,u,u,D.aG1,u,u,u),u,!0,u,u,u,u,u,u,u,u,u,u,u,new B.cIa(this,d),u,u,u,u,u,u),u,"Click to view Detail issue",u,u,u,u)],x.p),C.k,u,C.j,C.h,u,u)}return A.x(u,u,C.e,u,u,u,u,u,u,u,u,u,u,u)},
 p(d,e){var w=null
-if(e.D(x.w).f.a.giK()<600)return A.x(w,A.P(A.b([A.a8(A.u(this.Pv(),w,w,w,w,w,C.Ha,w,w,w),1),new A.a5(100,w,A.aG(this.aRS(e),w,w,w),w)],x.p),C.k,w,C.j,C.h,w,w),C.e,w,E.zx,w,w,w,w,w,w,w,w,w)
+if(e.D(x.w).f.a.giK()<600)return A.x(w,A.P(A.b([A.a8(A.u(this.Pv(),w,w,w,w,w,C.Ha,w,w,w),1),new A.a5(100,w,A.aG(this.aRT(e),w,w,w),w)],x.p),C.k,w,C.j,C.h,w,w),C.e,w,E.zx,w,w,w,w,w,w,w,w,w)
 return new A.cB(new B.cI8(this),w)},
 gj(d){return this.d}}
 B.ap3.prototype={
@@ -1504,7 +1504,7 @@ v=A.bt(!1,t,!0,v,t,!0,t,t,t,t,t,t,t,t,t,t,t,new B.cJD(this),t,t,t,t,t,t)
 u=new A.bE(C.lQ,1,C.Z)
 return A.Hr(v,new A.Z(A.S(C.f.I(229.5),0,0,0),t,new A.c0(u,u,u,u),C.e3,t,t,t,C.p),s,C.br,!0,A.j(e).w.Q.b2(C.w),20)},
 gbM(d){return this.c}}
-var z=a.updateTypes(["R(abh)","k(w,cz<ah>,cz<ah>,k)"])
+var z=a.updateTypes(["R(abg)","k(w,cz<ah>,cz<ah>,k)"])
 B.bZR.prototype={
 $3(d,e,f){var w=$.eti(),v=$.etk()
 return A.eh(!1,A.LM(C.r,f,new A.al(e,v,A.Q(v).i("al<aM.T>"))),new A.al(e,w,A.Q(w).i("al<aM.T>")))},
@@ -1551,7 +1551,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.aJy(d)
+u.c=A.y(v,!1,w).c.aJz(d)
 u.L()
 return null},
 $S:5}
@@ -1562,7 +1562,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bT5(d)
+u.c=A.y(v,!1,w).c.bT7(d)
 u.L()
 return null},
 $S:5}
@@ -1573,7 +1573,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSS(d)
+u.c=A.y(v,!1,w).c.bSU(d)
 u.L()},
 $S:49}
 B.dhw.prototype={
@@ -1583,7 +1583,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSu(d)
+u.c=A.y(v,!1,w).c.bSw(d)
 u.L()
 return null},
 $S:5}
@@ -1594,7 +1594,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSq(d)
+u.c=A.y(v,!1,w).c.bSs(d)
 u.L()
 return null},
 $S:5}
@@ -1605,7 +1605,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSN(d)
+u.c=A.y(v,!1,w).c.bSP(d)
 u.L()
 return null},
 $S:5}
@@ -1616,7 +1616,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSp(d)
+u.c=A.y(v,!1,w).c.bSr(d)
 u.L()
 return null},
 $S:5}
@@ -1627,7 +1627,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSy(d)
+u.c=A.y(v,!1,w).c.bSA(d)
 u.L()
 return null},
 $S:5}
@@ -1638,7 +1638,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSI(d)
+u.c=A.y(v,!1,w).c.bSK(d)
 u.L()
 return null},
 $S:5}
@@ -1649,7 +1649,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.aJy(d)
+u.c=A.y(v,!1,w).c.aJz(d)
 u.L()
 return null},
 $S:5}
@@ -1720,7 +1720,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSv(d)
+u.c=A.y(v,!1,w).c.bSx(d)
 u.L()
 return null},
 $S:5}
@@ -1731,7 +1731,7 @@ w=x.h
 u=A.y(u,!1,w)
 v=v.c
 v.toString
-u.c=A.y(v,!1,w).c.bSw(d)
+u.c=A.y(v,!1,w).c.bSy(d)
 u.L()
 return null},
 $S:5}
@@ -1739,7 +1739,7 @@ B.dDC.prototype={
 $0(){return A.Qu("https://docs.inspireui.com/fluxstore/woocommerce-setup/#setup-the-regenerate-image-plugin")},
 $S:0}
 B.dDD.prototype={
-$0(){this.a.ai8()},
+$0(){this.a.ai9()},
 $S:0}
 B.bZV.prototype={
 $0(){var w=0,v=A.t(x.H)
@@ -1999,7 +1999,7 @@ B.dJp.prototype={
 $1(d){var w,v,u,t,s=this.a,r=s.c
 r.toString
 w=x.k
-r=A.y(r,!1,w).gaN()
+r=A.y(r,!1,w).gaM()
 v=s.c
 v.toString
 v=A.y(v,!1,x.h)
@@ -2013,7 +2013,7 @@ t=A.agn(d)
 s=s.c
 s.toString
 w=A.y(s,!1,w)
-w.gaN().d=t
+w.gaM().d=t
 w.L()},
 $S:179}
 B.dJg.prototype={
@@ -2058,7 +2058,7 @@ u=A.b([C.a1,A.P(t,C.k,l,C.j,C.h,l,l),C.B],u)
 C.b.F(u,A.Ep("WEBSITE URL",l,A.P4(v,l,l,"Type your own Website URL. Make sure you have signed up and logged in!\nPlease use an English keyboard when typing..."),l))
 t=w.x
 s=m.d.a==null||d||m.c.a==="fluxstore_notion"
-u.push(new F.aaV(t,new B.dJc(w,v),new B.dJd(w),!0,l,s,l))
+u.push(new F.aaU(t,new B.dJc(w,v),new B.dJd(w),!0,l,s,l))
 u.push(C.a1)
 t=x.l
 s=A.ad(A.Ep("INTEGRATION",l,A.P4(v,l,l,"Select your Website Framework and provide the API keys"),l),!0,t)
@@ -2159,21 +2159,21 @@ v=v?d.D(u).f.a.b:d.D(u).f.a.a*0.8
 return A.Ez(w,C.D,w,w,C.e,new A.a5(t,v,new B.b23(this.a.r,w),w),C.cw,w,C.bT,!1,w,w,w,w,w)},
 $S:41}
 B.cI9.prototype={
-$0(){return this.a.aro(this.b)},
+$0(){return this.a.arp(this.b)},
 $S:0}
 B.cIa.prototype={
-$0(){return this.a.aro(this.b)},
+$0(){return this.a.arp(this.b)},
 $S:0}
 B.cI8.prototype={
 $2(d,e){var w=null,v=this.a,u=x.p
-return A.x(w,A.aG(A.P(A.b([new A.a5(e.b*3/10,w,A.P(A.b([v.c96(d),C.X,A.a8(A.u(v.Pv(),w,w,w,w,w,A.j(d).w.z.ed(C.aL),w,w,w),1)],u),C.k,w,C.j,C.h,w,w),w),C.X,A.a8(A.u(v.aWT(),w,w,w,w,w,A.j(d).w.Q.hg(0.9),w,w,w),1),C.X,new A.a5(65,w,v.aRS(d),w)],u),C.k,w,C.j,C.h,w,w),w,w,w),C.e,w,E.zx,w,w,w,w,w,w,w,w,w)},
+return A.x(w,A.aG(A.P(A.b([new A.a5(e.b*3/10,w,A.P(A.b([v.c98(d),C.X,A.a8(A.u(v.Pv(),w,w,w,w,w,A.j(d).w.z.ed(C.aL),w,w,w),1)],u),C.k,w,C.j,C.h,w,w),w),C.X,A.a8(A.u(v.aWU(),w,w,w,w,w,A.j(d).w.Q.hg(0.9),w,w,w),1),C.X,new A.a5(65,w,v.aRT(d),w)],u),C.k,w,C.j,C.h,w,w),w,w,w),C.e,w,E.zx,w,w,w,w,w,w,w,w,w)},
 $S:101}
 B.cJD.prototype={
 $0(){return A.Qu(this.a.e)},
 $S:0};(function aliases(){var w=B.Qc.prototype
 w.AX=w.cN})();(function installTearOffs(){var w=a.installInstanceTearOff
-w(B.b2_.prototype,"gcb7",0,4,null,["$4"],["cb9"],1,0,0)})();(function inheritance(){var w=a.mixinHard,v=a.inheritMany,u=a.inherit
-v(A.aj,[B.cfb,B.abh,B.Qc])
+w(B.b2_.prototype,"gcb9",0,4,null,["$4"],["cbb"],1,0,0)})();(function inheritance(){var w=a.mixinHard,v=a.inheritMany,u=a.inherit
+v(A.aj,[B.cfb,B.abg,B.Qc])
 u(B.b2_,B.cfb)
 v(A.Y,[B.b1Z,B.aVp,B.ahs,B.b23,B.bkf,B.blc,B.aX5,B.bcY,B.b3E,B.bjU,B.a3R,B.bc6,B.biX,B.ap3])
 v(A.Ea,[B.bZR,B.bZS,B.dfQ,B.dFd,B.dFe,B.dFf,B.dFP,B.dhu,B.dhv,B.dhw,B.dhx,B.dhy,B.dhz,B.dhA,B.dGx,B.dJq,B.dNa,B.dNb,B.bRk,B.dNc,B.dNd,B.dGt,B.dWw,B.dWx,B.dWu,B.dWy,B.dWz,B.dWA,B.dWB,B.dWC,B.dWD,B.dJp,B.dJa,B.dJb,B.dJ9,B.dJd,B.dJc,B.dts,B.cIb])
@@ -2206,7 +2206,7 @@ A.eS(b.typeUniverse,JSON.parse('{"b1Z":{"Y":[],"k":[]},"aNz":{"fv":["1"],"E7":["
 A.dSn(b.typeUniverse,JSON.parse('{"au9":1,"Qc":1}'))
 var y={a:"https://inspireui.notion.site/FluxBuilder-s-guide-a5164230ff444676b10b5cadc30302aa#bc890c3631284a68ad7f5603d2115f68"}
 var x=(function rtii(){var w=A.ab
-return{k:w("DY"),Q:w("a2k"),X:w("FX"),A:w("K<Tr>"),s:w("K<n>"),p:w("K<k>"),j:w("K<ar<R>()>"),B:w("bn<N<M>>"),b:w("bn<Hv<@>>"),Y:w("abh"),d:w("I<@>"),f:w("a2<@,@>"),w:w("Db"),P:w("aI"),K:w("a5v"),C:w("Ru"),N:w("n"),D:w("RD"),S:w("XA"),n:w("da<n?>"),l:w("k"),h:w("RR"),c:w("b1<@>"),_:w("aw<@>"),a:w("aNz<@>"),z:w("@"),q:w("F"),Z:w("~()?"),H:w("~")}})();(function constants(){var w=a.makeConstList
+return{k:w("DY"),Q:w("a2k"),X:w("FX"),A:w("K<Tr>"),s:w("K<n>"),p:w("K<k>"),j:w("K<ar<R>()>"),B:w("bn<N<M>>"),b:w("bn<Hv<@>>"),Y:w("abg"),d:w("I<@>"),f:w("a2<@,@>"),w:w("Db"),P:w("aI"),K:w("a5v"),C:w("Ru"),N:w("n"),D:w("RD"),S:w("XA"),n:w("da<n?>"),l:w("k"),h:w("RR"),c:w("b1<@>"),_:w("aw<@>"),a:w("aNz<@>"),z:w("@"),q:w("F"),Z:w("~()?"),H:w("~")}})();(function constants(){var w=a.makeConstList
 D.aqh=new A.aA(90,110,90,100)
 D.aqO=new A.aA(150,1/0,0,1/0)
 D.aso=new B.b2_()
@@ -2237,7 +2237,7 @@ D.dNo=new A.at("CATEGORIES",null,null,null,null,null,null,null,null,null,null,nu
 D.dlz=new A.ck([0,D.dM_,1,D.dNo],A.ab("ck<F,k>"))
 D.dMQ=new A.at("Result",null,D.r7,null,null,null,null,null,null,null,null,null,null,null,null)
 D.dFS=new A.a5(65,null,D.dMQ,null)
-D.dD6=new A.ad_("assets/images/planet.riv",C.Iu,C.DO,null,null)
+D.dD6=new A.acZ("assets/images/planet.riv",C.Iu,C.DO,null,null)
 D.dFT=new A.a5(120,120,D.dD6,null)
 D.alQ=new A.ae(!0,null,null,null,null,null,24,C.R,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.dLw=new A.at("Empty data, please back to previous step \ud83d\ude05",null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -2268,5 +2268,5 @@ w($,"h2f","eti",()=>A.Id(C.TM))
 w($,"h2h","etk",()=>A.IC(0.8,1,A.ab("ah")).Ek(A.Id(C.lW)))
 w($,"h2g","etj",()=>A.IC(1,0,A.ab("ah")))
 v($,"hbx","eyL",()=>{var u=x.s
-return A.b([B.a4A([C.kM],"Strapi",A.b(["fluxstore_strapi"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/192x192/11e75d26c26787bc1ec58d4ca1857e14/strapi.png"),B.a4A([C.eU,C.hc,C.fG],"Woocommerce",A.b(["fluxstore_woo","fluxstore_mv","fluxstore_pro"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/251dc680278d5365c7b0a8c3a8f6cc6b/woo.png"),B.a4A([C.p4],"Wordpress",A.b(["fluxnews"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/0b08563ce26cec9d63020832de394fdd/wp.png"),B.a4A([C.jd],"Shopify",A.b(["fluxstore_shopify"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/ae2510f4450f4ddbde874613f27ffa56/shopify.png"),B.a4A([C.jg],"Opencart",A.b(["fluxstore_pro"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/3be15798c75aa7a57f0c68728ac8b800/op.png"),B.a4A([C.jf],"Magento",A.b(["fluxstore_pro"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/3eff5bc95b13c2b98a97a6944e703183/mag.png"),B.a4A([C.je],"Prestashop",A.b(["fluxstore_prestashop"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/f847c60064829c0eb323671ce1d37202/prestashop.png"),B.a4A([C.p5,C.p2,C.p3],"Listing",A.b(["fluxlisting"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/665835c3000b52797d7357e8b4d002cb/fluxlisting.png"),B.a4A([C.kL],"Notion",A.b(["fluxstore_notion"],u),"https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png")],A.ab("K<abh>"))})})()}
-$__dart_deferred_initializers__["i+tsJDrjJKPAPxXIiAH1KIxySc0="] = $__dart_deferred_initializers__.current
+return A.b([B.a4A([C.kM],"Strapi",A.b(["fluxstore_strapi"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/192x192/11e75d26c26787bc1ec58d4ca1857e14/strapi.png"),B.a4A([C.eU,C.hc,C.fG],"Woocommerce",A.b(["fluxstore_woo","fluxstore_mv","fluxstore_pro"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/251dc680278d5365c7b0a8c3a8f6cc6b/woo.png"),B.a4A([C.p4],"Wordpress",A.b(["fluxnews"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/0b08563ce26cec9d63020832de394fdd/wp.png"),B.a4A([C.jd],"Shopify",A.b(["fluxstore_shopify"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/ae2510f4450f4ddbde874613f27ffa56/shopify.png"),B.a4A([C.jg],"Opencart",A.b(["fluxstore_pro"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/3be15798c75aa7a57f0c68728ac8b800/op.png"),B.a4A([C.jf],"Magento",A.b(["fluxstore_pro"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/3eff5bc95b13c2b98a97a6944e703183/mag.png"),B.a4A([C.je],"Prestashop",A.b(["fluxstore_prestashop"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/f847c60064829c0eb323671ce1d37202/prestashop.png"),B.a4A([C.p5,C.p2,C.p3],"Listing",A.b(["fluxlisting"],u),"https://trello-attachments.s3.amazonaws.com/60bb36da34b9c00928195dc7/112x112/665835c3000b52797d7357e8b4d002cb/fluxlisting.png"),B.a4A([C.kL],"Notion",A.b(["fluxstore_notion"],u),"https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png")],A.ab("K<abg>"))})})()}
+$__dart_deferred_initializers__["yUnciUUFdpR4do+LcApvSJRfZgg="] = $__dart_deferred_initializers__.current
