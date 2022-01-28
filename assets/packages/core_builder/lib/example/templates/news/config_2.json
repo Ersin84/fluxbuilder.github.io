@@ -83,10 +83,6 @@
                 "show": true
             },
             {
-                "type": "about",
-                "show": true
-            },
-            {
                 "type": "login",
                 "show": true
             },

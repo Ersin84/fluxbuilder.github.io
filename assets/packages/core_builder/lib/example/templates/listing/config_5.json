@@ -23,8 +23,7 @@
       "items": [
         {
           "image": "https://i.imgur.com/47yjtag.jpg",
-          "padding": 15.0,
-          "category": 35
+          "padding": 15.0
         },
         {
           "image": "https://i.imgur.com/MaqR3xA.jpg",
@@ -58,7 +57,6 @@
         {
           "image": "https://i.imgur.com/tUs0Qyg.jpg",
           "padding": 10.8,
-          "category": 35,
           "radius": 15.0
         }
       ]
@@ -71,7 +69,6 @@
       "radius": 0.0,
       "items": [
         {
-          "category": 29,
           "image": "https://i.imgur.com/m5Aj2mE.jpeg",
           "colors": [
             "#333333"
@@ -80,7 +77,6 @@
           "showText": false
         },
         {
-          "category": 35,
           "image": "https://i.imgur.com/4SCOxFf.jpg",
           "colors": [
             "#333333"
@@ -89,7 +85,6 @@
           "showText": false
         },
         {
-          "category": 35,
           "image": "https://i.imgur.com/vDT4ov0.jpg",
           "colors": [
             "#333333"
@@ -102,13 +97,11 @@
     },
     {
       "name": "Choose a service",
-      "layout": "listTile",
-      "category": "35"
+      "layout": "listTile"
     },
     {
       "name": "You may love ",
-      "layout": "listTile",
-      "category": "29"
+      "layout": "listTile"
     }
   ],
   "Setting": {

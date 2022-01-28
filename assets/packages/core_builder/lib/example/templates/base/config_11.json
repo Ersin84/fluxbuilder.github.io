@@ -27,8 +27,7 @@
             "items": [
                 {
                     "padding": 6.6,
-                    "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png",
-                    "category": null
+                    "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png"
                 },
                 {
                     "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png",
@@ -67,17 +66,14 @@
             "radius": 0.0,
             "items": [
                 {
-                    "category": null,
                     "image": "https://images.unsplash.com/photo-1498480086004-2400bd8c3663?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=80",
                     "showText": false
                 },
                 {
-                    "category": null,
                     "image": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
                     "showText": false
                 },
                 {
-                    "category": null,
                     "image": "https://images.unsplash.com/photo-1528865832260-267768cb76ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
                     "showText": false
                 }

@@ -11,7 +11,6 @@
       "fit": "cover",
       "items": [
         {
-          "category": null,
           "padding": 0.0,
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/6108e9c6b89dfc0b2510dff0/download/clothes-background.png",
           "radius": 0.0,
@@ -64,42 +63,36 @@
       "radius": 0.0,
       "items": [
         {
-          "category": null,
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523fab20222b0d5b653d/download/dress-icon.png",
           "showText": true,
           "title": "Dress",
           "description": ""
         },
         {
-          "category": null,
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523e8529ab4a8ef82bb9/download/shoes-icon.png",
           "showText": true,
           "title": "Shoes",
           "description": ""
         },
         {
-          "category": "156",
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523c780ccf8c613ccdcb/download/coat-icon.png",
           "showText": true,
           "title": "Coats",
           "description": ""
         },
         {
-          "category": "156",
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523bea202183fa8b869f/download/short.png",
           "showText": true,
           "title": "Short",
           "description": ""
         },
         {
-          "category": "156",
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523a835eef4e90baa351/download/bag-icon.png",
           "showText": true,
           "title": "Bags",
           "description": ""
         },
         {
-          "category": null,
           "image": "https://trello.com/1/cards/6108e9bcd2dd868cf2657fa8/attachments/610a523d0ddc8c4ef773fd34/download/tshirt-icon.png",
           "showText": true,
           "title": "T-shirt",
@@ -123,14 +116,12 @@
     {
       "name": "Special",
       "layout": "threeColumn",
-      "isSnapping": true,
-      "category": "787"
+      "isSnapping": true
     },
     {
       "name": "Collections",
       "layout": "simpleList",
-      "isSnapping": false,
-      "category": "787"
+      "isSnapping": false
     }
   ],
   "Setting": {

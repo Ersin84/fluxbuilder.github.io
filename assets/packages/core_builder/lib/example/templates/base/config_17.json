@@ -1,19 +1,26 @@
 {
   "HorizonLayout": [
     {
-      "title": " ",
+      "isSafeArea": false,
       "showSearch": false,
-      "hideHeader": false,
-      "fontWeight": "400",
-      "height": 10.0,
+      "usePrimaryColor": true,
+      "borderInput": false,
+      "title": " ",
+      "alignment": "centerLeft",
+      "fontWeight": 400,
       "fontSize": 30.0,
       "textOpacity": 1.0,
       "marginLeft": 0.0,
       "marginRight": 0.0,
-      "marginTop": 0.0,
       "marginBottom": 0.0,
-      "layout": "header_text",
-      "textColor": null
+      "marginTop": 0.0,
+      "paddingLeft": 5.0,
+      "paddingRight": 15.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 10.0,
+      "rotate": [],
+      "layout": "header_text"
     },
     {
       "layout": "logo",
@@ -22,69 +29,71 @@
       "showLogo": false
     },
     {
-      "hideHeader": false,
+      "isSafeArea": false,
       "showSearch": true,
-      "fontWeight": "500",
+      "usePrimaryColor": true,
+      "borderInput": false,
+      "type": "typer",
+      "alignment": "centerLeft",
+      "fontWeight": 500,
+      "fontSize": 26.0,
+      "textOpacity": 1.0,
+      "marginLeft": 20.0,
+      "marginRight": 0.0,
+      "marginBottom": 0.0,
+      "marginTop": 100.0,
+      "paddingLeft": 5.0,
+      "paddingRight": 15.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 60.0,
       "rotate": [
         "FluxStore Magento",
         "FluxStore OpenCart",
         "FluxStore Woocommerce"
       ],
-      "type": "typer",
-      "height": 60.0,
-      "marginLeft": 20.0,
-      "marginRight": 0.0,
-      "marginTop": 0.0,
-      "marginBottom": 0.0,
-      "fontSize": 26.0,
-      "textOpacity": 1.0,
-      "textColor": null,
       "layout": "header_text"
     },
     {
       "layout": "category",
       "type": "image",
       "wrap": true,
+      "showShortDescription": true,
       "size": 1.2,
       "radius": 9.0,
+      "spacing": 12.0,
       "items": [
         {
-          "category": null,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/53560c2f58ee8847ecb8bbad4582a9e0/i_package.png",
           "showText": true,
           "title": "Demo",
           "description": "New arrival "
         },
         {
-          "category": null,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/a804eb95a5c378af5f7d1b99e6227a0f/i_shopping.png",
           "showText": true,
           "title": "Cloud",
           "description": "New arrival"
         },
         {
-          "category": null,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/79ed85962420d3bfab1c00dcb8c91c54/i_snow.png",
           "showText": true,
           "title": "Cart Icon",
           "description": "New arrival"
         },
         {
-          "category": null,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/897b5ad5dd22b283cabfc60ccdbd48c0/i_truck.png",
           "showText": true,
           "title": "Truck",
           "description": "New arrival"
         },
         {
-          "category": null,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/73c8510f48562f3ba8a90ca5cab3e5ed/i-air.png",
           "showText": true,
           "title": "Airdop",
           "description": "New arrival"
         },
         {
-          "category": null,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/b6cf667f1f7c036dc82a111c16f4ce7f/i_instagram.png",
           "showText": true,
           "title": "Camera",
@@ -96,13 +105,24 @@
       "marginRight": 10.0,
       "marginTop": 10.0,
       "marginBottom": 10.0,
-      "paddingX": 20.0,
-      "paddingY": 0.0,
+      "paddingX": 18.0,
+      "paddingY": 15.0,
       "marginX": 4.0,
       "marginY": 4.0,
+      "hideTitle": false,
+      "noBackground": false,
+      "imageBorderWidth": null,
+      "imageBorderColor": null,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0.0,
+      "labelFontSize": 14.0,
+      "border": 0.5,
+      "enableBorder": true,
+      "textAlignment": "topLeft",
+      "imageBoxFit": "fitWidth",
       "columns": 4,
       "itemSize": {
-        "width": 299.1964095076841,
+        "width": 326.0,
         "height": 159.70748439386767
       }
     },
@@ -112,13 +132,14 @@
     }
   ],
   "Setting": {
-    "ProductDetail": "simpleType",
     "StickyHeader": false,
+    "FontFamily": "Roboto",
     "MainColor": "#3FC1BE",
-    "TabBarConfig": null,
-    "ProductListLayout": "list",
     "FontHeader": "ABeeZee",
-    "ShowChat": true
+    "ShowChat": true,
+    "ProductListLayout": "list",
+    "TabBarConfig": null,
+    "ProductDetail": "simpleType"
   },
   "TabBar": [
     {
@@ -126,7 +147,7 @@
       "icon": "home",
       "pos": 100,
       "fontFamily": "CupertinoIcons",
-      "key": "ewixezpjcm"
+      "key": "5f8zkm1nji"
     },
     {
       "pos": 200,
@@ -134,30 +155,30 @@
       "icon": "rectangle_grid_1x2",
       "fontFamily": "CupertinoIcons",
       "categoryLayout": "card",
-      "key": "hrfkott8ki"
+      "key": "180rpues8i"
     },
     {
-      "key": "9b00u9gfog",
       "icon": "search",
       "layout": "search",
       "fontFamily": "CupertinoIcons",
       "pos": 300,
-      "size": 24
+      "size": 24,
+      "key": "621wigsvmm"
     },
     {
       "pos": 400,
       "icon": "bag",
       "layout": "cart",
       "categoryLayout": "cart",
-      "key": "x1xffxu697",
-      "fontFamily": "CupertinoIcons"
+      "fontFamily": "CupertinoIcons",
+      "key": "9z68fl1u0g"
     },
     {
       "layout": "profile",
       "fontFamily": "CupertinoIcons",
       "pos": 500,
-      "key": "35v8pcv3ny",
-      "icon": "person"
+      "icon": "person",
+      "key": "3aquhw5i7m"
     }
   ],
   "Drawer": {
@@ -181,6 +202,7 @@
     ],
     "logo": "assets/images/logo.png"
   },
+  "AppBar": {},
   "Background": {
     "color": "#FFC008",
     "image": null,

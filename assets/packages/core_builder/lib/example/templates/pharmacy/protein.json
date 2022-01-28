@@ -46,7 +46,6 @@
       "name": "Amino Acids",
       "layout": "twoColumn",
       "isSnapping": false,
-      "category": null,
       "onSale": false,
       "height": 300.0,
       "width": 500.0
@@ -55,7 +54,6 @@
       "name": "Callowfit ",
       "layout": "staggered",
       "isSnapping": false,
-      "category": null,
       "onSale": false,
       "isSnapping": true
     }
@@ -144,7 +142,6 @@
       "label": null,
       "pos": 300
     }
-
   ],
   "Drawer": {
     "items": [

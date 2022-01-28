@@ -23,13 +23,11 @@
       "items": [
         {
           "padding": 0,
-          "image": "https://i.imgur.com/cY1aFyz.png",
-          "category": 23
+          "image": "https://i.imgur.com/cY1aFyz.png"
         },
         {
           "padding": 0,
-          "image": "https://i.imgur.com/9TKqioM.png",
-          "category": 23
+          "image": "https://i.imgur.com/9TKqioM.png"
         }
       ],
       "autoPlay": true,
@@ -60,7 +58,6 @@
       "radius": 2,
       "items": [
         {
-          "category": 23,
           "image": null,
           "colors": [
             "#333333"
@@ -71,7 +68,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": 23,
           "image": null,
           "colors": [
             "#333333"
@@ -82,7 +78,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": 23,
           "image": null,
           "colors": [
             "#333333"
@@ -93,7 +88,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": 23,
           "image": null,
           "colors": [
             "#333333"
@@ -138,28 +132,24 @@
       "radius": 0,
       "items": [
         {
-          "category": 23,
           "image": "https://i.imgur.com/w9wym8O.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/TuMgqtp.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/7O8z8bw.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/BJDPgwW.png",
           "showText": false,
           "title": "",
@@ -203,42 +193,36 @@
       "radius": 0,
       "items": [
         {
-          "category": 23,
           "image": "https://i.imgur.com/h3Ij7Jg.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/QZRfOIy.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/dIySGg6.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/Jk15hq5.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/fMnzYZa.png",
           "showText": false,
           "title": "",
           "description": ""
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/S0aHWao.png",
           "showText": false,
           "title": "",
@@ -270,17 +254,14 @@
       "fit": "fitHeight",
       "items": [
         {
-          "category": 23,
           "padding": 0,
           "image": "https://i.imgur.com/17W1f40.png"
         },
         {
-          "category": 23,
           "padding": 0,
           "image": "https://i.imgur.com/ZHLLfPK.png"
         },
         {
-          "category": 23,
           "padding": 0,
           "image": "https://i.imgur.com/Xi6Iu8r.png"
         }
@@ -319,8 +300,7 @@
         {
           "padding": 0,
           "image": "https://i.imgur.com/bwLTjzu.png",
-          "radius": 0,
-          "category": 23
+          "radius": 0
         }
       ]
     },
@@ -335,17 +315,14 @@
       "fit": "fitWidth",
       "items": [
         {
-          "category": 23,
           "padding": 0,
           "image": "https://i.imgur.com/XKkFd5n.png"
         },
         {
-          "category": 23,
           "padding": 0,
           "image": "https://i.imgur.com/DsFl3sp.png"
         },
         {
-          "category": 23,
           "padding": 0,
           "image": "https://i.imgur.com/a4elzXb.png"
         }
@@ -354,8 +331,7 @@
       "design": "swiper",
       "radius": 0,
       "intervalTime": 10
-    }
-    ,   
+    },
     {
       "title": "Favorite brands",
       "showSearch": false,
@@ -379,7 +355,6 @@
       "radius": 50,
       "items": [
         {
-          "category": 23,
           "image": "https://i.imgur.com/uY65nVa.png",
           "colors": [
             "#FFFFFF"
@@ -390,7 +365,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/0VzmLCP.png",
           "colors": [
             "#FFFFFF"
@@ -401,7 +375,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/rc8qaus.png",
           "colors": [
             "#FFFFFF"
@@ -412,7 +385,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": 23,
           "image": "https://i.imgur.com/44f8odb.png",
           "colors": [
             "#FFFFFF"
@@ -439,7 +411,6 @@
       "name": "Flash deals",
       "layout": "saleOff",
       "isSnapping": false,
-      "category": null,
       "onSale": true,
       "showCountDown": false
     },

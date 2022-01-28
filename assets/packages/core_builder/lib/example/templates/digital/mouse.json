@@ -47,7 +47,6 @@
           "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119cec24047fe4c5b6a5fdc/download/image.png",
           "description": "",
           "keepDefaultTitle": true,
-          "category": null,
           "colors": [
             "#ffb3e5fc"
           ],
@@ -62,7 +61,6 @@
           ],
           "title": "Apple",
           "keepDefaultTitle": true,
-          "category": "6",
           "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119cef69d31d58e58a3a241/download/image.png"
         },
         {
@@ -72,7 +70,6 @@
           ],
           "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119db77a95d432b977b40ea/download/image.png",
           "title": "Xiaomi",
-          "category": "5",
           "description": "",
           "keepDefaultTitle": true
         },
@@ -83,7 +80,6 @@
             "#ffb3e5fc",
             "#ffffecb3"
           ],
-          "category": "6",
           "title": "Microsoft",
           "keepDefaultTitle": true,
           "description": "",
@@ -91,7 +87,6 @@
           "image": "https://trello.com/1/cards/6119ccd731584550bce9fcdf/attachments/6119dc1fde73ec3569ce846b/download/image.png"
         },
         {
-          "category": "5",
           "originalColor": true,
           "title": "Razor",
           "description": "",
@@ -106,7 +101,6 @@
     {
       "name": "Popular Now",
       "isSnapping": false,
-      "category": null,
       "layout": "largeCard"
     },
     {

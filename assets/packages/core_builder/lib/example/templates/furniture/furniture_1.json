@@ -53,18 +53,15 @@
     },
     {
       "name": "New Arrivals",
-      "layout": "threeColumn",
-      "category": "1"
+      "layout": "threeColumn"
     },
     {
       "name": "Top Trends",
-      "layout": "twoColumn",
-      "category": "2"
+      "layout": "twoColumn"
     },
     {
       "name": "Top Sellers",
-      "layout": "threeColumn",
-      "category": "3"
+      "layout": "threeColumn"
     }
   ],
   "Setting": {

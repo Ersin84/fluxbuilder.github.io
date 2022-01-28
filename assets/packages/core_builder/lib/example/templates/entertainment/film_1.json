@@ -52,7 +52,6 @@
       "name": "Featured Products",
       "layout": "largeCardHorizontalListItems",
       "isSnapping": false,
-      "category": null,
       "height": 100.0
     }
   ],
@@ -115,7 +114,6 @@
   "VerticalLayout": {
     "isVertical": true,
     "layout": "list",
-    "category": "322",
     "name": "High Rating Films",
     "key": "hwazkmoqao",
     "page": 1

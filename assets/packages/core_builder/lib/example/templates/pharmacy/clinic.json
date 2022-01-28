@@ -64,8 +64,7 @@
         },
         {
           "padding": 0.0,
-          "image": "https://trello.com/1/cards/610ac92d295277578b408953/attachments/610adb2c30f57c080a4dd3bc/previews/610adb2d30f57c080a4dd3d1/download",
-          "category": "23"
+          "image": "https://trello.com/1/cards/610ac92d295277578b408953/attachments/610adb2c30f57c080a4dd3bc/previews/610adb2d30f57c080a4dd3d1/download"
         }
       ],
       "autoPlay": true,
@@ -96,7 +95,6 @@
       "radius": 16.0,
       "items": [
         {
-          "category": null,
           "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad0d4e6f98f6acea8e06c/previews/610ad0d4e6f98f6acea8e074/download",
           "colors": [
             "#333333"
@@ -107,7 +105,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ace280486c252cc2e0be6/previews/610ace280486c252cc2e0bf3/download",
           "colors": [
             "#333333"
@@ -118,7 +115,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610acda138e1517dfce43010/previews/610acda138e1517dfce43042/download",
           "colors": [
             "#333333"
@@ -129,7 +125,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad2238fd94072c84c0761/previews/610ad2238fd94072c84c0779/download",
           "colors": [
             "#333333"
@@ -140,7 +135,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad15f18151234f67ea68f/previews/610ad15f18151234f67ea6a4/download",
           "colors": [
             "#333333"

@@ -1,85 +1,149 @@
 {
   "HorizonLayout": [
     {
-      "title": "Color Icons Demo",
+      "isSafeArea": false,
       "showSearch": false,
-      "hideHeader": false,
-      "fontWeight": "600",
-      "height": 32.0,
+      "usePrimaryColor": true,
+      "borderInput": false,
+      "title": "Color Icons Demo",
+      "alignment": "centerLeft",
+      "fontWeight": 600,
       "fontSize": 22.0,
       "textOpacity": 1.0,
-      "marginLeft": 30.0,
+      "marginLeft": 10.0,
       "marginRight": 0.0,
+      "marginBottom": 60.0,
       "marginTop": 20.0,
-      "marginBottom": 0.0,
-      "layout": "header_text",
-      "textColor": null
+      "paddingLeft": 0.0,
+      "paddingRight": 15.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 32.0,
+      "rotate": [],
+      "layout": "header_text"
     },
     {
       "layout": "category",
       "type": "icon",
       "wrap": true,
-      "size": 0.9,
+      "showShortDescription": true,
+      "size": 1.2,
       "radius": 9.0,
+      "spacing": 13.0,
       "items": [
         {
-          "image": "assets/icons/categories/i_package.png",
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/53560c2f58ee8847ecb8bbad4582a9e0/i_package.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Music"
         },
         {
-          "image": "assets/icons/categories/i_shopping.png",
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/a804eb95a5c378af5f7d1b99e6227a0f/i_shopping.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Clothing"
         },
         {
-          "image": "assets/icons/categories/i_snow.png",
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/79ed85962420d3bfab1c00dcb8c91c54/i_snow.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Posters"
         },
         {
-          "image": "assets/icons/categories/i_truck.png",
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/897b5ad5dd22b283cabfc60ccdbd48c0/i_truck.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Music"
         },
         {
-          "image": "assets/icons/categories/i-air.png",
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/73c8510f48562f3ba8a90ca5cab3e5ed/i-air.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Clothing"
         },
         {
-          "image": "assets/icons/categories/i_instagram.png",
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/b6cf667f1f7c036dc82a111c16f4ce7f/i_instagram.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Posters"
         },
         {
-          "image": "assets/icons/categories/i_download.png",
+          "category": null,
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61ef5a6dda0db633d700063e/previews/61ef5a6eda0db633d7000644/download/cloud-computing.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Clothing"
         },
         {
-          "image": "assets/icons/categories/i_briefcase.png",
+          "category": null,
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61ef5bf566fa025442454772/previews/61ef5bf566fa025442454782/download/briefcase_%281%29.png",
           "colors": [
             "#5f27cd",
             "#5f27cd"
-          ]
+          ],
+          "originalColor": false,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "title": "Clothing"
         }
       ],
       "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 10.0,
+      "marginBottom": 55.0,
+      "paddingX": 0.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false,
+      "noBackground": false,
+      "imageBorderWidth": null,
+      "imageBorderColor": null,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 12.0,
+      "labelFontSize": 14.0,
       "columns": 4
     },
     {
@@ -89,12 +153,14 @@
     }
   ],
   "Setting": {
-    "MainColor": "#3FC1BE",
+    "FontHeader": "ABeeZee",
     "ProductListLayout": "list",
     "StickyHeader": true,
-    "ProductDetail": "simpleType",
+    "ShowChat": true,
+    "FontFamily": "Roboto",
+    "MainColor": "#3FC1BE",
     "TabBarConfig": null,
-    "FontHeader": "ABeeZee"
+    "ProductDetail": "simpleType"
   },
   "TabBar": [
     {
@@ -102,7 +168,7 @@
       "icon": "home",
       "pos": 100,
       "fontFamily": "CupertinoIcons",
-      "key": "lzmnvqqvnw"
+      "key": "zt2uaaq161"
     },
     {
       "pos": 200,
@@ -110,30 +176,30 @@
       "icon": "rectangle_grid_1x2",
       "fontFamily": "CupertinoIcons",
       "categoryLayout": "card",
-      "key": "5gijv6g77z"
+      "key": "qlxxeyv83v"
     },
     {
-      "key": "49mhtbapi8",
       "icon": "search",
       "layout": "search",
       "fontFamily": "CupertinoIcons",
       "pos": 300,
-      "size": 24
+      "size": 24,
+      "key": "b91uz828x7"
     },
     {
       "pos": 400,
       "icon": "bag",
       "layout": "cart",
       "categoryLayout": "cart",
-      "key": "4k12e7hs7x",
-      "fontFamily": "CupertinoIcons"
+      "fontFamily": "CupertinoIcons",
+      "key": "x7ivfkdb8v"
     },
     {
       "layout": "profile",
       "fontFamily": "CupertinoIcons",
       "pos": 500,
-      "key": "zydb9zfqoj",
-      "icon": "person"
+      "icon": "person",
+      "key": "23ltllvxqp"
     }
   ],
   "Drawer": {
@@ -156,5 +222,6 @@
         "show": true
       }
     ]
-  }
+  },
+  "AppBar": {}
 }

@@ -1,0 +1,204 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/I3wHTKh.jpg",
+                    "padding": 0.0,
+                    "radius": 0.0
+                }
+            ],
+            "autoPlay": false,
+            "design": "default",
+            "radius": 10.0
+        },
+        {
+            "layout": "logo",
+            "showMenu": true,
+            "showSearch": true,
+            "showLogo": false,
+            "name": "Yommy"
+        },
+        {
+            "title": "Your Own Coffee Space",
+            "isSafeArea": true,
+            "showSearch": false,
+            "hideHeader": false,
+            "padding": 20.0,
+            "height": 25.0,
+            "fontSize": 16.0,
+            "layout": "header_text"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/FPTIaN2.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "image": "https://i.imgur.com/bpvxBUB.jpeg",
+                    "padding": 0.0
+                },
+                {
+                    "image": "https://i.imgur.com/R2bZu0E.jpg",
+                    "padding": 15.0
+                }
+            ],
+            "autoPlay": false,
+            "design": "swiper",
+            "radius": 10.0
+        },
+        {
+            "title": "Be with friends",
+            "isSafeArea": true,
+            "showSearch": false,
+            "hideHeader": false,
+            "padding": 20.0,
+            "height": 25.0,
+            "fontSize": 16.0,
+            "layout": "header_text"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/pxtGnmq.jpg",
+                    "padding": 0.0,
+                    "radius": 0.0
+                }
+            ],
+            "autoPlay": false,
+            "design": "default",
+            "radius": 0.0
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/1OzxCAt.jpg",
+                    "padding": 0.0,
+                    "radius": 0.0
+                }
+            ],
+            "autoPlay": false,
+            "design": "default",
+            "radius": 0.0
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "image": "https://i.imgur.com/iCiEWFT.jpg",
+                    "padding": 0.0
+                }
+            ],
+            "autoPlay": false,
+            "design": "default",
+            "radius": 0.0
+        },
+        {
+            "name": "For seafood holic",
+            "layout": "threeColumn",
+            "isSnapping": false
+        }
+    ],
+    "Setting": {
+        "MainColor": "#3FC1BE",
+        "ProductListLayout": "list",
+        "StickyHeader": true,
+        "ProductDetail": "simpleType"
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "assets/icons/tabs/icon-home.png",
+            "pos": 100,
+            "showChat": false
+        },
+        {
+            "layout": "category",
+            "categoryLayout": "column",
+            "icon": "assets/icons/tabs/icon-category.png",
+            "pos": 200
+        },
+        {
+            "layout": "search",
+            "icon": "assets/icons/tabs/icon-search.png",
+            "pos": 300
+        },
+        {
+            "layout": "wishlist",
+            "icon": "assets/icons/tabs/icon-heartthin.png",
+            "data": {
+                "id": 1,
+                "container": {
+                    "height": 0.5,
+                    "image": {
+                        "height": 0.5,
+                        "width": 1.0,
+                        "url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
+                        "align": {
+                            "x": 1.0,
+                            "y": 1.0
+                        }
+                    },
+                    "header": {
+                        "align": {
+                            "x": -1.0,
+                            "y": 0.8
+                        },
+                        "padding": {
+                            "horizontal": 20.0,
+                            "vertical": 10.0
+                        },
+                        "color": "#FFFFFF",
+                        "background": "#000000",
+                        "text": "About US"
+                    }
+                },
+                "subHeader": "This is sub heading",
+                "description": "This is description"
+            },
+            "pos": 303,
+            "showChat": false
+        },
+        {
+            "layout": "profile",
+            "icon": "assets/icons/tabs/icon-user.png",
+            "pos": 400
+        }
+    ],
+    "Drawer": {
+        "logo": "assets/images/logo.png",
+        "items": [
+            {
+                "type": "home",
+                "show": true
+            },
+            {
+                "type": "blog",
+                "show": true
+            },
+            {
+                "type": "login",
+                "show": true
+            },
+            {
+                "type": "category",
+                "show": true
+            }
+        ]
+    },
+    "VerticalLayout": {
+        "key": "u4xzutm19q",
+        "layout": "list",
+        "name": "Steak House"
+    }
+}

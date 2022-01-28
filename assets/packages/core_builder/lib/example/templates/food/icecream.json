@@ -53,18 +53,15 @@
     },
     {
       "name": "Cake, Ice cream and Bakery",
-      "layout": "threeColumn",
-      "category": "1"
+      "layout": "threeColumn"
     },
     {
       "name": "Delivery Restaurants",
-      "layout": "twoColumn",
-      "category": "2"
+      "layout": "twoColumn"
     },
     {
       "name": "Dine-out Restaurants",
-      "layout": "threeColumn",
-      "category": "3"
+      "layout": "threeColumn"
     }
   ],
   "Setting": {

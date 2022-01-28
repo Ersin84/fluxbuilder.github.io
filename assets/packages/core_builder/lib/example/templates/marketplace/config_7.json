@@ -13,19 +13,16 @@
             "design": "default",
             "items": [
                 {
-                    "category": 37,
                     "padding": 3.6,
                     "image": "https://i.imgur.com/DRzyL2W.jpg"
                 },
                 {
-                    "category": 43,
                     "padding": 3.6,
                     "image": "https://i.imgur.com/VcXS5KC.jpg"
                 },
                 {
                     "image": "https://i.imgur.com/LwTNnOZ.jpeg",
-                    "padding": 3.6,
-                    "category": 48
+                    "padding": 3.6
                 }
             ],
             "isSlider": true,
@@ -69,20 +66,17 @@
                 {
                     "image": "https://i.imgur.com/vtBELqQ.jpg",
                     "radius": 0,
-                    "padding": 0,
-                    "category": null
+                    "padding": 0
                 },
                 {
                     "padding": 3,
-                    "category": null,
                     "radius": 0,
                     "image": "https://i.imgur.com/awEhdar.jpg"
                 },
                 {
                     "padding": 4.2,
                     "radius": 0,
-                    "image": "https://i.imgur.com/78vDWmz.jpeg",
-                    "category": null
+                    "image": "https://i.imgur.com/78vDWmz.jpeg"
                 }
             ],
             "title": {
@@ -127,14 +121,12 @@
             "items": [
                 {
                     "image": "https://i.imgur.com/ESKKnAX.jpg",
-                    "category": null,
                     "radius": 7.8,
                     "padding": 1.8
                 },
                 {
                     "image": "https://i.imgur.com/fANUmme.jpg",
                     "padding": 2.4,
-                    "category": null,
                     "radius": 9.6
                 }
             ],
@@ -155,7 +147,6 @@
             }
         },
         {
-            "category": 49,
             "name": "Flash Deals",
             "layout": "threeColumn",
             "isSnapping": true
@@ -228,7 +219,6 @@
         "name": "Just For You",
         "isVertical": true,
         "key": "fygmnerjqw",
-        "layout": "columns",
-        "category": 29
+        "layout": "columns"
     }
 }

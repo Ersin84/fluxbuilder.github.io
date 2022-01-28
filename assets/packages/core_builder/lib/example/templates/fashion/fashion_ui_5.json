@@ -21,15 +21,13 @@
       "height": 0.5,
       "fit": "fill",
       "items": [
-	          {
-          "category": null,
-          "padding":0.0,
+        {
+          "padding": 0.0,
           "image": "https://i.imgur.com/Qb9qe5G.png"
         },
         {
           "padding": 0.0,
-          "image": "https://i.imgur.com/nOdRdhz.gif",
-          "category": null
+          "image": "https://i.imgur.com/nOdRdhz.gif"
         }
       ],
       "autoPlay": true,
@@ -40,14 +38,12 @@
     {
       "name": "Summer Collection",
       "layout": "threeColumn",
-      "isSnapping": false,
-      "category": null
+      "isSnapping": false
     },
     {
       "name": "Trending",
       "layout": "listTile",
-      "isSnapping": false,
-      "category": null
+      "isSnapping": false
     }
   ],
   "Setting": {

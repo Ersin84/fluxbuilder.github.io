@@ -29,18 +29,15 @@
       "items": [
         {
           "padding": 0,
-          "image": "https://i.imgur.com/YHCK8M5.png",
-          "category": null
+          "image": "https://i.imgur.com/YHCK8M5.png"
         },
         {
-          "category": null,
           "padding": 0,
           "image": "https://i.imgur.com/cqJvQyR.png"
         },
         {
           "padding": 0,
-          "image": "https://i.imgur.com/3YhFFKj.png",
-          "category": null
+          "image": "https://i.imgur.com/3YhFFKj.png"
         }
       ],
       "autoPlay": true,
@@ -56,7 +53,6 @@
       "radius": 50,
       "items": [
         {
-          "category": null,
           "image": "https://i.imgur.com/tqFSncS.png",
           "colors": [
             "#ffffff"
@@ -67,7 +63,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/uF0dgtV.png",
           "colors": [
             "#ffffff"
@@ -78,7 +73,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/aC4m1Gv.png",
           "colors": [
             "#ffffff"
@@ -89,7 +83,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/MT1wTY3.png",
           "colors": [
             "#ffffff"
@@ -100,7 +93,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/Feti4q0.png",
           "colors": [
             "#ffffff"
@@ -111,7 +103,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/6bS4NxH.png",
           "colors": [
             "#ffffff"
@@ -122,7 +113,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/RtMit6V.png",
           "colors": [
             "#ffffff"
@@ -133,7 +123,6 @@
           "keepDefaultTitle": true
         },
         {
-          "category": null,
           "image": "https://i.imgur.com/IgbfY4f.png",
           "colors": [
             "#ffffff"
@@ -160,7 +149,6 @@
       "name": "Daily deals",
       "layout": "saleOff",
       "isSnapping": false,
-      "category": null,
       "onSale": true,
       "showCountDown": false
     }
@@ -242,7 +230,6 @@
       "images": null,
       "key": "0dkre1i0nl"
     },
-
     {
       "layout": "cart",
       "icon": "shopping_bag_sharp",

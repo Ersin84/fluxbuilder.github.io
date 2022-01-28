@@ -69,7 +69,6 @@
           "keepDefaultTitle": true,
           "description": "",
           "title": "🎨 GRAPHIC DESIGN",
-          "category": "23",
           "colors": [
             "#3CC2BF",
             "#3CC2BF"
@@ -83,7 +82,6 @@
             "#3E6AB5"
           ],
           "description": "",
-          "category": "23",
           "originalColor": false,
           "keepDefaultTitle": true,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
@@ -99,11 +97,9 @@
           "description": "",
           "originalColor": false,
           "title": "💼 LOGO DESIGN",
-          "category": "23"
         },
         {
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
-          "category": "23",
           "colors": [
             "#12B58C",
             "#12B58C"
@@ -118,7 +114,6 @@
             "#53A2CC",
             "#53A2CC"
           ],
-          "category": "23",
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
           "description": "",
           "originalColor": false,
@@ -133,7 +128,6 @@
             "#43506A"
           ],
           "originalColor": false,
-          "category": "23",
           "title": "🐸 Frog",
           "description": ""
         },
@@ -141,7 +135,6 @@
           "colors": [
             "#333333"
           ],
-          "category": "208",
           "description": "",
           "keepDefaultTitle": true,
           "title": "🐷 Pig",
@@ -149,7 +142,6 @@
           "image": null
         },
         {
-          "category": "23",
           "colors": [
             "#333333"
           ],
@@ -166,8 +158,7 @@
     {
       "name": "Popular courses",
       "layout": "twoColumn",
-      "isSnapping": false,
-      "category": null
+      "isSnapping": false
     }
   ],
   "Setting": {

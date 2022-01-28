@@ -43,7 +43,6 @@
       "textColor": null,
       "showSearch": false
     },
-
     {
       "height": 41.0,
       "padding": 20.0,
@@ -72,7 +71,6 @@
       "name": "",
       "layout": "twoColumn",
       "isSnapping": false,
-      "category": null,
       "height": 100.0
     }
   ],
@@ -135,218 +133,219 @@
     },
     "ProductDetail": "simpleType",
     "ShowChat": true,
-
     "StickyHeader": true
   },
-  "TabBar":[
+  "TabBar": [
     {
-      "pos":200,
-      "layout":"home",
-      "icon":"home",
-      "fontFamily":"CupertinoIcons",
-      "key":"z21olo4r46"
+      "pos": 200,
+      "layout": "home",
+      "icon": "home",
+      "fontFamily": "CupertinoIcons",
+      "key": "z21olo4r46"
     },
     {
-      "pos":100,
-      "icon":"rectangle_grid_1x2",
-      "images":{
-        "15":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+      "pos": 100,
+      "icon": "rectangle_grid_1x2",
+      "images": {
+        "15": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "183":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "183": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "202":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "202": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "205":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "205": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "206":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "206": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "208":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "208": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "209":{
-          "fontFamily":"CupertinoIcons",
-          "name":"paw_solid"
+        "209": {
+          "fontFamily": "CupertinoIcons",
+          "name": "paw_solid"
         },
-        "210":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "210": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "211":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "211": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "216":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "216": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "217":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "217": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "218":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "218": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "219":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "219": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "220":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "220": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "221":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "221": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "222":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "222": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "233":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "233": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "234":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "234": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "235":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "235": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "236":{
-          "fontFamily":"CupertinoIcons",
-          "name":"phone"
+        "236": {
+          "fontFamily": "CupertinoIcons",
+          "name": "phone"
         },
-        "238":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "238": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "239":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "239": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "241":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "241": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "242":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "242": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "244":{
-          "fontFamily":"CupertinoIcons",
-          "name":"flag"
+        "244": {
+          "fontFamily": "CupertinoIcons",
+          "name": "flag"
         },
-        "246":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "246": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "252":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "252": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "255":{
-          "name":"arrow_3_trianglepath",
-          "fontFamily":"CupertinoIcons"
+        "255": {
+          "name": "arrow_3_trianglepath",
+          "fontFamily": "CupertinoIcons"
         },
-        "282":{
-          "name":"battery_charging",
-          "fontFamily":"CupertinoIcons"
+        "282": {
+          "name": "battery_charging",
+          "fontFamily": "CupertinoIcons"
         },
-        "285":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "285": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "296":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "296": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "297":{
-          "fontFamily":"CupertinoIcons",
-          "name":"volume_up"
+        "297": {
+          "fontFamily": "CupertinoIcons",
+          "name": "volume_up"
         },
-        "298":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "298": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "299":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "299": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "300":{
-          "fontFamily":"CupertinoIcons",
-          "name":"check_mark_circled"
+        "300": {
+          "fontFamily": "CupertinoIcons",
+          "name": "check_mark_circled"
         },
-        "301":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "301": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "313":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "313": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "314":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"
+        "314": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
         },
-        "317":{
-          "fontFamily":"CupertinoIcons",
-          "name":"create"
+        "317": {
+          "fontFamily": "CupertinoIcons",
+          "name": "create"
         },
-        "321":{
-          "fontFamily":"MaterialIcons",
-          "name":"ac_unit_outlined"
+        "321": {
+          "fontFamily": "MaterialIcons",
+          "name": "ac_unit_outlined"
         },
-        "322":{
-          "fontFamily":"CupertinoIcons",
-          "name":"battery_25_percent"
+        "322": {
+          "fontFamily": "CupertinoIcons",
+          "name": "battery_25_percent"
         },
-        "323":{
-          "fontFamily":"CupertinoIcons",
-          "name":"rectangle_grid_2x2"
+        "323": {
+          "fontFamily": "CupertinoIcons",
+          "name": "rectangle_grid_2x2"
         },
-        "324":{
-          "name":"app_badge_fill",
-          "fontFamily":"CupertinoIcons"
+        "324": {
+          "name": "app_badge_fill",
+          "fontFamily": "CupertinoIcons"
         },
-        "326":{
-          "fontFamily":"CupertinoIcons",
-          "name":"video_camera_solid"
+        "326": {
+          "fontFamily": "CupertinoIcons",
+          "name": "video_camera_solid"
         },
-        "345":{
-          "fontFamily":"CupertinoIcons",
-          "name":"phone_solid"
+        "345": {
+          "fontFamily": "CupertinoIcons",
+          "name": "phone_solid"
         },
-        "356":{
-          "fontFamily":"CupertinoIcons",
-          "name":"book"
+        "356": {
+          "fontFamily": "CupertinoIcons",
+          "name": "book"
         },
-        "366":{
-          "name":"check_mark_circled",
-          "fontFamily":"CupertinoIcons"
+        "366": {
+          "name": "check_mark_circled",
+          "fontFamily": "CupertinoIcons"
         },
-        "367":{
-          "name":"rectangle_grid_2x2",
-          "fontFamily":"CupertinoIcons"}
+        "367": {
+          "name": "rectangle_grid_2x2",
+          "fontFamily": "CupertinoIcons"
+        }
       },
-      "categoryLayout":"grid",
-      "label":null,
-      "fontFamily":"CupertinoIcons",
-      "layout":"category",
-      "categories":["366",
+      "categoryLayout": "grid",
+      "label": null,
+      "fontFamily": "CupertinoIcons",
+      "layout": "category",
+      "categories": [
+        "366",
         "345",
         "282",
         "322",
@@ -392,113 +391,111 @@
         "313",
         "296",
         "299",
-        "285"],
-      "key":"driomzcsgq"
+        "285"
+      ],
+      "key": "driomzcsgq"
     },
     {
-      "label":null,
-      "layout":"dynamic",
-      "configs":{
-        "VerticalLayout":{
-          "layout":"columns",
-          "name":"",
-          "key":"u722dqqjb2",
-          "isVertical":true
+      "label": null,
+      "layout": "dynamic",
+      "configs": {
+        "VerticalLayout": {
+          "layout": "columns",
+          "name": "",
+          "key": "u722dqqjb2",
+          "isVertical": true
         },
-        "HorizonLayout":[
+        "HorizonLayout": [
           {
-            "pos":100,
-            "key":"p5i8g82cle",
-            "isSlider":true,
-            "design":"swiper",
-            "intervalTime":1,
-            "height":0.35,
-            "marginRight":1,
-            "autoPlay":true,
-            "marginTop":0,
-            "marginBottom":0,
-            "radius":10,
-            "marginLeft":0,
-            "fit":"cover",
-            "layout":"bannerImage",
-            "title":{
-              "showSearch":false,
-              "marginRight":0,
-              "textOpacity":1,
-              "marginBottom":0,
-              "textColor":null,
-              "title":"banner",
-              "marginTop":0,
-              "marginLeft":0,
-              "height":47,
-              "layout":"header_text",
-              "hideHeader":false,
-              "key":null,
-              "fontSize":20,
-              "fontWeight":"400"
+            "pos": 100,
+            "key": "p5i8g82cle",
+            "isSlider": true,
+            "design": "swiper",
+            "intervalTime": 1,
+            "height": 0.35,
+            "marginRight": 1,
+            "autoPlay": true,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "radius": 10,
+            "marginLeft": 0,
+            "fit": "cover",
+            "layout": "bannerImage",
+            "title": {
+              "showSearch": false,
+              "marginRight": 0,
+              "textOpacity": 1,
+              "marginBottom": 0,
+              "textColor": null,
+              "title": "banner",
+              "marginTop": 0,
+              "marginLeft": 0,
+              "height": 47,
+              "layout": "header_text",
+              "hideHeader": false,
+              "key": null,
+              "fontSize": 20,
+              "fontWeight": "400"
             },
-            "items":[
+            "items": [
               {
-                "category":null,
-                "padding":0,
-                "image":"https://freshuk.co.il/wp-content/uploads/2021/07/home-img-1-medium.jpg"
+                "padding": 0,
+                "image": "https://freshuk.co.il/wp-content/uploads/2021/07/home-img-1-medium.jpg"
               },
               {
-                "image":"https://freshuk.co.il/wp-content/uploads/2020/08/sheli-medium.jpg",
-                "padding":0,
-                "category":null
+                "image": "https://freshuk.co.il/wp-content/uploads/2020/08/sheli-medium.jpg",
+                "padding": 0
               }
             ]
           },
           {
-            "key":"j5nuz2jbp2",
-            "pos":200,
-            "isSnapping":false,
-            "name":"Blogs",
-            "layout":"card",
-            "type":"blog"
+            "key": "j5nuz2jbp2",
+            "pos": 200,
+            "isSnapping": false,
+            "name": "Blogs",
+            "layout": "card",
+            "type": "blog"
           },
           {
-            "name":"",
-            "pos":300,
-            "isSnapping":false,
-            "key":null,
-            "category":null,
-            "layout":"simpleList"
+            "name": "",
+            "pos": 300,
+            "isSnapping": false,
+            "key": null,
+            "layout": "simpleList"
           }
         ]
       },
-      "icon":"bookmark_solid",
-      "fontFamily":"CupertinoIcons",
-      "pos":300,
-      "key":"aadl06kge2"
+      "icon": "bookmark_solid",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "key": "aadl06kge2"
     },
     {
-      "layout":"list-blog",
-      "pos":400,
-      "fontFamily":"CupertinoIcons",
-      "icon":"bag",
-      "label":null,
-      "key":"kgi1gaj2h0"
+      "layout": "list-blog",
+      "pos": 400,
+      "fontFamily": "CupertinoIcons",
+      "icon": "bag",
+      "label": null,
+      "key": "kgi1gaj2h0"
     },
     {
-      "pos":500,
-      "configs":{
-        "HorizonLayout":[
+      "pos": 500,
+      "configs": {
+        "HorizonLayout": [
           {
-            "fontSize":25,
-            "title":"If  you can dream it, \nYou can do it",
-            "pos":100,
-            "showSearch":false,
-            "layout":"header_text"
+            "fontSize": 25,
+            "title": "If  you can dream it, \nYou can do it",
+            "pos": 100,
+            "showSearch": false,
+            "layout": "header_text"
           }
         ]
       },
-      "label":null,
-      "fontFamily":"CupertinoIcons",
-      "icon":"person",
-      "layout":"dynamic",
-      "key":"1xmzi5bm6g"
+      "label": null,
+      "fontFamily": "CupertinoIcons",
+      "icon": "person",
+      "layout": "dynamic",
+      "key": "1xmzi5bm6g"
     }
   ],
   "Drawer": {

@@ -14,7 +14,6 @@
         {
           "image": "https://i.imgur.com/7aKWOLd.jpg",
           "padding": 0.0,
-          "category": 37,
           "radius": 24.0
         }
       ]
@@ -35,7 +34,6 @@
         {
           "image": "https://i.imgur.com/6ZGzGjO.jpeg",
           "padding": 0.0,
-          "category": null,
           "radius": 0.0
         },
         {
@@ -103,10 +101,6 @@
       },
       {
         "type": "web",
-        "show": true
-      },
-      {
-        "type": "about",
         "show": true
       },
       {

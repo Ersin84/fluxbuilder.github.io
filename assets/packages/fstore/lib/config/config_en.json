@@ -92,16 +92,51 @@
       ]
     },
     {
-      "layout": "brand",
-      "name": "Top Brand Choices",
-      "isBrandNameShown": true,
-      "isLogoCornerRounded": true
-    },
-    {
-      "name": "Happy Flash Sale 🎁",
-      "layout": "saleOff",
-      "category": 22,
-      "isSnapping": true
+      "key":"v14g5clzc34tf8",
+      "name":"Flash Sale Today ⚡️",
+      "layout":"saleOff",
+      "isSnapping":true,
+      "rows":1,
+      "columns":0,
+      "imageBoxfit":"cover",
+      "imageRatio":1.2,
+      "hMargin":9.0,
+      "vMargin":30.0,
+      "hPadding":8.0,
+      "vPadding":6.0,
+      "pos":400,
+      "showStockStatus":false,
+      "enableRating":true,
+      "hideTitle":false,
+      "hideStore":false,
+      "onSale":true,
+      "hidePrice":false,
+      "featured":false,
+      "showHeart":true,
+      "showCartButton":false,
+      "cartIconRadius":9.0,
+      "showQuantity":false,
+      "showCartIconColor":false,
+      "showCartIcon":false,
+      "enableBottomAddToCart":false,
+      "cardDesign":"card",
+      "borderRadius":12.0,
+      "backgroundRadius":0.0,
+      "showCartButtonWithQuantity":false,
+      "category":"26",
+      "tag":null,
+      "showCountDown":true,
+      "backgroundColor":"ffffd9e9",
+      "backgroundImage":"https://trello.com/1/cards/6199b77a278ed62ab8bf061d/attachments/6199e995934e467634e67c37/previews/6199e996934e467634e67c46/download/sale.png",
+      "spaceWidth":130.0,
+      "backgroundHeight":288.0,
+      "backgroundBoxFit":"contain",
+      "boxShadow":{
+        "blurRadius":14.0,
+        "colorOpacity":0.1,
+        "spreadRadius":10.0,
+        "x":0.0,
+        "y":6.0}
     },
     {
       "name": "Man Collections",
@@ -110,16 +145,22 @@
       "category": 21
     },
     {
-      "layout": "bannerImage",
-      "height": 0.15,
-      "items": [
+      "layout":"bannerImage",
+      "design":"static",
+      "fit":"fitWidth",
+      "marginLeft":0.0,
+      "items":[
         {
-          "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
-          "coupon": "blackf",
-          "padding": 15.0,
-          "radius": 9.0
+          "image":"https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
+          "coupon":"blackf",
+          "padding":15.0,
+          "radius":9.0
         }
-      ]
+      ],
+      "marginBottom":0.0,
+      "height":0.15,
+      "marginRight":0.0,
+      "marginTop":20.0
     },
     {
       "name": "Recent View",

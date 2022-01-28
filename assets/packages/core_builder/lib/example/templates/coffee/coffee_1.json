@@ -74,7 +74,6 @@
       "radius": 24.0,
       "items": [
         {
-          "category": "23",
           "image": null,
           "colors": [
             "#333333"
@@ -85,7 +84,6 @@
           "keepDefaultTitle": false
         },
         {
-          "category": "24",
           "image": null,
           "colors": [
             "#333333"
@@ -96,7 +94,6 @@
           "keepDefaultTitle": false
         },
         {
-          "category": "25",
           "image": null,
           "colors": [
             "#333333"
@@ -107,7 +104,6 @@
           "keepDefaultTitle": false
         },
         {
-          "category": "26",
           "image": null,
           "colors": [
             "#333333"
@@ -118,7 +114,6 @@
           "keepDefaultTitle": false
         },
         {
-          "category": "27",
           "image": null,
           "colors": [
             "#333333"
@@ -129,7 +124,6 @@
           "keepDefaultTitle": false
         },
         {
-          "category": "28",
           "image": null,
           "colors": [
             "#333333"

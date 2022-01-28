@@ -1,316 +1,303 @@
 {
-    "HorizonLayout": [
-      {
-        "layout": "logo",
-        "showMenu": true,
-        "showSearch": false,
-        "showLogo": true,
-        "menuIcon": {
-          "name": "blur_circular",
-          "fontFamily": "MaterialIcons"
-        },
-        "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108deb30ab9fa7fcc2e0fe7/download/shoes-logo.png"
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": true,
+      "menuIcon": {
+        "name": "blur_circular",
+        "fontFamily": "MaterialIcons"
       },
-      {
-        "layout": "bannerImage",
-        "isSlider": true,
-        "marginTop": 12.0,
-        "marginBottom": 0.0,
-        "marginLeft": 5.0,
-        "marginRight": 0.0,
-        "height": 0.25,
-        "fit": "cover",
-        "items": [
-          {
-            "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
-            "padding": 5,
-            "category": "122"
-          },
-          {
-            "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-            "tag": 480,
-            "padding": 5,
-            "category": "128"
-          },
-          {
-            "padding": 5,
-            "image": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80",
-            "category": "949"
-          }
-        ],
-        "autoPlay": false,
-        "design": "stack",
-        "radius": 5.0,
-        "intervalTime": 5
-      },
-      {
-        "layout": "category",
-        "type": "icon",
-        "wrap": false,
-        "size": 1.2,
-        "radius": 10.0,
-        "items": [
-          {
-            "category": "688",
-            "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d6cf1803f27aec58da8e/previews/6108d6d01803f27aec58da97/download",
-            "colors": [
-              "#ff1c0b91",
-              "#ff443ca7",
-              "#ffffffff"
-            ],
-            "originalColor": true,
-            "title": "Nike",
-            "description": "",
-            "keepDefaultTitle": true
-          },
-          {
-            "category": "150",
-            "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d52b5ea71645c80fb975/download/adidas.png",
-            "colors": [
-              "#333333",
-              "#ff454846",
-              "#ffffffff"
-            ],
-            "originalColor": true,
-            "title": "Adidas",
-            "description": "",
-            "keepDefaultTitle": true
-          },
-          {
-            "category": "688",
-            "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d6ce1a8e418a658aa587/download/puma.png",
-            "colors": [
-              "#ffd90027",
-              "#ffe44d68",
-              "#ffffffff"
-            ],
-            "originalColor": true,
-            "title": "Puma",
-            "description": "",
-            "keepDefaultTitle": true
-          },
-          {
-            "category": "122",
-            "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d7ad2d9b7d0b722ade38/download/mizuno.png",
-            "colors": [
-              "#ff000294",
-              "#ff3335a9",
-              "#ffffffff"
-            ],
-            "originalColor": true,
-            "title": "Mizuno",
-            "description": "",
-            "keepDefaultTitle": true
-          },
-          {
-            "keepDefaultTitle": true,
-            "description": "",
-            "image": "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/reebok-logo.png",
-            "category": "150",
-            "originalColor": true,
-            "colors": [
-              "#ff500092",
-              "#ff854db3",
-              "#ffffffff"
-            ],
-            "title": "Reebok"
-          },
-          {
-            "category": "150",
-            "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d7ab7c2e3b8788a2de41/previews/6108d7ac7c2e3b8788a2de53/download",
-            "colors": [
-              "#ff108b21",
-              "#ff40a24d",
-              "#ffffffff"
-            ],
-            "originalColor": true,
-            "title": "New Balance",
-            "description": "",
-            "keepDefaultTitle": true
-          }
-        ],
-        "line": false,
-        "marginLeft": 10.0,
-        "marginRight": 10.0,
-        "marginTop": 25.0,
-        "marginBottom": 10.0,
-        "paddingX": 0.0,
-        "paddingY": 0.0,
-        "marginX": 0.0,
-        "marginY": 0.0,
-        "hideTitle": false
-      },
-      {
-        "textColor": "ffe10303",
-        "hideHeader": false,
-        "marginLeft": 12,
-        "textOpacity": 0.6,
-        "layout": "header_text",
-        "title": "Daily Sale Off 🔥",
-        "marginTop": 0,
-        "height": 50,
-        "fontSize": 24,
-        "showSearch": false,
-        "marginRight": 0,
-        "fontWeight": "500",
-        "marginBottom": 0
-      },
-      {
-        "marginLeft": 10,
-        "radius": 5.2,
-        "marginTop": 0,
-        "marginBottom": 20,
-        "items": [
-          {
-            "padding": 0,
-            "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-            "category": "949"
-          },
-          {
-            "category": "150",
-            "padding": 0,
-            "image": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-            "tag": 730
-          },
-          {
-            "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80",
-            "padding": 0,
-            "category": "949"
-          }
-        ],
-        "fit": "cover",
-        "layout": "bannerImage",
-        "design": "default",
-        "isSlider": true,
-        "height": 0.2,
-        "marginRight": 10,
-        "intervalTime": 3,
-        "autoPlay": false
-      },
-      {
-        "isSnapping": false,
-        "category": "122",
-        "layout": "simpleList",
-        "name": "Special Shoes"
-      }
-    ],
-    "Setting": {
-      "TabBarConfig": {
-        "isSafeArea": true,
-        "color": null,
-        "colorCart": "fffe2060",
-        "colorIcon": "ff7a7b7f",
-        "colorActiveIcon": "ff006cca",
-        "iconSize": 23.025228226675463,
-        "indicatorStyle": "material",
-        "showFloatingClip": true,
-        "showFloating": true,
-        "radiusTopLeft": 0.0,
-        "radiusTopRight": 0.0,
-        "radiusBottomLeft": 0.0,
-        "radiusBottomRight": 0.0,
-        "paddingLeft": 0.0,
-        "paddingRight": 0.0,
-        "paddingBottom": 0.0,
-        "paddingTop": 0.0,
-        "marginTop": 0.0,
-        "marginBottom": 0.0,
-        "marginLeft": 0.0,
-        "marginRight": 0.0,
-        "TabBarIndicator": {
-          "height": 1.4900782477128942,
-          "tabPosition": "bottom",
-          "topRightRadius": null,
-          "topLeftRadius": null,
-          "bottomRightRadius": 9.988863169703269,
-          "bottomLeftRadius": 9.980371609191021,
-          "color": "ff006cca",
-          "horizontalPadding": 0.0,
-          "verticalPadding": null,
-          "strokeWidth": 0.0,
-          "radius": 3.5929154693867718,
-          "distanceFromCenter": 14.514758174337208,
-          "paintingStyle": "fill"
-        },
-        "TabBarFloating": {
-          "position": 2,
-          "radius": null,
-          "color": "ff006cca",
-          "location": "centerDocked",
-          "width": null,
-          "height": null,
-          "elevation": 4.773078564776487,
-          "floatingType": "rectangle"
-        }
-      },
-      "StickyHeader": true,
-      "MainColor": "#3FC1BE",
-      "ProductDetail": "simpleType",
-      "ProductListLayout": "list"
+      "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108deb30ab9fa7fcc2e0fe7/download/shoes-logo.png"
     },
-    "TabBar": [
-      {
-        "key": "093h5y9ss1",
-        "layout": "home",
-        "icon": "home",
-        "fontFamily": "CupertinoIcons",
-        "label": null,
-        "pos": 100
-      },
-      {
-        "key": "79etezp01a",
-        "layout": "category",
-        "icon": "line_horizontal_3",
-        "fontFamily": "CupertinoIcons",
-        "label": null,
-        "pos": 200,
-        "categoryLayout": "card"
-      },
-      {
-        "pos": 300,
-        "size": 24,
-        "fontFamily": "CupertinoIcons",
-        "layout": "search",
-        "icon": "search",
-        "key": "8n1x2s4pou"
-      },
-      {
-        "key": "4uzfo81kid",
-        "layout": "cart",
-        "icon": "shopping_cart",
-        "fontFamily": "CupertinoIcons",
-        "label": null,
-        "pos": 400
-      },
-      {
-        "layout": "html",
-        "pos": 500,
-        "icon": "person",
-        "data": "PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8Ym9keT4KCjxoMT5NeSBGaXJzdCBIZWFkaW5nPC9oMT4KPHA+TXkgZmlyc3QgcGFyYWdyYXBoLjwvcD4KCjwvYm9keT4KPC9odG1sPgo=",
-        "fontFamily": "CupertinoIcons",
-        "label": null,
-        "key": "yb8ngkit5p"
-      }
-    ],
-    "Drawer": {
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 12.0,
+      "marginBottom": 0.0,
+      "marginLeft": 5.0,
+      "marginRight": 0.0,
+      "height": 0.25,
+      "fit": "cover",
       "items": [
         {
-          "type": "home",
-          "show": false
+          "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+          "padding": 5
         },
         {
-          "show": true,
-          "type": "blog"
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "tag": 480,
+          "padding": 5
         },
         {
-          "type": "login",
-          "show": true
-        },
-        {
-          "type": "category",
-          "show": true
+          "padding": 5,
+          "image": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
         }
       ],
-      "logo": "assets/images/logo.png"
+      "autoPlay": false,
+      "design": "stack",
+      "radius": 5.0,
+      "intervalTime": 5
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.2,
+      "radius": 10.0,
+      "items": [
+        {
+          "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d6cf1803f27aec58da8e/previews/6108d6d01803f27aec58da97/download",
+          "colors": [
+            "#ff1c0b91",
+            "#ff443ca7",
+            "#ffffffff"
+          ],
+          "originalColor": true,
+          "title": "Nike",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d52b5ea71645c80fb975/download/adidas.png",
+          "colors": [
+            "#333333",
+            "#ff454846",
+            "#ffffffff"
+          ],
+          "originalColor": true,
+          "title": "Adidas",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d6ce1a8e418a658aa587/download/puma.png",
+          "colors": [
+            "#ffd90027",
+            "#ffe44d68",
+            "#ffffffff"
+          ],
+          "originalColor": true,
+          "title": "Puma",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d7ad2d9b7d0b722ade38/download/mizuno.png",
+          "colors": [
+            "#ff000294",
+            "#ff3335a9",
+            "#ffffffff"
+          ],
+          "originalColor": true,
+          "title": "Mizuno",
+          "description": "",
+          "keepDefaultTitle": true
+        },
+        {
+          "keepDefaultTitle": true,
+          "description": "",
+          "image": "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/reebok-logo.png",
+          "originalColor": true,
+          "colors": [
+            "#ff500092",
+            "#ff854db3",
+            "#ffffffff"
+          ],
+          "title": "Reebok"
+        },
+        {
+          "image": "https://trello.com/1/cards/6108d5026dfde37333cb9eb0/attachments/6108d7ab7c2e3b8788a2de41/previews/6108d7ac7c2e3b8788a2de53/download",
+          "colors": [
+            "#ff108b21",
+            "#ff40a24d",
+            "#ffffffff"
+          ],
+          "originalColor": true,
+          "title": "New Balance",
+          "description": "",
+          "keepDefaultTitle": true
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 25.0,
+      "marginBottom": 10.0,
+      "paddingX": 0.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false
+    },
+    {
+      "textColor": "ffe10303",
+      "hideHeader": false,
+      "marginLeft": 12,
+      "textOpacity": 0.6,
+      "layout": "header_text",
+      "title": "Daily Sale Off 🔥",
+      "marginTop": 0,
+      "height": 50,
+      "fontSize": 24,
+      "showSearch": false,
+      "marginRight": 0,
+      "fontWeight": "500",
+      "marginBottom": 0
+    },
+    {
+      "marginLeft": 10,
+      "radius": 5.2,
+      "marginTop": 0,
+      "marginBottom": 20,
+      "items": [
+        {
+          "padding": 0,
+          "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+        },
+        {
+          "padding": 0,
+          "image": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "tag": 730
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80",
+          "padding": 0
+        }
+      ],
+      "fit": "cover",
+      "layout": "bannerImage",
+      "design": "default",
+      "isSlider": true,
+      "height": 0.2,
+      "marginRight": 10,
+      "intervalTime": 3,
+      "autoPlay": false
+    },
+    {
+      "isSnapping": false,
+      "layout": "simpleList",
+      "name": "Special Shoes"
     }
+  ],
+  "Setting": {
+    "TabBarConfig": {
+      "isSafeArea": true,
+      "color": null,
+      "colorCart": "fffe2060",
+      "colorIcon": "ff7a7b7f",
+      "colorActiveIcon": "ff006cca",
+      "iconSize": 23.025228226675463,
+      "indicatorStyle": "material",
+      "showFloatingClip": true,
+      "showFloating": true,
+      "radiusTopLeft": 0.0,
+      "radiusTopRight": 0.0,
+      "radiusBottomLeft": 0.0,
+      "radiusBottomRight": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 0.0,
+      "paddingTop": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "TabBarIndicator": {
+        "height": 1.4900782477128942,
+        "tabPosition": "bottom",
+        "topRightRadius": null,
+        "topLeftRadius": null,
+        "bottomRightRadius": 9.988863169703269,
+        "bottomLeftRadius": 9.980371609191021,
+        "color": "ff006cca",
+        "horizontalPadding": 0.0,
+        "verticalPadding": null,
+        "strokeWidth": 0.0,
+        "radius": 3.5929154693867718,
+        "distanceFromCenter": 14.514758174337208,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 2,
+        "radius": null,
+        "color": "ff006cca",
+        "location": "centerDocked",
+        "width": null,
+        "height": null,
+        "elevation": 4.773078564776487,
+        "floatingType": "rectangle"
+      }
+    },
+    "StickyHeader": true,
+    "MainColor": "#3FC1BE",
+    "ProductDetail": "simpleType",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "key": "093h5y9ss1",
+      "layout": "home",
+      "icon": "home",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100
+    },
+    {
+      "key": "79etezp01a",
+      "layout": "category",
+      "icon": "line_horizontal_3",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200,
+      "categoryLayout": "card"
+    },
+    {
+      "pos": 300,
+      "size": 24,
+      "fontFamily": "CupertinoIcons",
+      "layout": "search",
+      "icon": "search",
+      "key": "8n1x2s4pou"
+    },
+    {
+      "key": "4uzfo81kid",
+      "layout": "cart",
+      "icon": "shopping_cart",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 400
+    },
+    {
+      "layout": "html",
+      "pos": 500,
+      "icon": "person",
+      "data": "PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8Ym9keT4KCjxoMT5NeSBGaXJzdCBIZWFkaW5nPC9oMT4KPHA+TXkgZmlyc3QgcGFyYWdyYXBoLjwvcD4KCjwvYm9keT4KPC9odG1sPgo=",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "key": "yb8ngkit5p"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": false
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
   }
+}

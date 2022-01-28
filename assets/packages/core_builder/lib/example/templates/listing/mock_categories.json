@@ -9,6 +9,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/interior-view-of-contemporary-lounge-with-staircase-small.jpg",
+        "_cover": "232",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -50,6 +52,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/working-in-a-cafe-small.jpg",
+        "_cover": "323",
         "listeo_taxonomy_multicheck": [
             "air-conditioning",
             "alcohol",
@@ -92,52 +96,6 @@
         }
     },
     {
-        "id": 60,
-        "count": 0,
-        "description": "",
-        "link": "https://listeo.inspireui.com/listing-category/cleaning/",
-        "name": "Cleaning",
-        "slug": "cleaning",
-        "taxonomy": "listing_category",
-        "parent": 0,
-        "meta": [],
-        "listeo_taxonomy_multicheck": [
-            "free-parking",
-            "friendly-workspace",
-            "pet-friendly",
-            "wireless-internet"
-        ],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/60"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=60"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
         "id": 63,
         "count": 3,
         "description": "",
@@ -147,6 +105,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2021/04/restaurant-in-valkenswaard-small.jpg",
+        "_cover": "738",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -188,6 +148,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2020/07/foody-upload-api-foody-mobile-58-jpg-180907112109-small.jpg",
+        "_cover": "448",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -229,6 +191,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2021/04/start-exercising-again-after-a-long-break-tile-small.jpg",
+        "_cover": "739",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -270,6 +234,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/french-macaroons-with-tangerine-small.jpg",
+        "_cover": "325",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -311,6 +277,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/tourist-ski-resorts-in-french-alps-at-early-autumn-small.jpg",
+        "_cover": "324",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -352,6 +320,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/travel6-1-small.jpg",
+        "_cover": "252",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -393,6 +363,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/fresh-seafood-with-herbs-and-lemon-on-ice-small.jpg",
+        "_cover": "326",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -434,6 +406,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/12/become-an-owner-1-small.png",
+        "_cover": "377",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -475,6 +449,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/steakhouse-beef-meat-selection-small.jpg",
+        "_cover": "327",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [
@@ -516,6 +492,8 @@
         "taxonomy": "listing_category",
         "parent": 0,
         "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/vietnamese-boats-at-river-ninh-binh-vietnam-small.jpg",
+        "_cover": "328",
         "listeo_taxonomy_multicheck": "",
         "_links": {
             "self": [

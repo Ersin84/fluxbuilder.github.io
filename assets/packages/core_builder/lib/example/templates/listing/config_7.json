@@ -1,0 +1,178 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false,
+      "name": "Best Travel"
+    },
+    {
+      "title": "Explore the world with us",
+      "isSafeArea": true,
+      "showSearch": false,
+      "hideHeader": false,
+      "padding": 17.0,
+      "height": 20.0,
+      "fontSize": 19.0,
+      "layout": "header_text"
+    },
+    {
+      "text": "Search for a product",
+      "height": 41.0,
+      "marginLeft": 20.0,
+      "marginRight": 20.0,
+      "shadow": 10.0,
+      "radius": 6.0,
+      "layout": "header_search"
+    },
+    {
+      "title": "Top Places",
+      "isSafeArea": true,
+      "showSearch": false,
+      "padding": 17.0,
+      "height": 20.0,
+      "fontSize": 18.0,
+      "hideHeader": false,
+      "layout": "header_text"
+    },
+    {
+      "height": 0.35,
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items": [
+        {
+          "image": "https://i.imgur.com/r5L0nBa.jpeg",
+          "padding": 0.0,
+          "radius": 9.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "height": 0.35,
+      "items": [
+        {
+          "image": "https://i.imgur.com/oDC3qWw.jpg",
+          "padding": 0.0,
+          "radius": 9.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "items": [
+        {
+          "image": "https://i.imgur.com/cG45Yhy.jpeg",
+          "padding": 0.0,
+          "radius": 7.8
+        }
+      ]
+    },
+    {
+      "title": "Categories",
+      "hideHeader": false,
+      "isSafeArea": true,
+      "showSearch": false,
+      "padding": 20.0,
+      "height": 25.0,
+      "fontSize": 18.0,
+      "layout": "header_text"
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 0.1,
+      "radius": 0.0,
+      "items": [
+        {
+          "image": "https://i.imgur.com/dI503Q0.jpg",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": true
+        },
+        {
+          "image": "https://i.imgur.com/DCLXS5s.jpeg",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": true
+        },
+        {
+          "image": "https://i.imgur.com/X6EAILW.jpg",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "showText": true
+        }
+      ],
+      "line": false
+    },
+    {
+      "name": "Services",
+      "layout": "threeColumn"
+    },
+    {
+      "name": "Event",
+      "layout": "threeColumn"
+      
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "pos": 300
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 400
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

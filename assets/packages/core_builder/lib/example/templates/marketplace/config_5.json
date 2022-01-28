@@ -10,8 +10,7 @@
     {
       "name": "Flash Sale ",
       "layout": "fourColumn",
-      "isSnapping": true,
-      "category": 63
+      "isSnapping": true
     },
     {
       "layout": "bannerImage",
@@ -19,18 +18,15 @@
       "items": [
         {
           "image": "https://i.imgur.com/Eu3dBmH.jpg",
-          "padding": 21.6,
-          "category": 63
+          "padding": 21.6
         },
         {
           "image": "https://i.imgur.com/eUogK1d.jpeg",
-          "padding": 6.6,
-          "category": null
+          "padding": 6.6
         },
         {
           "image": "https://i.imgur.com/77uQrap.jpg",
-          "padding": 15.0,
-          "category": 56
+          "padding": 15.0
         }
       ],
       "autoPlay": true,

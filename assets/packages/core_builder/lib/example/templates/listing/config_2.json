@@ -1,213 +1,159 @@
 {
+    "Background": {
+        "scroll": true,
+        "height": 0.45,
+        "image": "https://trello.com/1/cards/5dd0d1319965f254e805c14b/attachments/5dd79c81e884db8a19c22968/previews/5dd79c82e884db8a19c22978/download/fourquare.jpg"
+    },
     "HorizonLayout": [
         {
-            "layout": "bannerImage",
-            "isSlider": true,
-            "items": [
+            "isSafeArea":false,
+            "showSearch":false,
+            "usePrimaryColor":true,
+            "borderInput":false,
+            "title":"",
+            "type":"static",
+            "height":300.0,
+            "rotate":[],
+            "layout":"header_text"
+        },
+        {
+            "isSafeArea":false,
+            "showSearch":true,
+            "usePrimaryColor":false,
+            "borderInput":true,
+            "title":"Search for a product",
+            "alignment":"centerLeft",
+            "fontWeight":0,
+            "radius":6.0,
+            "fontSize":18.0,
+            "textOpacity":0.6,
+            "marginLeft":20.0,
+            "marginRight":20.0,
+            "marginBottom":15.0,
+            "marginTop":15.0,
+            "paddingLeft":14,
+            "paddingRight":15.0,
+            "paddingTop":0.0,
+            "paddingBottom":0.0,
+            "height":48.0,
+            "rotate":[],
+            "layout":"header_search"
+        },
+        {
+            "layout":"category",
+            "type":"icon",
+            "wrap":true,
+            "showShortDescription":true,
+            "size":1.3,
+            "radius":0.0,
+            "spacing":8.0,
+            "items":[
                 {
-                    "image": "https://i.imgur.com/I3wHTKh.jpg",
-                    "padding": 0.0,
-                    "category": null,
-                    "radius": 0.0
-                }
-            ],
-            "autoPlay": false,
-            "design": "default",
-            "radius": 10.0
-        },
-        {
-            "layout": "logo",
-            "showMenu": true,
-            "showSearch": true,
-            "showLogo": false,
-            "name": "Yommy"
-        },
-        {
-            "title": "Your Own Coffee Space",
-            "isSafeArea": true,
-            "showSearch": false,
-            "hideHeader": false,
-            "padding": 20.0,
-            "height": 25.0,
-            "fontSize": 16.0,
-            "layout": "header_text"
-        },
-        {
-            "layout": "bannerImage",
-            "isSlider": true,
-            "items": [
-                {
-                    "image": "https://i.imgur.com/FPTIaN2.jpg",
-                    "padding": 0.0,
-                    "category": 19
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d38f6ada5de7ee346e/previews/619897d38f6ada5de7ee347d/download/ls_build.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
                 },
                 {
-                    "image": "https://i.imgur.com/bpvxBUB.jpeg",
-                    "padding": 0.0,
-                    "category": 19
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d4ca12a263f5feb533/previews/619897d4ca12a263f5feb536/download/ls_eat.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
                 },
                 {
-                    "image": "https://i.imgur.com/R2bZu0E.jpg",
-                    "padding": 15.0,
-                    "category": 19
-                }
-            ],
-            "autoPlay": false,
-            "design": "swiper",
-            "radius": 10.0
-        },
-        {
-            "title": "Be with friends",
-            "isSafeArea": true,
-            "showSearch": false,
-            "hideHeader": false,
-            "padding": 20.0,
-            "height": 25.0,
-            "fontSize": 16.0,
-            "layout": "header_text"
-        },
-        {
-            "layout": "bannerImage",
-            "isSlider": true,
-            "items": [
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d5fd655c3a04277a6b/previews/619897d5fd655c3a04277a74/download/ls_event.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
+                },
                 {
-                    "image": "https://i.imgur.com/pxtGnmq.jpg",
-                    "padding": 0.0,
-                    "category": 63,
-                    "radius": 0.0
-                }
-            ],
-            "autoPlay": false,
-            "design": "default",
-            "radius": 0.0
-        },
-        {
-            "layout": "bannerImage",
-            "isSlider": true,
-            "items": [
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d60925296440a2f3e4/previews/619897d60925296440a2f3f2/download/ls_fitness.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
+                },
                 {
-                    "image": "https://i.imgur.com/1OzxCAt.jpg",
-                    "padding": 0.0,
-                    "category": null,
-                    "radius": 0.0
-                }
-            ],
-            "autoPlay": false,
-            "design": "default",
-            "radius": 0.0
-        },
-        {
-            "layout": "bannerImage",
-            "isSlider": true,
-            "items": [
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d7e73f9e5370850bb7/previews/619897d7e73f9e5370850bbc/download/ls_other.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
+                },
                 {
-                    "image": "https://i.imgur.com/iCiEWFT.jpg",
-                    "padding": 0.0,
-                    "category": null
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d8ae7e368406581979/previews/619897d9ae7e36840658199a/download/ls_service.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
+                },
+                {
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d60925296440a2f3e4/previews/619897d60925296440a2f3f2/download/ls_fitness.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
+                },
+                {
+                    "category":"19",
+                    "image":"https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/619897d5fd655c3a04277a6b/previews/619897d5fd655c3a04277a74/download/ls_event.png",
+                    "colors":["#333333"],
+                    "originalColor":false,
+                    "keepDefaultTitle":false
                 }
             ],
-            "autoPlay": false,
-            "design": "default",
-            "radius": 0.0
-        },
-        {
-            "name": "For seafood holic",
-            "layout": "threeColumn",
-            "isSnapping": false,
-            "category": 29
-        }
+            "line":true,
+            "marginLeft":10.0,
+            "marginRight":10.0,
+            "marginTop":17.0,
+            "marginBottom":10.0,
+            "pos":300,
+            "paddingX":1.0,
+            "paddingY":2.0,
+            "marginX":0.0,
+            "marginY":0.0,
+            "hideTitle":false,
+            "noBackground":true,
+            "columns":4}
     ],
     "Setting": {
         "MainColor": "#3FC1BE",
-        "ProductListLayout": "list",
-        "StickyHeader": true,
-        "ProductDetail": "simpleType"
+        "FontFamily": "Roboto",
+        "ProductListLayout": "list"
     },
     "TabBar": [
         {
             "layout": "home",
-            "icon": "assets/icons/tabs/icon-home.png",
+            "icon": "home",
             "pos": 100,
-            "showChat": false
+            "fontFamily": "CupertinoIcons",
+            "key": "p1q235ba14"
         },
         {
+            "pos": 200,
             "layout": "category",
-            "categoryLayout": "column",
-            "icon": "assets/icons/tabs/icon-category.png",
-            "pos": 200
+            "icon": "rectangle_grid_1x2",
+            "fontFamily": "CupertinoIcons",
+            "categoryLayout": "card",
+            "key": "hwu0rkrizt"
         },
         {
+            "key": "2reihs4qzc",
+            "icon": "search",
             "layout": "search",
-            "icon": "assets/icons/tabs/icon-search.png",
-            "pos": 300
-        },
-        {
-            "layout": "wishlist",
-            "icon": "assets/icons/tabs/icon-heartthin.png",
-            "data": {
-                "id": 1,
-                "container": {
-                    "height": 0.5,
-                    "image": {
-                        "height": 0.5,
-                        "width": 1.0,
-                        "url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
-                        "align": {
-                            "x": 1.0,
-                            "y": 1.0
-                        }
-                    },
-                    "header": {
-                        "align": {
-                            "x": -1.0,
-                            "y": 0.8
-                        },
-                        "padding": {
-                            "horizontal": 20.0,
-                            "vertical": 10.0
-                        },
-                        "color": "#FFFFFF",
-                        "background": "#000000",
-                        "text": "About US"
-                    }
-                },
-                "subHeader": "This is sub heading",
-                "description": "This is description"
-            },
-            "pos": 303,
-            "showChat": false
+            "fontFamily": "CupertinoIcons",
+            "pos": 300,
+            "size": 24
         },
         {
             "layout": "profile",
-            "icon": "assets/icons/tabs/icon-user.png",
-            "pos": 400
+            "fontFamily": "CupertinoIcons",
+            "pos": 500,
+            "key": "69jw5yx12d",
+            "icon": "person"
         }
-    ],
-    "Drawer": {
-        "logo": "assets/images/logo.png",
-        "items": [
-            {
-                "type": "home",
-                "show": true
-            },
-            {
-                "type": "blog",
-                "show": true
-            },
-            {
-                "type": "login",
-                "show": true
-            },
-            {
-                "type": "category",
-                "show": true
-            }
-        ]
-    },
-    "VerticalLayout": {
-        "key": "u4xzutm19q",
-        "layout": "list",
-        "name": "Steak House",
-        "category": 35
-    }
+    ]
 }

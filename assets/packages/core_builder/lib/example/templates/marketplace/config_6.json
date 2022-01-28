@@ -16,19 +16,16 @@
         {
           "image":"https://i.imgur.com/H02udi6.jpeg",
           "padding":10.2,
-          "category":57,
           "radius":15.0
         },
         {
           "image":"https://i.imgur.com/m6DXYn1.jpg",
           "padding":15.0,
-          "category":58,
           "radius":10.2
         },
         {
           "image":"https://i.imgur.com/JtZpOhu.jpg",
           "padding":15.0,
-          "category":56,
           "radius":10.2
         }
       ],
@@ -38,28 +35,23 @@
     },
     {
       "name":"Televisions",
-      "layout":"listTile",
-      "category":"33"
+      "layout":"listTile"
     },
     {
       "name":"Fruits",
-      "layout":"listTile",
-      "category":"58"
+      "layout":"listTile"
     },
     {
       "name":"Food",
-      "layout":"listTile",
-      "category":"57"
+      "layout":"listTile"
     },
     {
       "name":"Watches ",
-      "layout":"listTile",
-      "category":"36"
+      "layout":"listTile"
     },
     {
       "name":"Wireless",
-      "layout":"listTile",
-      "category":"45"
+      "layout":"listTile"
     }
   ],
   "Setting":{

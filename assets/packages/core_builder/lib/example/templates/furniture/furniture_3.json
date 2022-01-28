@@ -70,14 +70,12 @@
       "name": "Featured Products",
       "layout": "largeCardHorizontalListItems",
       "isSnapping": false,
-      "category": null,
       "height": 100.0
     },
     {
       "name": "Best Choices",
       "layout": "card",
       "isSnapping": false,
-      "category": null,
       "height": 100.0
     }
   ],

@@ -58,7 +58,6 @@
           "padding": 16.1
         },
         {
-          "category": "23",
           "image": "https://trello.com/1/cards/610ab60d5e88a76716ceb828/attachments/610ab61ab114117ae39213e9/previews/610ab61ab114117ae39213f6/download",
           "padding": 16.1
         }
@@ -102,7 +101,6 @@
             "#3CC2BF",
             "#3CC2BF"
           ],
-          "category": "23",
           "keepDefaultTitle": true,
           "originalColor": false,
           "title": "🎨 Art",
@@ -117,7 +115,6 @@
           ],
           "originalColor": false,
           "description": "",
-          "category": "23",
           "title": "📚 Education"
         },
         {
@@ -128,7 +125,6 @@
             "#53688A"
           ],
           "title": "💼 Business",
-          "category": "23",
           "description": "",
           "originalColor": false
         },
@@ -140,7 +136,6 @@
             "#12B58C"
           ],
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
-          "category": "23",
           "description": "",
           "originalColor": false
         },
@@ -153,11 +148,9 @@
           "title": "🐦 Bird",
           "originalColor": false,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
-          "keepDefaultTitle": true,
-          "category": "23"
+          "keepDefaultTitle": true
         },
         {
-          "category": "23",
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
           "colors": [
             "#43506A",
@@ -169,7 +162,6 @@
           "description": ""
         },
         {
-          "category": "208",
           "colors": [
             "#333333"
           ],
@@ -180,7 +172,6 @@
           "title": "🐷 Pig"
         },
         {
-          "category": "23",
           "description": "",
           "colors": [
             "#333333"

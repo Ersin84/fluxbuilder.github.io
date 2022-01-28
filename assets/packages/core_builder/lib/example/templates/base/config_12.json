@@ -23,17 +23,14 @@
       "radius": 0.0,
       "items": [
         {
-          "category": null,
           "image": "https://images.unsplash.com/photo-1586363090844-099253d6a1cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=450&q=80",
           "showText": false
         },
         {
-          "category": null,
           "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=517&q=80",
           "showText": false
         },
         {
-          "category": null,
           "image": "https://images.unsplash.com/photo-1516763296043-f676c1105999?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=526&q=80",
           "showText": false
         }

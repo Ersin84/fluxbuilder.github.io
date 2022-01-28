@@ -29,19 +29,18 @@
       "size": 1.0,
       "radius": 50.0,
       "wrap": true,
-      "items": [{
-        "category": 18,
-        "keepDefaultTitle": true,
-        "image": "https://image.flaticon.com/icons/png/512/869/869712.png",
-        "title": "Vegetable",
-        "colors": [
-          "#3CC2BF",
-          "#3CC2BF"
-        ],
-        "originalColor": false
-      },
+      "items": [
         {
-          "category": 18,
+          "keepDefaultTitle": true,
+          "image": "https://image.flaticon.com/icons/png/512/869/869712.png",
+          "title": "Vegetable",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": false
+        },
+        {
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/512/819/819853.png",
           "title": "Drink",
@@ -52,7 +51,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/512/372/372922.png",
           "title": "Milk",
@@ -63,7 +61,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/933/933310.png",
           "title": "Meat",
@@ -74,7 +71,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/512/811/811643.png",
           "title": "Fish",
@@ -85,7 +81,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/883/883407.png",
           "title": "Pharmacy",
@@ -96,7 +91,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/2421/2421778.png",
           "title": "House Hold",
@@ -107,7 +101,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/1261/1261052.png",
           "title": "Grocery",
@@ -118,7 +111,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/920/920623.png",
           "title": "Liquor",
@@ -129,7 +121,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/1974/1974058.png",
           "title": "Chilled",
@@ -140,7 +131,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/2270/2270920.png",
           "title": "Beverages",
@@ -151,7 +141,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/2682/2682044.png",
           "title": "Frozen Food",
@@ -162,7 +151,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/3183/3183629.png",
           "title": "Homeware",
@@ -173,7 +161,6 @@
           "originalColor": false
         },
         {
-          "category": 18,
           "keepDefaultTitle": true,
           "image": "https://image.flaticon.com/icons/png/128/3081/3081887.png",
           "title": "Fruits",
@@ -189,18 +176,15 @@
   "HorizonLayout": [
     {
       "name": "Collections",
-      "layout": "fourColumn",
-      "category": "1"
+      "layout": "fourColumn"
     },
     {
       "name": "Most Popular",
-      "layout": "threeColumn",
-      "category": "2"
+      "layout": "threeColumn"
     },
     {
       "name": "Favorites",
-      "layout": "twoColumn",
-      "category": "3"
+      "layout": "twoColumn"
     }
   ],
   "Setting": {

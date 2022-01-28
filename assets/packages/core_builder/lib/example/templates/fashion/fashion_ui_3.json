@@ -25,7 +25,6 @@
         {
           "padding": 0.0,
           "image": "https://images.unsplash.com/photo-1603217040208-56131869e0e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
-          "category": 21,
           "button": {
             "text": "Shop Now ⚡",
             "textColor": "#FFFFFF",
@@ -52,7 +51,6 @@
     {
       "name": "Women Fashion",
       "layout": "threeColumn",
-      "category": 21,
       "isSnapping": true
     },
     {

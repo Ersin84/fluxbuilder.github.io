@@ -13,18 +13,15 @@
             "items": [
                 {
                     "image": "https://i.imgur.com/PPawCdj.jpg",
-                    "padding": 0.0,
-                    "category": 31
+                    "padding": 0.0
                 },
                 {
                     "image": "https://i.imgur.com/7w2pts0.jpeg",
-                    "padding": 0.0,
-                    "category": 28
+                    "padding": 0.0
                 },
                 {
                     "image": "https://i.imgur.com/u9eWltc.jpg",
-                    "padding": 0.0,
-                    "category": 36
+                    "padding": 0.0
                 }
             ],
             "autoPlay": true,
@@ -39,7 +36,6 @@
             "radius": 50.0,
             "items": [
                 {
-                    "category": 38,
                     "image": "assets/icons/categories/cate1.png",
                     "colors": [
                         "#3CC2BF",
@@ -49,7 +45,6 @@
                     "showText": false
                 },
                 {
-                    "category": 29,
                     "image": "assets/icons/categories/cate2.png",
                     "colors": [
                         "#3E6AB5",
@@ -59,7 +54,6 @@
                     "showText": false
                 },
                 {
-                    "category": 28,
                     "image": "assets/icons/categories/cate3.png",
                     "colors": [
                         "#53A2CC",
@@ -69,7 +63,6 @@
                     "showText": false
                 },
                 {
-                    "category": 32,
                     "image": "assets/icons/categories/cate6.png",
                     "colors": [
                         "#12B58C",
@@ -79,7 +72,6 @@
                     "showText": false
                 },
                 {
-                    "category": 35,
                     "image": "assets/icons/categories/cate5.png",
                     "colors": [
                         "#43506A",
@@ -89,7 +81,6 @@
                     "showText": false
                 },
                 {
-                    "category": 62,
                     "image": "assets/icons/categories/cate4.png",
                     "colors": [
                         "#53688A",
@@ -99,7 +90,6 @@
                     "showText": false
                 },
                 {
-                    "category": 63,
                     "image": "assets/icons/categories/cate7.png",
                     "colors": [
                         "#3CC2BF",
@@ -109,7 +99,6 @@
                     "showText": false
                 },
                 {
-                    "category": 60,
                     "image": "assets/icons/categories/cate8.png",
                     "colors": [
                         "#3E6AB5",
@@ -137,19 +126,16 @@
                 {
                     "image": "https://i.imgur.com/GY3RSU7.jpg",
                     "padding": 0.6,
-                    "category": null,
                     "radius": 0.0
                 },
                 {
                     "image": "https://i.imgur.com/fDow8JC.jpeg",
                     "padding": 0.6,
-                    "category": null,
                     "radius": 0.0
                 },
                 {
                     "image": "https://i.imgur.com/H3B8wwy.jpg",
                     "padding": 0.6,
-                    "category": null,
                     "radius": 0.0
                 }
             ]
@@ -158,7 +144,6 @@
             "name": "Favourite collections",
             "layout": "saleOff",
             "isSnapping": true,
-            "category": 37,
             "showCountDown": true
         },
         {
@@ -168,8 +153,7 @@
         {
             "name": "New Collections",
             "layout": "staggered",
-            "isSnapping": false,
-            "category": 31
+            "isSnapping": false
         }
     ],
     "Setting": {
